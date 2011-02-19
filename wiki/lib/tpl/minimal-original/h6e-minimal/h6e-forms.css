@@ -1,0 +1,26 @@
+/* --------------------------------------------------------------
+   
+   H6e Minimal Forms
+   
+-------------------------------------------------------------- */
+
+/* Inputs
+-------------------------------------------------------------- */
+
+input[type="text"], input[type="password"], input.text, input.button, textarea {
+	padding:0.2em 0.5em;
+	margin:0.5em 0;
+	border:1px solid #bbb;
+	font-size:1.1em;
+}
+
+input[type="text"]:focus, input[type="password"]:focus, input.text:focus, textarea:focus {
+	border:1px solid #666;
+}
+
+input.button {
+	border-color:#4E5368;
+	background:#4E5368;
+	color:white;
+	border:0;
+}

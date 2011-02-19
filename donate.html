@@ -1,0 +1,427 @@
+<?php
+ require_once "template.php";
+ 
+ printHeader("torservers.net - Donate");
+?>
+
+<h1 id="donate">Donations</h1>
+
+<h2>Support us financially</h2>
+
+<p>
+ <b>All donations will be used in full to cover operational costs of Tor exit nodes. (100%)</b> If you donate more than $20 monthly, you are entitled to
+ get your very own Tor exit node: Contact us and we'll set up a node carrying a name of your own choice. 
+</p>
+<p>
+ Every donation will be listed on our site and accumulated until we can use them to purchase additional bandwidth or another node. 
+ Bandwidth stats are published (independently controlled by <a href="https://torstatus.blutmagie.de/" rel="external">TorStatus</a>), so you will be able to see what's happening with your money! 
+</p>
+<p>
+ We encourage everyone to <a href="contact.html#mailinglist">subscribe to our low volume mailing list</a> and follow us on <a href="http://www.twitter.com/torservers/">Twitter</a>.
+</p>
+
+<div class="info">
+ We offer a broad selection of ways to donate:
+ <dl>
+<!--  <a href="#moneybookers" onclick="openGo('moneybookers');return false;"><img src="images/moneybookers.gif" alt="Moneybookers"/></a>
+  <dt><a href="#moneybookers" onclick="openGo('moneybookers');return false;">Credit Card / Local Bank Transfer (Moneybookers)</a></dt>
+  <dd onclick="openGo('moneybookers');">This method is cheap and reliable and supports credit card, local bank transfer, Moneybookers e-wallet and a number of 
+  instant payment options such as Giropay, Sofortüberweisung, Przelewy24, POLi, iDEAL and more.</dd>  -->
+  <a href="#paypal" onclick="openGo('paypal'); return false;"><img src="images/paypal.jpg" alt="PayPal"/></a>
+  <dt><a href="#paypal" onclick="openGo('paypal'); return false;">PayPal</a></dt>
+  <dd onclick="openGo('paypal');">Paypal accepts all major credit cards and wire transfers in most countries. It also allows you to set up recurring donations.</dd>  
+  <a href="#swift" onclick="openGo('swift'); return false;"><img src="images/swift.jpg" alt="Bank transfer"/></a>
+  <dt><a href="#swift" onclick="openGo('swift'); return false;">SWIFT European Bank Transfer</a></dt>
+  <dd onclick="openGo('swift');">Bank transfers are free within Germany, and many other European banks offer cheap SWIFT transfers.
+  This is the recommended method for Europeans, especially for recurring donations.</dd>  
+  <a href="#anonymous" onclick="openGo('anonymous'); return false;"><img src="images/libertyreserve.gif" alt="Liberty Reserve"/><img src="images/bitcoin.png" alt="Bitcoin"/></a>
+  <dt><a href="#anonymous" onclick="openGo('anonymous'); return false;">Anonymous donations</a></dt>
+  <dd onclick="openGo('anonymous');">
+   <i>Liberty Reserve</i> is a Costa Rica based privacy aware payment processor.<br/>
+   <i>UKash</i> and <i>PaySafeCard</i> are prepaid voucher codes you can buy across Europe in various stores and gas stations.<br/>
+   <i>Bitcoin</i> is a "peer to peer cryptocurrency" - see <a href="http://www.bitcoin.org/">bitcoin.org</a><br/>
+   We also accept almost any <i>prepaid gift credit cards</i>.
+  </dd>  
+  <a href="#flattr" onclick="openGo('flattr'); return false;"><img src="images/flattr-small.png" alt="Flattr"/></a>
+  <dt><a href="#flattr" onclick="openGo('flattr'); return false;">Flattr</a></dt>
+  <dd onclick="openGo('flattr');">
+  Flattr is a convenient social one-click micropayment solution.</dd>  
+ </dl>
+
+</div>	
+<p>
+No matter which method you use, you can decide if you want your name, nickname and/or website URL listed on our page or stay anonymous. 
+If we don't hear differently from you, we will not publish your name!
+</p>
+
+<!--
+<div class="info" id="moneybookers">
+<h3>Donate via Moneybookers</h3>
+<p>Moneybookers accepts credit cards, direct bank transfer and many more, such as Giropay, Sofortueberweisung, Przelewy24, POLi, iDEAL and others. Please use Euro as currency if possible as this will make accounting easier for us; Moneybookers will automatically convert it to your local currency.</p>
+<div>
+<h4>Set up a recurring donation</h4>
+	<form target="_blank" name="moneybookersForm" method="post" action="https://www.moneybookers.com/app/payment.pl">
+	<input type="hidden" value="Thank you for your contribution! Every user of Tor needs you!" name="confirmation_note"/>
+	<input type="hidden" value="http://www.torservers.net/thankyou.html"/>
+	<input type="hidden" value="Return to Torservers.net" name="return_url_text"/>
+	<input type="hidden" value="WLT,NGP,IDL,PWY,PWY5,PWY6,PWY7,PWY14,PWY15,PWY37,PWY17,PWY18,PWY19,PWY20,PWY21,PWY22,PWY26,PWY25,PWY28,PWY32,PWY33,PWY36,ACC,VSA,MSC,VSD,VSE,AMX,DIN,JCB,MAE,LSR,SLO,GCB,SFT,DID,GIR,ENT,EBT,SO2,NPY,PLI,DNK,CSI,PSP,EPY,BWI" name="payment_methods"/>
+	<input type="hidden" value="donate@torservers.net" name="pay_to_email"/>
+	<input type="hidden" value="Torservers.net" name="recipient_description"/>
+	<input type="hidden" value="mailto:donate@torservers.net" name="status_url"/>
+	<input type="hidden" value="EN" name="language"/>
+	<input type="hidden" value="detail1_text" name="merchant_fields"/>
+	<input type="hidden" value="Info:" name="detail1_description"/>
+	<input type="hidden" value="Torservers Donation" name="detail1_description"/>
+	<label>Amount</label>
+	<input type="text" value="" name="rec_amount" id="mbs_amount" class="text" aria-required="true"/>	
+	<noscript>
+		<i>
+			You do not have Javascript, so please enter the
+			donation amount manually into the field above.
+		</i>
+	</noscript>
+	<label>Currency</label>
+	<select name="currency">
+		<option value="EUR">EUR</option>
+		<option value="USD">USD</option>
+		<option value="GBP">GBP</option>
+		<option value="HKD">HKD</option>
+		<option value="SGD">SGD</option>
+		<option value="JPY">JPY</option>
+		<option value="CAD">CAD</option>
+		<option value="AUD">AUD</option>
+		<option value="CHF">CHF</option>
+		<option value="DKK">DKK</option>
+		<option value="SEK">SEK</option>
+		<option value="NOK">NOK</option>
+		<option value="ILS">ILS</option>
+		<option value="MYR">MYR</option>
+		<option value="NZD">NZD</option>
+		<option value="ILS">TRY</option>
+		<option value="AED">AED</option>
+		<option value="MAD">MAD</option>
+		<option value="QAR">QAR</option>
+		<option value="SAR">SAR</option>
+		<option value="TWD">TWD</option>
+		<option value="THB">THB</option>
+		<option value="CZK">CZK</option>
+		<option value="HUF">HUF</option>
+		<option value="SKK">SKK</option>
+		<option value="EEK">EEK</option>
+		<option value="BGN">BGN</option>
+		<option value="PLN">PLN</option>
+		<option value="ISK">ISK</option>
+		<option value="INR">INR</option>
+		<option value="LVL">LVL</option>
+		<option value="KRW">KRW</option>
+		<option value="ZAR">ZAR</option>
+		<option value="RON">RON</option>
+		<option value="HRK">HRK</option>
+		<option value="LTL">LTL</option>
+		<option value="JOD">JOD</option>
+		<option value="OMR">OMR</option>
+		<option value="RSD">RSD</option>
+		<option value="TND">TND</option>
+	</select>
+	<br/>
+	<input type="radio" value="5" onclick="setAmount('mbs',5);" name="preselectAmount" id="pas5"/>
+	<label for="pas5">5.00</label>
+	<input type="radio" value="10" onclick="setAmount('mbs',10);" name="preselectAmount" id="pas10"/>
+	<label for="pas10">10.00</label>
+	<input type="radio" value="20" onclick="setAmount('mbs',20);" name="preselectAmount" id="pas20"/>
+	<label for="pas20">20.00</label>
+	<input type="radio" value="50" onclick="setAmount('mbs',50);" name="preselectAmount" id="pas50"/>
+	<label for="pas50">50.00</label>
+	<input type="radio" value="100" onclick="setAmount('mbs',100);" name="preselectAmount" id="pas100"/>
+	<label for="pas100">100.00</label>
+	<input type="radio" value="250" onclick="setAmount('mbs',250);" name="preselectAmount" id="pas250"/>
+	<label for="pas250">250.00</label>
+	<input type="radio" value="500" onclick="setAmount('mbs',500);" name="preselectAmount" id="pas500"/>
+	<label for="pas500">500.00</label>
+	<br/>
+	<input type="hidden" name="rec_period" value="1"/>
+	<input type="radio" name="rec_cycle" value="month" id="mb_cycle_d" checked="checked"/><label for="mb_cycle_d">monthly</label>
+	<input type="radio" name="rec_cycle" value="year" id="mb_cycle_y"/><label for="mb_cycle_y">yearly</label>
+	<p/>
+	<label>Text for public donation list (Real name, nickname, URL, ...)</label>
+	<input type="text" value="(anonymous)" name="detail1_text"/>
+	<p/>
+	<input type="submit" class="button" value="Subscribe"/>
+</form>
+</div>
+<p/>
+<div>
+<h4>One time donation</h4>
+	<form target="_blank" name="moneybookersForm" method="post" action="https://www.moneybookers.com/app/payment.pl">
+	<input type="hidden" value="Thank you for your contribution! Every user of Tor needs you!" name="confirmation_note"/>
+	<input type="hidden" value="http://www.torservers.net/thankyou.html"/>
+	<input type="hidden" value="Return to Torservers.net" name="return_url_text"/>
+	<input type="hidden" value="WLT,NGP,IDL,PWY,PWY5,PWY6,PWY7,PWY14,PWY15,PWY37,PWY17,PWY18,PWY19,PWY20,PWY21,PWY22,PWY26,PWY25,PWY28,PWY32,PWY33,PWY36,ACC,VSA,MSC,VSD,VSE,AMX,DIN,JCB,MAE,LSR,SLO,GCB,SFT,DID,GIR,ENT,EBT,SO2,NPY,PLI,DNK,CSI,PSP,EPY,BWI" name="payment_methods"/>
+	<input type="hidden" value="donate@torservers.net" name="pay_to_email"/>
+	<input type="hidden" value="Torservers.net" name="recipient_description"/>
+	<input type="hidden" value="mailto:donate@torservers.net" name="status_url"/>
+	<input type="hidden" value="EN" name="language"/>
+	<input type="hidden" value="detail1_text" name="merchant_fields"/>
+	<input type="hidden" value="Info:" name="detail1_description"/>
+	<input type="hidden" value="Torservers Donation" name="detail1_description"/>
+	<label>Amount</label>
+	<input type="text" value="" name="amount" id="mb_amount" class="text" aria-required="true"/>	
+	<noscript>
+		<i>
+			You do not have Javascript, so please enter the
+			donation amount manually into the field above.
+		</i>
+	</noscript>
+	<label>Currency</label>
+	<select name="currency">
+		<option value="EUR">EUR</option>
+		<option value="USD">USD</option>
+		<option value="GBP">GBP</option>
+		<option value="HKD">HKD</option>
+		<option value="SGD">SGD</option>
+		<option value="JPY">JPY</option>
+		<option value="CAD">CAD</option>
+		<option value="AUD">AUD</option>
+		<option value="CHF">CHF</option>
+		<option value="DKK">DKK</option>
+		<option value="SEK">SEK</option>
+		<option value="NOK">NOK</option>
+		<option value="ILS">ILS</option>
+		<option value="MYR">MYR</option>
+		<option value="NZD">NZD</option>
+		<option value="ILS">TRY</option>
+		<option value="AED">AED</option>
+		<option value="MAD">MAD</option>
+		<option value="QAR">QAR</option>
+		<option value="SAR">SAR</option>
+		<option value="TWD">TWD</option>
+		<option value="THB">THB</option>
+		<option value="CZK">CZK</option>
+		<option value="HUF">HUF</option>
+		<option value="SKK">SKK</option>
+		<option value="EEK">EEK</option>
+		<option value="BGN">BGN</option>
+		<option value="PLN">PLN</option>
+		<option value="ISK">ISK</option>
+		<option value="INR">INR</option>
+		<option value="LVL">LVL</option>
+		<option value="KRW">KRW</option>
+		<option value="ZAR">ZAR</option>
+		<option value="RON">RON</option>
+		<option value="HRK">HRK</option>
+		<option value="LTL">LTL</option>
+		<option value="JOD">JOD</option>
+		<option value="OMR">OMR</option>
+		<option value="RSD">RSD</option>
+		<option value="TND">TND</option>
+	</select>
+	<br />
+	<input type="radio" value="5" onclick="setAmount('mb',5);" name="preselectAmount" id="pa5"/>
+	<label for="pa10">5.00</label>
+	<input type="radio" value="10" onclick="setAmount('mb',10);" name="preselectAmount" id="pa10"/>
+	<label for="pa10">10.00</label>
+	<input type="radio" value="25" onclick="setAmount('mb',25);" name="preselectAmount" id="pa25"/>
+	<label for="pa25">25.00</label>
+	<input type="radio" value="50" onclick="setAmount('mb',50);" name="preselectAmount" id="pa50"/>
+	<label for="pa50">50.00</label>
+	<input type="radio" value="100" onclick="setAmount('mb',100);" name="preselectAmount" id="pa100"/>
+	<label for="pa100">100.00</label>
+	<input type="radio" value="250" onclick="setAmount('mb',250);" name="preselectAmount" id="pa250"/>
+	<label for="pa250">250.00</label>
+	<input type="radio" value="500" onclick="setAmount('mb',500);" name="preselectAmount" id="pa500"/>
+	<label for="pa500">500.00</label>
+	<p/>
+	<label>Text for public donation list (Real name, nickname, URL, ...)</label>
+	<input type="text" value="(anonymous)" name="detail1_text"/>
+	<p/>
+	<input type="submit" class="button" value="Proceed"/>
+</form>
+</div>
+</div>
+-->
+<div class="info" id="paypal">
+<h3>Donate via Paypal</h3>
+<p>For your convenience we provide a PayPal gateway for donations. If possible, use Euro as currency as this will
+make accounting easier for us; Paypal will automatically convert it to your local currency.</p>
+<div>
+<h4>Set up a recurring donation</h4>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target='_blank'>
+<input type="hidden" name="cmd" value="_xclick-subscriptions"/>
+<input type="hidden" name="business" value="donate@torservers.net"/>
+<!--<input type="hidden" name="lc" value="US">-->
+<input type="hidden" name="item_name" value="torservers.net"/>
+<input type="hidden" name="no_note" value="1"/>
+<input type="hidden" name="src" value="1"/>
+<input type="hidden" name="modify" value="1"/>
+<input type="hidden" name="t3" value="M"/>
+<input type="radio" name="a3" value="5" id="sub5"/><label for="sub5">5.00</label>
+<input type="radio" name="a3" value="10" id="sub10"/><label for="sub10">10.00</label>
+<input type="radio" name="a3" value="20" id="sub20"/><label for="sub20">20.00</label>
+<input type="radio" name="a3" value="50" id="sub50"/><label for="sub10">50.00</label>
+<input type="radio" name="a3" value="100" id="sub100"/><label for="sub100">100.00</label>
+<input type="radio" name="a3" value="250" id="sub250"/><label for="sub250">250.00</label>
+<input type="radio" name="a3" value="500" id="sub500"/><label for="sub500">500.00</label>
+<select name="currency_code">
+		<option value='EUR'>EUR</option>
+		<option value='USD'>USD</option>
+		<option value='GBP'>GBP</option>
+		<option value='CAD'>CAD</option>
+		<option value='AUD'>AUD</option>
+		<option value='NZD'>NZD</option>
+		<option value='SEK'>SEK</option>
+		<option value='CZK'>CZK</option>
+		<option value='PLN'>PLN</option>
+		<option value='DKK'>DKK</option>
+		<option value='NOK'>NOK</option>
+		<option value='MXN'>MXN</option>
+		<option value='CHF'>CHF</option>
+		<option value='HKD'>HKD</option>
+		<option value='HUF'>HUF</option>
+		<option value='ILS'>ILS</option>
+		<option value='BRL'>BRL</option>
+		<option value='JPY'>JPY</option>
+		<option value='MYR'>MYR</option>
+		<option value='PHP'>PHP</option>
+		<option value='SGD'>SGD</option>
+		<option value='TWD'>TWD</option>
+		<option value='THB'>THB</option>
+</select>
+<br/>
+<input type="radio" name="p3" value="1" id="sub_m" checked="checked"/><label for="sub_m">monthly</label>
+<input type="radio" name="p3" value="3" id="sub_q"/><label for="sub_q">quarterly</label>
+<input type="radio" name="p3" value="12" id="sub_y"/><label for="sub_y">yearly</label>
+<p/>
+<input type="submit" value="Subscribe" class="button" />
+</form>
+</div>
+<p/>
+<div>
+<h4>One Time Donation</h4>
+	<form action='https://www.paypal.com/cgi-bin/webscr' id='paypalForm' method='post' target='_blank'>
+	<input name='cmd' type='hidden' value='_donations' />
+	<input name='business' type='hidden' value='donate@torservers.net' />
+	<input name='item_name' type='hidden' value='Torservers.net one-time donation' />
+	<input type="hidden" name="no_shipping" value="1"/>
+	<input type="radio" name="amount" value="5" id="pp_5" /><label for="pp_5">5.00</label>
+	<input type="radio" name="amount" value="10" id="pp_10"/><label for="pp_10">10.00</label>
+	<input type="radio" name="amount" value="20" id="pp_20"/><label for="pp_20">20.00</label>
+	<input type="radio" name="amount" value="50" id="pp_50"/><label for="pp_50">50.00</label>
+	<input type="radio" name="amount" value="100" id="pp_100"/><label for="pp_100">100.00</label>
+	<input type="radio" name="amount" value="" id="pp_cust" checked="checked"/><label for="pp_cust">custom amount</label>
+	<select name="currency_code">
+		<option value='EUR'>EUR</option>
+		<option value='USD'>USD</option>
+		<option value='GBP'>GBP</option>
+		<option value='CAD'>CAD</option>
+		<option value='AUD'>AUD</option>
+		<option value='NZD'>NZD</option>
+		<option value='SEK'>SEK</option>
+		<option value='CZK'>CZK</option>
+		<option value='PLN'>PLN</option>
+		<option value='DKK'>DKK</option>
+		<option value='NOK'>NOK</option>
+		<option value='MXN'>MXN</option>
+		<option value='CHF'>CHF</option>
+		<option value='HKD'>HKD</option>
+		<option value='HUF'>HUF</option>
+		<option value='ILS'>ILS</option>
+		<option value='BRL'>BRL</option>
+		<option value='JPY'>JPY</option>
+		<option value='MYR'>MYR</option>
+		<option value='PHP'>PHP</option>
+		<option value='SGD'>SGD</option>
+		<option value='TWD'>TWD</option>
+		<option value='THB'>THB</option>
+	</select>
+	<p/>
+	<input type="submit" value="Proceed" class="button" />
+</form>
+</div>
+</div>
+
+<div class="info" id="swift">
+ <h3>SWIFT Wire Transfer (Überweisung)</h3>
+ Moritz Bartl<br/>
+ Deutsche Kreditbank Berlin<br/>
+ IBAN: DE94 1203 0000 1005 2283 56<br/> 
+ BIC: BYLADEM 1001<br/>
+ (Kontonummer 1005228356, BLZ 12030000) 
+</div>
+
+<div class="info" id="anonymous">
+ <h3>Liberty Reserve</h3>
+ <blockquote>
+  <a href="https://sci.libertyreserve.com/?lr_acc=U0606183&amp;lr_currency=LREUR" rel="external">torservers.net account</a> (Account ID: U0606183)
+ </blockquote>
+ <h3>UKash, PaySafeCard, Gift Prepaid CCs</h3>
+ <blockquote>
+  <a href="contact.html">Send us your code(s)</a> using GPG-encryped email, PrivacyBox or Jabber.
+ </blockquote>
+ <h3>Bitcoin</h3>
+ <blockquote>
+  Send your donation to <b>1DwzQHCo9ZZqwyrrzfq8cRB1wGv5YtuGJo</b> - thanks!
+ </blockquote>
+</div>
+
+<div class="info" id="flattr">
+ <h3>Flattr</h3>
+ <p>1. You can use Flattr to indicate that you like what we do, and "<a href="https://flattr.com/thing/5649/Torservers-net-Fund-Tor-exit-node-bandwidth">flattr us</a>" (10% fee).</p>
+ <p>2. Flattr now allows you to <a href="https://flattr.com/donation/give/to/mb">enter an amount to donate directly to our account</a> (0.20€ fee).</p>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+	x = ["swift", "anonymous", "paypal", "flattr"];
+	//hide all boxes by default - except if there is #go_ID provided in url
+	for( i in x ) {
+		if( document.location.href.match( new RegExp( "#" + x[i] ) ) != null )
+			continue;
+		document.getElementById( x[i] ).style['display'] = 'none';
+	}
+	
+	function setAmount(id, val) {
+		document.getElementById(id+'_amount').value = val+'.00';
+	}
+	function openGo( id ) {
+		x = ["swift", "anonymous", "paypal", "flattr"];
+		
+		for( i in x ) {
+			document.getElementById( x[i] ).style['display'] = 'none';
+		}
+		document.getElementById( id ).style['display'] = 'block';
+		d = document.location.href.replace( /\#.*$/, "" ) + "#"+id;
+		setTimeout( 'document.location.href="' + d + '"', 100 );
+	}
+//]]>
+</script>
+
+<h2>Support us technically</h2>
+<p>
+ We are always looking for Tor friendly ISPs. If you are an ISP and are able to provide even the smallest amount of bandwidth,
+ IP addresses for bridges or PI address space, please <a href="contact.html">get in contact</a>. 
+</p>
+<p>
+ You have experience with other ISPs, or know of a good deal for high bandwidth services? Let us know.
+</p>
+<h2>Join us</h2>
+<p>
+ <a href="contact.html">We can use your help</a> with various tasks, ranging from translations to designing a logo, contact organizations, etc.
+</p>
+
+<h1 id="donations">Contributions and Support Pledges</h1>
+<p>
+ We are working on a nice way of listing each single donation and our expenses. For now, this list shows all monthly contributions. Thanks!
+</p>
+
+<?php
+ include_once "donationstable.php";
+?>
+
+<?php
+ printFooter();
+?>
+
+<script type="text/javascript" src="antispam.js"></script>
+</body>
+</html>
+

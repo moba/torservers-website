@@ -1,0 +1,88 @@
+8
+
+dir
+1
+https://dokuwiki-highlightjs-plugin.googlecode.com/svn/trunk
+https://dokuwiki-highlightjs-plugin.googlecode.com/svn
+
+
+
+2009-11-19T22:37:52.833017Z
+1
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2c469130-d55c-11de-96bf-fbce4fd84a6e
+
+lang
+dir
+
+action.php
+file
+8
+
+
+
+2009-11-20T12:19:41.000000Z
+98e8f846dba7d47f6db951a639b9a7e5
+2009-11-20T12:18:59.541093Z
+8
+clemsy
+
+conf
+dir
+
+images
+dir
+
+highlight
+dir
+
+INFO.txt
+file
+2
+
+
+
+2009-11-19T22:49:51.000000Z
+6f595401dcf6eadd7f718a1fe75e60b4
+2009-11-19T22:56:06.005622Z
+2
+clemsy
+
+svn-commit.tmp
+file
+2
+
+
+
+2009-11-19T22:55:00.000000Z
+4ebecade3717e6442701ea09d9b03572
+2009-11-19T22:56:06.005622Z
+2
+clemsy
+
+renderer.php
+file
+3
+
+
+
+2009-11-20T09:31:02.000000Z
+660bf472045cd2e9519d648e34c19f49
+2009-11-20T09:30:05.684643Z
+3
+clemsy
+

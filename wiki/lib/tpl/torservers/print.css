@@ -1,0 +1,9 @@
+.toc, .footerinc, .header, .bar, .user, .user-info, .actions,
+div.notify,
+div.info,
+div.success,
+div.error,
+div.breadcrumbs,
+div.secedit {
+  display: none;
+}

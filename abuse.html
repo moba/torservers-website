@@ -1,0 +1,103 @@
+<?php
+ require_once "template.php";
+ 
+ printHeader("torservers.net - Abuse");
+?>
+
+<h1 id="abuse">Abuse</h1>
+
+<p>
+As can be seen from the <a href="http://www.torproject.org/overview.html" rel="external">Tor overview page</a>, 
+the Tor network is designed to make tracing of users impossible. 
+This is because the Tor network is a censorship resistance, privacy,
+and anonymity system used by whistle blowers, journalists, Chinese
+dissidents skirting the Great Firewall, abuse victims, stalker
+targets, the US military, and law enforcement, just to name a few.
+See the <a href="https://www.torproject.org/torusers.html" rel="external">Tor users page</a> for more info.
+</p>
+
+<p>
+Although Tor can be abused, it is not illegal to operate exit nodes. 
+In terms of applicable law, the best way to understand Tor is to consider it a
+network of routers operating as common carriers, much like the Internet
+backbone. However, unlike the Internet backbone routers, Tor routers
+explicitly do not contain identifiable routing information about the source of
+a packet.
+</p>
+
+<p>
+As such, there is little the operator of this router can do to help you track
+the connection further. This router maintains no logs of any of the Tor
+traffic, so there is little that can be done to trace either legitimate or
+illegitimate traffic (or to filter one from the other).  Attempts to
+seize any of our equipment will accomplish nothing.
+</p>
+
+<div class="info">
+As a German organization, we fully comply to <a href="http://dejure.org/gesetze/TMG/15.html">Telemediengesetz §15</a> (German telemedia law),
+which prohibits to log any personally identifiable data or usage data unless required for billing purposes. As we do not charge for using our services, we
+will never be able to keep any connection data.
+<p/>
+Tor routers and its ISPs in the USA are protected <a href="http://www.copyright.gov/title17/92chap5.html#512">by DMCA §512 (a) "safe harbor"</a>.<br/>
+If you are a representative of a company who feels that one of our routers is being
+used to violate the DMCA (or similar laws), please be aware that our machines does not host or
+contain any illegal content. Also be aware that network infrastructure
+maintainers are not liable for the type of content that passes over their
+equipment. In other words, you will have just as much luck
+sending a takedown notice to the Internet backbone providers. Please consult
+<a href="http://www.torproject.org/eff/tor-dmca-response.html">EFF's prepared
+response</a> for more information on this matter.
+</div>
+
+<p>Additionally, please consult the following documentation:</p>
+<ol>
+<li><a href="http://www.torproject.org/overview.html" rel="external">Tor Overview</a></li>
+<li><a href="http://www.torproject.org/faq-abuse.html" rel="external">Tor Abuse FAQ</a></li>
+<li><a href="http://www.torproject.org/eff/tor-legal-faq.html" rel="external">Tor Legal FAQ</a></li>
+</ol>
+
+<p>As a last resort, you have the option of blocking this IP and others on the Tor network
+if you so desire. The Tor project provides a <a href="http://www.torproject.org/cvs/tor/contrib/exitlist">python script</a> to
+extract all IP addresses of Tor exit nodes, and an official <a href="http://exitlist.torproject.org">DNSRBL</a> is also available to
+determine if a given IP is actually a Tor exit server. Please be considerate when using these options. 
+It would be very unfortunate to deny all Tor users access to your site indefinitely. You should at least provide read-only access,
+or a shared and limited 'anonymous user account'. Often it helps to block Tor users temporarily, and release the ban a few hours or 
+days later.</p>
+
+<p style="clear:both"/>
+
+<h2 id="contact">Contact</h2>
+
+<p>
+That being said, if you still have a complaint about one of our routers, you can
+email us at <span class="email">abuse at torservers dot net</span>. If
+complaints are related to a particular service that is being abused, we can
+remove that service from the node exit policy, which would prevent our own Tor
+routers from allowing that traffic to exit through it. We can only do this on a
+IP+destination port basis, however, and we have no influence on the hundreds of other
+Tor routers; the . Common SMTP and P2P ports are already blocked. We do not endorse illegal usage of Tor.
+</p>
+
+<blockquote>
+<p>
+Email: <span class="email">abuse at torservers dot net</span><br/>
+Emergency Phone: +49-(0)176-96 373 484
+</p>
+</blockquote>
+
+<h2 id="required">Required information</h2>
+
+<p>
+To help us process your inquiry, make sure to include offending IP address, the type 
+and address of your abused service, and appropriate contact information! 
+<b>Please understand that only inquiries to our abuse contact address can be processed efficiently.</b>
+</p>
+
+<?php
+ printFooter();
+?>
+
+<script type="text/javascript" src="antispam.js"></script>
+</body>
+</html>
+

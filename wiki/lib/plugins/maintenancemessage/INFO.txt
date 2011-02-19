@@ -1,0 +1,8 @@
+# General Plugin Info do not edit
+
+author Thomas Hawkins
+email  thawkins@mun.ca
+date   2009-08-17
+name   Maintenance Message Plugin v1.1
+desc   Displays a maintenance message on all pages to notify of upcoming downtime, can also disable editing for all users.
+url    http://www.dokuwiki.org/plugin:maintenancemessage

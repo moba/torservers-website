@@ -1,0 +1,19 @@
+div.maintenancemessage{
+	border: 2px dashed red;
+	background-color: #FFFFCC;
+	padding: 5px;
+	width: 100%;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+div.denyeditmessage{
+	border: 2px dashed red;
+	background-color: #FFFFCC;
+	padding: 5px;
+	width: 100%;
+	margin-top: 5px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+}

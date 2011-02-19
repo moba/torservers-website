@@ -1,0 +1,7 @@
+base	sortablejs
+author	Otto Vainio
+email plugins@valjakko.net
+date 2010-12-18
+name Sortable javascript
+desc Make table sortable
+url http://www.dokuwiki.org/plugin:sortablejs

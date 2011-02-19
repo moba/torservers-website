@@ -1,0 +1,77 @@
+<?php
+ $base = "http://www.torservers.net";
+ require_once "template.php";
+ 
+ printHeader("torservers.net - Anonymizer1 Tor Exit Router");
+?>
+
+<div>
+ <h2 class="right"><a href="http://www.torservers.net/abuse.html">Report abusive behavior</a></h2>
+ <h1 class="left">This is a Tor Exit Router</h1>
+</div>
+
+<p class="highlighted" style="clear:both">Most likely you are accessing this website because you had some issue with
+the traffic coming from this IP. This router is part of the <a href="http://torproject.org/">Tor Anonymous Network</a>, which is
+dedicated to providing people with anonymity who need it most: average
+computer users.</p>
+
+<p>
+
+While Tor is not designed for malicious computer users, it is inevitable that
+some may use the network for malicious ends. In the mind of this operator,
+the social need for easily accessible censorship-resistant anonymous
+communication trumps the risk. Tor sees use by many important segments of the
+population, including whistle blowers, journalists, Chinese dissidents
+skirting the Great Firewall and oppressive censorship, abuse victims,
+stalker targets, the US military, and law enforcement, just to name a few.
+</p>
+
+<p class="centered">
+ <a href="http://www.torproject.org/about/overview.html.en" rel="external">How Tor works</a>
+</p>
+
+<h1 id="more"><a href="http://www.torservers.net/abuse.html">Report abusive behavior</a></h1>
+
+<h2 id="who">Who runs this node?</h2>
+<p>
+We, torservers.net, offer Tor and <a href="http://www.i2p2.de/">I2P</a> node hosting.
+Individuals and organizations are invited to sponsor a node, or parts of one. For more information,
+visit our website at <a href="http://www.torservers.net/">torservers.net</a>.
+
+</p>
+
+<p>
+This specific node, <i>anonymizer1</i>, is operated by torservers.net on behalf
+of
+</p>
+<div class="profile">
+ <a href="http://www.torservers.net/"><img src="http://www.torservers.net/images/you.png" alt="You?" /></a>
+ <b>Moritz Bartl</b><br/>
+ <i>Hi! This is my node to show how a custom sponsored node can
+ look like. Don't hesitate to contact us for individual
+ styles. The node configuration (exit rules, name, contact etc) can be customised as well.</i>
+</div>
+
+<p style="clear:both">
+You can find detailed node statistics and information about its 
+configuration at <a href="https://torstatus.blutmagie.de/router_detail.php?FP=9b41b9b3d4661566c660096b715bc647fbd72a72">TorStatus</a>.
+</p>
+
+<h2 id="donate">Support pledges/Donators</h2>
+
+<p>
+We would not exist without the <a href="http://www.torservers.net/funding.html">support and donations</a> of privacy enthusiasts like you! Thanks!
+</p>
+
+<?php
+ include_once "donationstable.php";
+?>
+
+<?php
+ printFooter();
+?>
+
+<script type="text/javascript" src="antispam.js"></script>
+</body>
+</html>
+

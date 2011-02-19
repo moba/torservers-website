@@ -1,0 +1,101 @@
+====== Themen Gründungssitzung ======
+
+===== Ziele des Vereins =====
+
+    * verlässliche Partner für Tor Exits ausfindig mache; diese Informationen allen Interessenten zugänglich machen
+    * eigene Server betreiben
+    * Ansprechpartner für Medien und sonstige Interessenten bieten
+    * Tor Nutzergruppen/"Freunde" zusammenbringen (lokale Gruppen, globale Vernetzung) 
+
+===== Vorher =====
+
+    * Gründungspartner gewinnen. Das sollen einfach "Supporter" sein, die kommen mit in die Gründungspressemeldung
+    * Mal über die folgenden Punkte nachdenken/recherchieren
+    * wem langweilig ist: Antrag der Stiftung Bridge anschauen und schonmal ausfüllen; ähnliches suchen und sammeln (siehe auch Torservers.net Main Page)
+    * Satzungsentwurf ist unter Satzungsentwurf Verein 
+
+    * In Announcement auf DE/EN Ziele des Vereins erklären; eintragen auf http://bewegung.taz.de/ 
+
+===== Ablauf =====
+
+  * Einladung mit Tagesordnung und Satzungsentwurf 
+
+Nur der Vorstand muss zum Notar. NACH der offiziellen Gründung machen wir eine ausführliche erste Vollversammlung; das hat den Vorteil, dass man nicht danach noch zum Notar muss, und nicht alle Gründungsmitglieder anwesend sein müssen.
+
+**Ablauf**
+
+  * Uhrzeit erfassen!
+  * Teilnehmerliste eintragen (Vor-, Nachname, Unterschrift)
+  * Tagesordnung
+    * Wahl Versammlungsleiter
+    * Wahl Protokollführer
+    * Vereinsname - Torservers e.V. oder Zwiebelfreunde e.V. ? Oder ganz was anderes?
+    * Anerkennung der [[satzungsentwurf_verein|Satzung]] => von jedem unterschreiben
+    * Wahl des Vorstands => Wer wird Vorstand? Mo, Juris, ...?
+    * Wahl der Finanzprüfer?
+    * Mitgliedsbeitrag 5 Euro mind. monatlich? 
+
+  * Protokoll von allen Mitgliedern unterschrieben
+  * Kopie von Protokoll zusammen mit Einladung und unterschriebener Satzung (1x Original 1x Kopie) 
+
+===== Muster Gründungsprotokoll =====
+
+des Vereins ... am ... in ... um ... Uhr
+
+**Begrüßung**
+
+Es trafen sich die in Anlage 1 aufgeführten Personen, um den Verein Zwiebelfreunde zu gründen. ... begrüßte die Teilnehmer und eröffnete die Versammlung.
+
+**Wahl des Versammlungsleiters**
+
+Auf Vorschlag der Versammlung wurde ... zum Versammlungsleiter gewählt. Er nahm die Wahl an.
+
+**Wahl des Protokollführers**
+
+Auf Vorschlag der Versammlung wurde ... als Protokollführer vorgeschlagen und durch Handzeichen gewählt. Er nahm die Wahl an.
+
+**Beschlussfassung der Tagesordnung**
+
+Der Versammlungsleiter schlug die Tagesordnung vor, die sich aus der diesem Protokoll als Anlage 2 beiliegenden Einladung ergibt. Diese wurde von der Versammlung ohne Veränderungen beschlossen.
+
+**Beschlussfassung über die Vereinssatzung**
+
+Die Anwesenden erörterten den Satzungsentwurf. Dann stimmten alle Anwesenden über die in diesem Protokoll als Anlage 3 beiligenden Fassung der Satzung durch Handzeichen ab. Der Vereinsleiter stellte die Gründung des Vereins fest. Daraufhin unterzeichneten alle Gründungsmitglieder die Satzung und erklärten damit den Beitritt zum Verein.
+
+**Wahl des Vorstands**
+
+Es wurde um Vorschläge für die Vorstandsmitglieder gebeten. Folgende Mitglieder wurden vorgeschlagen und in geheimer Abstimmung gewählt:
+
+Vorsitzender: ... Stellvertretender Vorsitzender: ... Schatzmeister: ...
+
+Der Vorsitzende wurde mit .... Ja-Stimmen, .... Nein-Stimmen und .... Enthaltungen gewählt. Der stellvertretende Vorsitzende wurde mit .... Ja-Stimmen, .... Nein-Stimmen und .... Enthaltungen gewählt. Der Schatzmeister wurde mit .... Ja-Stimmen, .... Nein-Stimmen und .... Enthaltungen gewählt.
+
+**Wahl der Rechnungsprüfer**
+
+Die Versammlung schlug ... und ... als Rechnungsprüfer vor. Sie wurden per Handzeichen gewählt. Beide nahmen die Wahl an.
+
+**Beschlussfassung über die Mitgliedsbeiträge**
+
+Es wurden folgende Beiträge beschlossen: Regulärer Beitrag: 60 Euro Ermäßigter Beitrag: 25 Euro Der Beitrag wird einmal im Jahr erhoben.
+
+**Sonstiges**
+
+Der Vorstand wurde beauftragt, die Anmeldung beim Vereinsregister vorzunehmen sowie die Gemeinnützigkeit beim Finanzamt zu beantragen. Die Versammlung wurde um .... geschlossen.
+
+
+Unterschrift Versammlungsleiter Unterschrift 1. Vorsitzender Unterschrift Protokollführer
+
+===== Tops =====
+
+    * Konto -> [[http://www.gls.de/unsere-angebote/girokonto/ggeschaeftskonto.html|GLS]], 2€/monat, Eröffnung erst Anerkennung der Gemeinnützigkeit.
+    * VoIP (Fax, Telefon) -> sipgate, 4€/monat?
+    * Pressemeldung dt./engl + irgendwo sinnig online stellen
+    * Mitgliedsformular
+    * Online Mitgliederbereich
+    * Abuse Handling
+    * Transparenz/Dokumentation
+    * Sammeln aller TODOs/Ideen
+    * Mitglieder-Datenschutz (minimale Forderung von Klarnamen, Anonymität/Pseudonymität, so weit wie rechtlich möglich, im Verein)
+    * Dienste für Mitglieder (VPN, Emailaccount auf Crypto-Partition + IP-Filterung bei ausgehenden Mails, Webspace?)
+    * ...
+ 

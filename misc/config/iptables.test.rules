@@ -1,0 +1,46 @@
+*filter
+:INPUT DROP [0:0]
+:FORWARD DROP [0:0]
+:OUTPUT ACCEPT [0:0]
+
+##  Allows all loopback (lo0) traffic and drop all traffic to 127/8 that doesn't use lo0
+-A INPUT -i lo -j ACCEPT
+
+## allow incoming SSH, change port here:
+-A INPUT -p tcp --dport 23942 -j ACCEPT
+## only allow on one of our IPs:
+#-A INPUT -p tcp -d 123.456.789.01 --dport 23942 -j ACCEPT
+
+## DirPort, ORPort (optional: Webserver)
+-A INPUT -p tcp --dport 80 -j ACCEPT
+-A INPUT -p tcp --dport 443 -j ACCEPT
+
+## Allow several ICMP types 
+## http://www.oregontechsupport.com/articles/icmp.txt
+-A INPUT -p icmp -m icmp --icmp-type 3/1 -j ACCEPT
+-A INPUT -p icmp -m icmp --icmp-type 3/3 -j ACCEPT
+-A INPUT -p icmp -m icmp --icmp-type 3/4 -j ACCEPT
+-A INPUT -p icmp -m icmp --icmp-type 4 -j ACCEPT
+-A INPUT -p icmp --icmp-type 8 -m limit --limit 2/s -j ACCEPT
+-A INPUT -p icmp --icmp-type 8 -j DROP
+
+## Allow DNS server query replies
+-A INPUT -p udp --source-port 53 --destination-port 1024:65535 -j ACCEPT
+
+## Accept all established inbound connections
+## remove for high bandwidth systems
+-A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+
+## to avoid nf_conntrack on high bandwidth servers avoid nf_conntrack and use
+## stateless rules only; the following rule accepts ESTABLISHED,RELATED and drops other TCP.
+## problem: does not work for UDP/ICMP replies! not sure what to do...
+#-A INPUT -p tcp --syn -j DROP
+
+## to log denied packets uncomment this line
+#-A INPUT -m limit --limit 5/min -j LOG --log-prefix "iptables denied: " --log-level 7
+
+# drop everything else
+-P INPUT DROP
+-P FORWARD DROP
+
+COMMIT

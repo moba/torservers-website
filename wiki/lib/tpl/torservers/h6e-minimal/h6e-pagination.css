@@ -1,0 +1,19 @@
+.h6e-page {
+text-decoration:none;
+font-weight:bold;
+float:left;
+background:white;
+display:block;
+text-align:center;
+padding:0.5em;
+border:1px solid #999;
+line-height:1.2em;
+}
+
+.h6e-page.next {
+float:right;
+}
+
+.h6e-page:hover {
+background:#eee;
+}

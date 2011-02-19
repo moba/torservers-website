@@ -1,0 +1,218 @@
+/* Main */
+
+pre, code, tt {
+	font-family:monospace;
+}
+
+a.wikilink2, a.wikilink2:visited {
+	color:#CC7286;
+	border-bottom:1px dashed #CC7286;
+	text-decoration:none;
+}
+
+.h6e-entry-title a { text-decoration:none; }
+.h6e-entry-title a:hover { text-decoration:underline; }
+
+/* make the entry-content bigger */
+.h6e-post-content {
+	font-size:1.1em;
+	line-height:1.2em;
+}
+
+.h6e-page-title {
+	margin-bottom:1em;
+}
+
+.user-info {
+	text-align:right;
+	font-size:1.2em;
+	padding:0.5em 1em;
+	position:absolute;
+	top:0;
+	right:0;
+}
+
+.user-info a {
+	padding-left:0.25em;
+}
+
+.actions .a {
+	float:right;
+}
+
+.pageinfo {
+	color:#999;
+	padding-top:2em;
+}
+
+input[type="text"], input[type="password"], input.text, input.button, textarea {
+	font-size:12px;
+}
+
+thead th {
+	background-color:transparent;	
+}
+
+.do-page .h6e-entry-title, .do-page .breadcrumbs,
+.do-page .pageinfo, .do-page .actions-page { display:none; }
+
+legend { display:none; }
+
+div.info, div.error, div.success, div.notify {
+	padding:1em 3em;
+	background-position:0.5% 50% ;
+	font-size:1.1em;
+}
+
+div.notify { border-color:#FFD324; }
+
+/* DokuWiki */
+
+div.dokuwiki form, div.no {
+	display:inline;
+	margin:0;
+	padding:0;
+}
+
+.breadcrumbs {
+	margin-bottom:2em;	
+}
+
+.footnotes {
+	margin-top:2em;
+}
+
+.fn {
+	font-size:0.9em;
+}
+
+#toc__header {
+	margin-bottom:1em;
+}
+
+#wikipage {
+	min-height:10em;
+}
+
+.secedit {
+	margin-bottom:2em;
+}
+
+.secedit input.button {
+	font-size:0.65em;
+	float:right;
+}
+
+button.toolbutton {
+	border:1px solid #4E5368;
+	background:white;
+	margin-left:0;
+	margin-right:2px;
+}
+
+#wikipage h1 a,
+#wikipage h2 a,
+#wikipage h3 a,
+#wikipage h4 a,
+#wikipage h5 a,
+#wikipage h6 a {
+	background-color:inherit;
+	color:inherit;
+	text-decoration:none;
+}
+
+#wikipage h1 { font-size:1.6em; margin-bottom:1em; margin-top:1em; }
+#wikipage h2 { font-size:1.6em; margin-bottom:1em; margin-top:1em;  }
+
+#wiki__text {
+	width:98%;
+	font-size:1.1em;
+	font-family:Monospace;
+}
+
+#qsearch__in {
+	margin-right:0.5em;
+}
+
+#config__manager fieldset {
+	color:#4E5368;
+	font-size:0.9em;
+	border:1px solid #4E5368;
+	background-color:#F8F9FC;
+	margin:1em 0 2em;
+}
+
+#config__manager tr.default .input,
+#config__manager tr.default input,
+#config__manager tr.default textarea,
+#config__manager tr.default select,
+#config__manager .selectiondefault {
+	background:transparent;
+}
+
+#plugin__manager .plugins fieldset.protected {
+	background:transparent;	
+}
+
+#plugin__manager .plugins .button {
+	font-size:12px;
+}
+
+#user__manager .edit {
+	width:100px;
+}
+
+#user__manager tr.disabled {
+	background:none;
+}
+
+#user__manager input[type="image"] {
+	background:none;
+}
+
+/* Medias */
+
+div.dokuwiki div.img_big {
+	float:left;
+	margin-right:2em;
+}
+
+#media__manager #media__opts label {
+	padding-left:2px;
+	padding-top:2px;
+}
+
+#media__manager h2 {
+	padding:0.5em;
+	margin:0;
+}
+
+#media__manager #media__content div.upload {
+	font-size:inherit;
+	padding:0;
+	margin-bottom:0.5em;
+}
+
+/* Link */
+
+.h6e-main-content #link__wiz {
+	border-color:#4E5368;
+}
+
+.h6e-main-content #link__wiz_header {
+	background:none;
+}
+
+.h6e-main-content #link__wiz_result {
+	border-color:#BBBBBB;
+}
+
+/* Admin */
+
+.dokuwiki .h6e-main-content ul.admin_tasks li div.li {
+	font-weight:normal;
+}
+
+.dokuwiki .h6e-main-content ul.admin_tasks {
+	margin-left:0;
+}

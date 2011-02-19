@@ -1,0 +1,35 @@
+======  TODO  ======
+From top to bottom. If you want to help go ahead :-)
+
+    * better "donations" list (actual donations/costs)
+    * FAQ
+    * "about us" section: who we are/team, affiliated/supported organizations
+    * website translations
+    * design: other icons, onion graphic, logo? anyone?
+    * contact form with gpg encryption would be a nice thing to have 
+
+====== Organizations to contact about Partnership/Sponsoring ======
+
+  *  TODO: collect email addresses of each organization
+
+===== German =====
+
+  *  [[http://www.stiftung-bridge.de/|Stiftung Bridge]] - förderantrag bis april 2011 stellen
+  *  Journalismus: [[http://linke-medienakademie.de/|Linke Medienakademie]], [[http://www.reporter-ohne-grenzen.de/|Reporter ohne Grenzen]]
+    *  Verlagshäuser: [[http://www.heise-medien.de/|Heise]], [[http://www.spiegelgruppe.de/|Spiegel]]
+  *  Menschenrechte: [[http://www.transparency.de/|Transparency International]]
+  *  [[http://whistleblower-netzwerk.de/|Whistleblower-Netzwerk]]
+  *  IT: [[http://akzensur.de/|AK Zensur]], [[http://www.ccc.de/|CCC]], [[http://www.privacyfoundation.de/|GPF]], [[http://www.fiff.de|FIfF]], [[http://www.datenschutzverein.de|DVD]], [[https://mogis-verein.de/|Mogis]], [[http://www.gi-ev.de/|Gesellschaft für Informatik]], [[http://www.foebud.org/|FoeBuD]]?
+  *  Sonstige: [[http://www.anwaltverein.de/|Deutscher Anwaltverein]], [[http://www.attac.de|Attac]]
+
+==== Nach Anerkennung der Gemeinnützigkeit ====
+
+  *  [[http://www.spendenportal.de/|spendenportal.de]]
+
+===== English =====
+
+  *  [[http://www.ifj.org/|International Federation of Journalists]], [[http://www.projectcensored.org/|Project Censored]], [[http://www.rfa.org/english|Radio Free Asia]] / [[http://www.rfaunplugged.org/|RFA Unplugged]], [[http://www.humanrightsfirst.org/|Human Rights First]], [[http://globalvoicesonline.org/|Global Voices]], [[http://www.indexoncensorship.org/|Index on Censorship]]
+  *  [[http://www.accessnow.org/|Access Now]], [[http://opennet.net/|OpenNet Initiative]], [[http://www.hackersforcharity.org/|Hackers for Charity]], [[http://www.eff.org/|EFF]]
+  *  [[http://www.indymedia.org/|IndyMedia]]
+  *  [[http://english.aljazeera.net/|Al Jazeera]] ?
+  *  EDRI and members [[http://www.edri.org/about/members]]

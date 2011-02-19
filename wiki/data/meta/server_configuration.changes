@@ -1,0 +1,17 @@
+1297591750	127.0.0.1	C	server_configuration		started mediawiki migration	
+1297595007	127.0.0.1	E	server_configuration		merged debian-setup page with information on wiki index page	
+1297599039	127.0.0.1	E	server_configuration		moved section out of 'preparation'	
+1297609442	127.0.0.1	E	server_configuration		[SSH key authentication only] move non commands out of code blocks	
+1297609500	127.0.0.1	E	server_configuration		[iptables firewall] move non commands out of code blocks	
+1297610284	127.0.0.1	E	server_configuration		[High Bandwidth Tweaks (>100 mbps?)]  added reference to mike perry's thread on or-relays	
+1297623027	127.0.0.1	E	server_configuration	moritz	minor layout fixes	
+1297623111	127.0.0.1	E	server_configuration	moritz	monitoring: snmp, opennhs	
+1297626073	127.0.0.1	E	server_configuration	moritz	removed section	
+1297626220	127.0.0.1	E	server_configuration	moritz	Tor setup	
+1297626269	127.0.0.1	e	server_configuration	moritz	comments using #	
+1297626360	127.0.0.1	E	server_configuration	moritz	comments using #	
+1297626417	127.0.0.1	E	server_configuration	moritz	small fixes	
+1297626506	127.0.0.1	e	server_configuration	moritz	small layout fixes	
+1297626582	127.0.0.1	E	server_configuration	moritz	[a few defaults] 	
+1297626610	127.0.0.1	e	server_configuration	moritz	comments using #	
+1297959228	127.0.0.1	e	server_configuration	moritz	lenny to squeeze	

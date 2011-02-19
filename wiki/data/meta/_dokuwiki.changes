@@ -1,0 +1,115 @@
+1297568516	92.206.100.41	C	start		created	
+1297570546	92.206.100.41	C	main_page		created	
+1297570846	92.206.100.41	E	main_page	moritz	[Discussion] 	
+1297571530	92.206.100.41	E	main_page	moritz		
+1297572052	92.206.100.41	C	wiki_playground	moritz	created	
+1297572196	92.206.100.41	e	wiki_playground	moritz	[Doodling] 	
+1297572881	92.206.100.41	E	main_page	moritz		
+1297574062	92.206.100.41	C	services.html	moritz	created	
+1297576154	127.0.0.1	D	main_page	moritz	removed	
+1297576173	127.0.0.1	D	services.html	moritz	removed	
+1297576189	127.0.0.1	D	wiki_playground	moritz	removed	
+1297576201	127.0.0.1	D	start	moritz	removed	
+1297591230	127.0.0.1	C	index		created	
+1297591735	127.0.0.1	C	abuse_handling		started mediawiki migration	
+1297591750	127.0.0.1	C	server_configuration		started mediawiki migration	
+1297592774	127.0.0.1	C	hoster_list		mediawiki migration 	
+1297593585	127.0.0.1	E	abuse_handling		fixed migration error	
+1297593965	127.0.0.1	E	abuse_handling		fixed migration error	
+1297595007	127.0.0.1	E	server_configuration		merged debian-setup page with information on wiki index page	
+1297595093	127.0.0.1	E	abuse_handling		removed old 100TB IP range from text	
+1297595221	127.0.0.1	C	faq		mediawiki migration	
+1297595282	127.0.0.1	C	todo		mediawiki migration	
+1297596255	127.0.0.1	E	todo		mediawiki migration: moved 'Organizations to contact about Partnership/Sponsoring' from main page to 'todo'	
+1297597887	127.0.0.1	E	hoster_list		mediawiki migration: moved 'Provider Independent IP Space' from index to subpage	
+1297599039	127.0.0.1	E	server_configuration		moved section out of 'preparation'	
+1297600892	127.0.0.1	E	hoster_list		FDCservers: added CZ + 300$ 1GBit unmetered offer	
+1297604619	127.0.0.1	E	hoster_list		made new sections: 'too expensive', 'no custom whois' 	
+1297605603	127.0.0.1	E	hoster_list		fixed wikipedia link	
+1297606299	127.0.0.1	E	hoster_list		fix typo	
+1297606813	127.0.0.1	E	hoster_list		;)	
+1297609442	127.0.0.1	E	server_configuration		[SSH key authentication only] move non commands out of code blocks	
+1297609500	127.0.0.1	E	server_configuration		[iptables firewall] move non commands out of code blocks	
+1297610284	127.0.0.1	E	server_configuration		[High Bandwidth Tweaks (>100 mbps?)]  added reference to mike perry's thread on or-relays	
+1297614323	127.0.0.1	E	abuse_handling		hopefully fixed toc	
+1297616674	127.0.0.1	E	abuse_handling	moritz	email spam	
+1297616819	127.0.0.1	E	abuse_handling	moritz	[Reply to Abuse (general)] 	
+1297616940	127.0.0.1	e	abuse_handling	moritz	[Reply to Abuse (general)] 	
+1297617500	127.0.0.1	E	todo	moritz		
+1297622321	127.0.0.1	E	todo	moritz		
+1297622474	127.0.0.1	e	todo	moritz		
+1297623027	127.0.0.1	E	server_configuration	moritz	minor layout fixes	
+1297623111	127.0.0.1	E	server_configuration	moritz	monitoring: snmp, opennhs	
+1297624497	127.0.0.1	E	index	moritz		
+1297624725	127.0.0.1	E	index	moritz		
+1297626073	127.0.0.1	E	server_configuration	moritz	removed section	
+1297626220	127.0.0.1	E	server_configuration	moritz	Tor setup	
+1297626269	127.0.0.1	e	server_configuration	moritz	comments using #	
+1297626360	127.0.0.1	E	server_configuration	moritz	comments using #	
+1297626417	127.0.0.1	E	server_configuration	moritz	small fixes	
+1297626506	127.0.0.1	e	server_configuration	moritz	small layout fixes	
+1297626582	127.0.0.1	E	server_configuration	moritz	[a few defaults] 	
+1297626610	127.0.0.1	e	server_configuration	moritz	comments using #	
+1297638469	127.0.0.1	E	hoster_list		added section 'contacting'	
+1297638833	127.0.0.1	E	hoster_list		remove NOTOC	
+1297642725	127.0.0.1	E	index	juris		
+1297643578	127.0.0.1	C	vereinsorganisation	juris	created	
+1297643646	127.0.0.1	E	vereinsorganisation	juris		
+1297645269	127.0.0.1	E	hoster_list	moritz	email templates	
+1297645302	127.0.0.1	C	satzungsentwurf_verein	juris	created	
+1297648908	127.0.0.1	e	index	moritz	heading	
+1297689414	127.0.0.1	E	hoster_list		[section 7] 	
+1297689850	127.0.0.1	E	hoster_list		[section 7] 	
+1297693752	127.0.0.1	E	hoster_list		[section 7] 	
+1297696642	127.0.0.1	E	hoster_list	moritz	arin/ripe documentation	
+1297696694	127.0.0.1	e	hoster_list	moritz	[Inquiry] 	
+1297713797	127.0.0.1	E	vereinsorganisation			
+1297713949	127.0.0.1	E	hoster_list		moved email templates to the bottom	
+1297716758	127.0.0.1	C	themen_gruendungssitzung		created	
+1297720173	127.0.0.1	E	hoster_list		[section 4] 	
+1297720231	127.0.0.1	E	hoster_list		[section 4] 	
+1297720546	127.0.0.1	E	hoster_list		[Hosters] 	
+1297720568	127.0.0.1	E	hoster_list		[Hosters] 	
+1297720593	127.0.0.1	E	hoster_list		[Hosters] 	
+1297720611	127.0.0.1	E	hoster_list		[Hosters] 	
+1297720645	127.0.0.1	E	hoster_list		[Hosters] 	
+1297720781	127.0.0.1	E	hoster_list		[Hosters] 	
+1297720816	127.0.0.1	E	hoster_list		[Hosters] 	
+1297723951	127.0.0.1	E	hoster_list		[section 6] 	
+1297729797	127.0.0.1	E	index	moritz	tor in media	
+1297730264	127.0.0.1	C	media	moritz	created	
+1297730303	127.0.0.1	E	media	moritz		
+1297730456	127.0.0.1	E	media	moritz		
+1297730929	127.0.0.1	E	media	moritz		
+1297731166	127.0.0.1	E	media	moritz		
+1297731336	127.0.0.1	E	index	moritz	[section 1] 	
+1297731716	127.0.0.1	E	media	moritz	moblog tormap	
+1297731766	127.0.0.1	e	media	moritz		
+1297755653	127.0.0.1	E	hoster_list		added info from http://www.freelists.org/post/torservers/UnmeteredServers-Fwd-Re-Tor-Server-Custom-Build	
+1297756207	127.0.0.1	E	hoster_list		added reference link to original email (source)	
+1297800208	127.0.0.1	E	hoster_list		[section 6] 	
+1297822602	127.0.0.1	E	index	moritz	[section 2] 	
+1297822623	127.0.0.1	e	index	moritz	[Information Material on Tor] 	
+1297823198	127.0.0.1	C	intro	moritz	created	
+1297825120	127.0.0.1	e	intro	moritz	[section 2] 	
+1297825133	127.0.0.1	e	intro	moritz		
+1297825293	127.0.0.1	e	intro	moritz		
+1297858073	127.0.0.1	E	hoster_list		sorted to reflect likeliness of renting a server there	
+1297870124	127.0.0.1	C	guides		created	
+1297870350	127.0.0.1	E	guides	moritz		
+1297870385	127.0.0.1	e	index	moritz	[section 2] 	
+1297877925	127.0.0.1	E	media	moritz	NOS	
+1297915146	127.0.0.1	E	faq	moritz		
+1297956203	127.0.0.1	E	todo		[section 3]  fixed typo	
+1297959228	127.0.0.1	e	server_configuration	moritz	lenny to squeeze	
+1297960103	127.0.0.1	E	themen_gruendungssitzung		[section 6] 	
+1297960274	127.0.0.1	E	themen_gruendungssitzung		[Tops] 	
+1297961665	127.0.0.1	E	themen_gruendungssitzung		[section 6] 	
+1297974805	127.0.0.1	e	media	moritz	NOS Video	
+1297974896	127.0.0.1	e	media	moritz	reordered NOS video	
+1297979027	127.0.0.1	E	themen_gruendungssitzung	moritz	dienste für mitglieder	
+1297985037	127.0.0.1	E	vereinsorganisation			
+1297985703	127.0.0.1	C	pressemitteilung		created	
+1298024066	127.0.0.1	E	pressemitteilung			
+1298066184	127.0.0.1	E	pressemitteilung			
+1298069545	127.0.0.1	E	pressemitteilung		[section 1] 	

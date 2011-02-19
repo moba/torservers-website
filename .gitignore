@@ -1,0 +1,7 @@
+# dokuwiki
+wiki/conf/users.auth.php
+wiki/data/cache/*
+wiki/data/locks/*
+wiki/data/tmp/*
+
+

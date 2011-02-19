@@ -1,0 +1,33 @@
+Nickname torserversNet3
+ORPort 443
+DirPort 80
+Address 174.36.199.200
+OutboundBindAddress 174.36.199.200
+ORListenAddress 174.36.199.200:443
+
+DataDirectory /var/lib/tor
+PidFile /var/run/tor/tor.pid
+Log notice file /var/log/tor/notices.log
+
+RelayBandwidthRate 15 MBytes 
+RelayBandwidthBurst 16 MBytes
+
+MyFamily $17AA942E9EB1C631450C1BEF77C158168054881E,$C67622A01D8D3B742A14506CD446342993C20FE3,$9B41B9B3D4661566C660096B715BC647FBD72A72,$FEE83A80C09A710C5415F28A9658D5D459D8B45D,$4186509C707E96B77B51A76F8294D7E22FF52C61
+
+ExitPolicy accept *:20-22, accept *:43, accept *:53, accept *:79-81, accept *:88, accept *:110, accept *:143, accept *:194, accept *:443, accept *:464-465, accept *:543-544, accept *:563, accept *:587, accept *:706, accept *:749, accept *:873, accept *:902-904, accept *:981, accept *:989-993, accept *:995, accept *:1194, accept *:1220, accept *:1500, accept *:1723, accept *:1863, accept *:2082-2083, accept *:2086-2087, accept *:2095-2096, accept *:3389, accept *:4321, accept *:4643, accept *:5050, accept *:5190, accept *:5222-5223, accept *:5900, accept *:6666-6667, accept *:6679, accept *:6697, accept *:8000, accept *:8008, accept *:8080, accept *:8087-8088, accept *:8333, accept *:8443, accept *:8888, accept *:9418, accept *:9999, accept *:10000, accept *:19638, reject *:*
+
+NumCPUs 2 
+ContactInfo Torservers.net <support .AT. torservers .DOT. net>
+
+CellStatistics 1
+DirReqStatistics 1
+EntryStatistics 1
+ExitPortStatistics 1
+ExtraInfoStatistics 1
+
+HidServDirectoryV2 1
+SocksPort 0
+SocksPolicy reject *
+
+RunAsDaemon 1
+RefuseUnknownExits 1

@@ -1,0 +1,372 @@
+body
+{
+ color:#000000;
+ padding: 20px;
+ font-family: verdana,helvetica,arial,sans-serif;
+ font-size:0.8em;
+ text-align: center; /* weird I8 centering bug, only centers container if text-align is center here... */
+ background: url("./images/background.jpg") no-repeat fixed 0 0 #EDECE9;
+}
+
+#container {
+ max-width: 1024px;
+ width: expression((document.body.clientWidth > 1024)? "1024px" : "auto");*/ ) + "px");
+ margin: 0 auto;
+ text-align: justify;
+}
+
+#content {
+ background-color: #ffffff;
+ border: 1px solid #000000;
+}
+
+#body {
+ padding: 1em 2em;
+/* background: url("./images/icicles.png") repeat-x;*/
+}
+
+a[rel~="external"] {
+ background:url("./images/external_link.png") 99% 40% no-repeat; 
+ padding-right: 1.5em;
+ text-decoration: none;
+}
+
+a {
+ color:#3300FF;
+}
+
+img {
+ border: 0px;
+ padding: 10px;
+ max-width: 100%; /* helps on low resoltions */
+}
+
+.centered {
+ text-align: center; 
+}
+
+.highlighted {
+ font-weight: bold;
+/* font-size:1.1em; */
+}
+
+h1 {
+ font-size:2em;
+}
+h2 {
+ font-size:1.1em;
+ border-bottom: 1px solid #AAAAAA; 
+}
+
+.navbar {
+ font-family: courier new;
+ font-size: 0.9em;
+ background-color: #000000;
+ color: #99CCFF;
+ padding: 2px 0px 2px 0px;
+}
+
+.navbar ul {
+ list-style: none; 
+ display: block;
+ float:right;
+ text-align:right;
+ margin: 0 auto;
+ padding: 0;
+}
+
+.navbar li {
+ float:left;
+ margin: 0;
+}
+
+.navbar a {
+ color: #ffffff;
+ text-decoration:none;
+ padding: 4px 16px;
+ text-decoration: none;
+/* border: 1px solid #999;*/
+}
+
+a:hover {
+ text-decoration:underline;
+}
+
+/*
+.navbar #home {
+ background:url("./favicon.ico") 0% 35% no-repeat; 
+ padding-left: 20px;
+ margin-left: 5px;
+}
+*/
+table {
+ /*border:1px solid #000;*/
+ border:0;
+ border-collapse:collapse;
+ font-size:0.9em;
+ text-align:left;
+ table-layout:fixed;
+}
+
+tr:nth-child(odd)    { background-color:#eee; }
+tr:nth-child(even)    { background-color:#fff; }
+td, th {
+ padding: 5px;
+ text-overflow:ellipsis;
+ overflow:hidden;
+}
+thead th{
+ text-overflow:ellipsis;
+ background:#9CC5F3; 
+ overflow:hidden;
+ text-align:left;
+}
+/*
+tbody td{
+	text-align:left;
+	background:#69c;
+}*/
+
+.right  {
+ float:right;
+}
+
+.left {
+ float:left;
+}
+
+li {
+ margin-bottom: 4px;
+}
+
+div .box {
+ margin: 2em;
+}
+
+.fineprint {
+ font-size:0.7em;
+ text-align:right;
+}
+
+#banner {
+ float:right;
+}
+#banner img {
+ padding:0;
+ padding-left:5px;
+ height:35px;
+}
+
+#thermometer {
+ float: right;
+ text-align: right;
+ padding: 0 0 20px 20px;
+}
+
+#thermometer-left {
+ float: left;
+ text-align: left;
+ padding: 0 20px;
+}
+
+#footer {
+ float: left;
+ padding: 0 3px 3px 0;
+ margin: 0;
+}
+
+#footer iframe {
+ border:none; 
+ overflow:hidden; 
+ height:21px; 
+/* background-color:#f1f1f1;*/
+}
+
+#footer img {
+ padding: 0;
+ margin: 0;
+}
+
+.donatebutton {
+ margin: 0 auto;
+ float:right;
+}
+
+.info {
+ margin: 0 20px 10px 20px;
+ padding: 10px;
+ color:#000000;
+ background-color:#E7EAEC;
+ border: 1px solid #9CC5F3;
+}
+
+dt {
+ margin-top: 0.5em;
+}
+
+dl img {
+ clear: both;
+ float:right;
+ width: 70px;
+}
+
+h3 {
+ font-size: 1em;
+ margin-top: 0px;
+}
+
+.info a {
+ color:#000000;
+ font-weight:bold;
+}
+.info ul {
+ margin:0; 
+ padding:0;
+ list-style: none;  
+}
+
+.de {
+ background:url("./images/flags/de.png") 0.5em 40% no-repeat; 
+ padding-left: 3em; 
+}
+
+.au {
+ background:url("./images/flags/au.png") 0.5em 40% no-repeat; 
+ padding-left: 3em; 
+}
+
+.us {
+ background:url("./images/flags/us.png") 0.5em 40% no-repeat; 
+ padding-left: 3em; 
+}
+
+.nl {
+ background:url("./images/flags/nl.png") 0.5em 40% no-repeat; 
+ padding-left: 3em; 
+}
+
+.ch {
+ background:url("./images/flags/ch.png") 0.5em 40% no-repeat; 
+ padding-left: 3em; 
+}
+
+iframe {
+ margin-top: 5px;
+ padding: 0;
+ border: 0;
+ margin: 0;
+}
+
+#team {
+ padding-left: 5em;
+ padding-bottom: 2em;
+ float:left;
+ width: 900px;
+}
+
+.teammember {
+/* vertical-align: center;*/
+ clear:both; 
+}
+
+.teammember h2 {
+ padding-top: 1.1em;
+}
+
+.teammember img {
+ float:left;
+ padding-right: 25px;
+}
+
+h1#contact {
+ background:url(images/icons/mail_32.png) no-repeat;
+ text-indent: 40px;
+}
+
+h1#donate {
+ background:url(images/icons/donate_32.png) no-repeat;
+ text-indent: 40px;
+}
+
+h1#mailinglist {
+ margin-top: 50px;
+ background:url(images/icons/comment_32.png) no-repeat;
+ text-indent: 40px;
+}
+
+h1#imprint {
+ margin-top: 50px;
+ background:url(images/icons/imprint_32.png) no-repeat;
+ text-indent: 40px;
+}
+
+h1#goal {
+ background:url(images/icons/group_full_32.png) no-repeat;
+ text-indent: 40px;
+}
+
+h1#abuse {
+ background:url(images/icons/cigarette_32.png) no-repeat;
+ text-indent: 40px;
+}
+
+h1#who {
+ background:url(images/icons/avatar_32.png) no-repeat;
+ text-indent: 40px;
+}
+
+h1#what {
+ background:url(images/icons/internet_32.png) no-repeat;
+ text-indent: 40px;
+}
+
+h1#more {
+ background:url(images/icons/arrow_full_right_32.png) no-repeat;
+ text-indent: 40px;
+}
+
+h2#contact {
+ background:url(images/icons/mail_16.png) no-repeat;
+ text-indent: 20px;
+}
+
+h2#donate {
+ background:url(images/icons/donate_16.png) no-repeat;
+ text-indent: 20px;
+}
+
+h2#required, h2#you {
+ background:url(images/icons/arrow_full_right_16.png) no-repeat;
+ text-indent: 20px;
+}
+
+h2#who {
+ background:url(images/icons/avatar_16.png) no-repeat;
+ text-indent: 20px;
+}
+
+h2#what {
+ background:url(images/icons/internet_16.png) no-repeat;
+ text-indent: 20px;
+}
+
+h2#why {
+ background:url(images/icons/server_16.png) no-repeat;
+ text-indent: 20px;
+}
+
+h2#info {
+ background:url(images/icons/info_16.png) no-repeat;
+ text-indent: 20px;
+}
+
+.info div {
+ background-color:#ffffff;
+ padding: 5px;
+}
+
+.info div h4 {
+ background-color:#eee;
+ padding:5px;
+ margin:-5px -5px 5px -5px;
+}

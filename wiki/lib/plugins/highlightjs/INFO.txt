@@ -1,0 +1,8 @@
+# General Plugin Info do not edit
+
+author Clément Chartier
+email  clemsy@gmail.com
+date   2009-11-20
+name   HighlightJs (highlight.js version 5.71) Plugin
+desc   Plugin providing syntax highlighting with highlight.js version 5.71 (http://softwaremaniacs.org/soft/highlight/en/).
+url    http://code.google.com/p/dokuwiki-highlightjs-plugin/

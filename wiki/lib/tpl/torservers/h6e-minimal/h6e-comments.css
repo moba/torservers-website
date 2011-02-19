@@ -1,0 +1,42 @@
+/* --------------------------------------------------------------
+   
+   H6e Minimal Comments
+   
+-------------------------------------------------------------- */
+
+/* Sub Sections
+-------------------------------------------------------------- */
+
+.h6e-comment-section {
+	margin-top:2em;
+	padding:2em 0 0;
+	background:url(img/h-spacer.gif) top left repeat-x;	
+}
+
+.h6e-comment-section-title {
+	font-size:1.8em;
+	letter-spacing:-0.075em;
+	font-weight:normal;
+	color:#777b88;
+}
+
+.h6e-comment-section textarea {
+	width:95%;
+}
+
+.h6e-comment-list dt {
+	font-family:Tahoma, Arial, sans-serif;
+	font-weight:normal;
+	padding-left:8px;
+	background:url(img/post-info.gif) left center no-repeat;
+	margin:1em 0 0.5em;
+}
+
+.h6e-comment-list dt .avatar {
+	vertical-align:-20%;
+}
+
+.h6e-comment-list dd {
+	margin:2em 0 1em 2.5em;
+	margin-top:2em;
+}

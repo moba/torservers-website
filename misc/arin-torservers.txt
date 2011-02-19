@@ -1,0 +1,74 @@
+Template: ARIN-REASSIGN-DETAILED-4.2
+**  As of October 2007
+**  Detailed instructions are located below the template.
+
+01. Downstream Org ID: TORSE
+** IF DOWNSTREAM ORG ID IS PROVIDED SKIP TO LINE 20.
+
+02. Org Name:
+03. Org Address:
+03. Org Address:
+04. Org City:
+05. Org State/Province:
+06. Org Postal Code:
+07. Org Country Code:
+08. Org POC Handle:
+** IF POC HANDLE IS PROVIDED SKIP TO LINE 20.
+
+09. Org POC Contact Type (P or R): 
+10. Org POC Last Name or Role Account:
+11. Org POC First Name:
+12. Org POC Company Name:
+13. Org POC Address:
+13. Org POC Address:
+14. Org POC City:
+15. Org POC State/Province:
+16. Org POC Postal Code:
+17. Org POC Country Code:
+18. Org POC Office Phone Number:
+19. Org POC E-mail Address:
+
+** NETWORK SECTION
+20. IP Address and Prefix or Range: 
+21. Network Name:
+22. Origin AS:
+23. Hostname of DNS Reverse Mapping Nameserver:
+23. Hostname of DNS Reverse Mapping Nameserver:
+
+** OPTIONAL RESOURCE CONTACT SECTION
+24. Net POC Type (T, AB, or N): AB
+
+25. Net POC Handle: TAD54-ARIN
+
+24. Net POC Type (T, AB, or N): T, N
+
+25. Net POC Handle: TORSE-ARIN
+
+** IF POC HANDLE IS PROVIDED SKIP TO LINE 37.
+
+26. Net POC Contact Type (P or R):
+27. Net POC Last Name or Role Account:
+28. Net POC First Name:
+29. Net POC Company Name:
+30. Net POC Address:
+30. Net POC Address:
+31. Net POC City:
+32. Net POC State/Province:
+33. Net POC Postal Code:
+34. Net POC Country Code:
+35. Net POC Office Phone Number:
+36. Net POC E-mail Address:
+
+** OTHER OPTIONAL FIELDS
+37. Public Comments: -------------------------------------------
+37. Public Comments: This network is used for research in
+37. Public Comments: anonymization and censorship circumvention
+37. Public Comments: and provides Tor exit nodes to end users.
+37. Public Comments: 
+37. Public Comments: http://www.torservers.net/abuse.html
+37. Public Comments: Direct abuse issues to abuse@torservers.net
+37. Public Comments: -------------------------------------------
+38. Additional Information:
+
+END OF TEMPLATE
+

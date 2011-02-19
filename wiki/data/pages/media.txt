@@ -1,0 +1,29 @@
+====== Tor in the Media ======
+
+  * See also: http://www.torproject.org/press/inthemedia.html.en
+  * General Sources: [[http://www.twitter.com/torservers|@torservers]] [[http://www.twitter.com/torproject|@torproject]] [[http://www.twitter.com/ioerror|@ioerror]] [[http://twitter.com/torservers/torrific|@torservers/torrific]]
+
+===== Torservers in the Media =====
+
+<sortable>
+^Date^Source^Title^Language^Type^
+|2001.02.07|Carta|[[http://carta.info/37973/wie-umgeht-man-zensur-moritz-bartl-momentan-findet-ein-wettruesten-statt/|Wie umgeht man Zensur? Moritz Bartl: "Momentan findet ein Wettrüsten statt"]]|de|text|
+</sortable>
+
+===== Tor in the Media =====
+
+Please add!
+
+<sortable>
+^Date^Source^Title^Language^Type^
+|2011.02.16|NOS Nieuws|[[http://nos.nl/video/219420-alex-le-heux-legt-uit-hoe-tor-werkt.html|Alex le Heux legt uit hoe Tor werkt]]|nl|video|
+|2011.02.16|NOS Nieuws|[[http://nos.nl/artikel/219423-tor-digitale-solidariteit-met-middenoosten.html|Tor: digitale solidariteit met Midden-Oosten]]|nl|text|
+|2011.02.16|NOS Nieuws|[[http://nos.nl/video/219477-egyptenaren-konden-veilig-internetten-via-tor.html|Egyptenaren konden veilig internetten via Tor]]|nl|video|
+|2011.02.14|Beyond Clicktivism|[[http://beyondclicktivism.com/2011/02/14/online-idiocy-kills/|Online Idiocy Kills]]|en|text|
+|2011.02.13|Latent Existence|[[http://www.latentexistence.me.uk/the-internet-oppressive-regimes-and-tor/|The internet, oppressive regimes, and Tor]]|en|text|
+|2011.02.13|25bahman|[[http://25bahman.com/internet-security-privacy|امنیت و حفاظت از حریم خصوصی]]|fas|text|
+|2011.01.11|Youtube|[[http://www.youtube.com/user/TheTorProject?feature=mhum#p/a/u/0/6NbjwSwQJsg|Tor Commercial_Video by Benjamin Davis]]|en|video|
+|2010.12.13|Moblog|[[http://moblog.wiredwings.com/archives/20101213/Visualization-Tor-nodes-on-Google-Maps-and-Google-Earth.html|Visualization: Tor relays on Google Maps and Google Earth]]|en|other|
+|2008.12.02|Howcast|[[http://www.howcast.com/videos/90601-How-To-Circumvent-an-Internet-Proxy|Howcast: How To Circumvent an Internet Proxy]]|en|video|
+</sortable>
+>

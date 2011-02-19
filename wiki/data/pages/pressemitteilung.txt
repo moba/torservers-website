@@ -1,0 +1,33 @@
+====== Pressemitteilung ======
+
+  * Wer? Wo? Wann? Was? Wie? Warum?
+  
+  * Betreiben von Tor Exit Knoten - warum?
+  * warum dafür ein Verein?
+    * Erfahrungen aufbauen und teilen, abuse-Meldungen professionell (für andere) abhandeln, ...
+    * Anleitungen schreiben
+    * Betrieb und Exit-Knoten dokumentieren
+    * Service für Organisationen/Personen die nicht selbst hosten wollen
+    * Tor bridges
+    * Anbieten von managed und unmanaged Tor-Knoten-Hosting
+
+Der gemeinnützige Verein Zwiebelfreunde e.V. wurde am 26. März 2011 in Dresden gegründet.
+Unser Ziel ist es Anonymität und den freien, unzensierten Zugang zum Internet zu unterstützen.
+Dazu Betreiben wir Knoten des Anonymitätsnetzwerkes Tor und dokumentieren dies ausführlich.
+Wir finanzieren uns durch einmalige und regelmäßige Spenden und Mitgliedsbeiträge.
+
+Aktuell werden uns sieben Server von Internet Service Providern und Privatpersonen aus den USA, Schweiz, Australien, Niederlanden und Deutschland als Spende zur Verfügung gestellt. Auf diesen betreiben wir Tor-Exit-Knoten und sorgen für die Abwicklung von Beschwerden.
+Zusätzlich sind wir im Moment auf der Suche nach bezahlbaren und Tor-freundlichen Hostern, um, je nach Spendenaufkommen, mehrere selbst finanzierte Server mit hohem Durchsatz zu betreiben. 
+
+Wir arbeiten mit den Entwicklern vom Torprojekt zusammen um Erfahrungen auszutauschen, Probleme zu lösen und Rückmeldungen über den Betrieb zu geben.
+ 
+Unsere Partner, das Whistleblower Netzwerk und Privacy International indentifizieren sich mit unseren Zielen und unterstützen uns.
+
+Da uns Transparenz und das zur Verfügungstellen des aufgebauten Wissens sehr wichtig sind, dokumentieren wir unsere vielfältige Arbeit in unserem Wiki. Das geht vom Auflisten von Hostern über Installieren und Warten der Server hin zur Behandlung von Beschwerdemeldungen.
+
+
+  * wie Verteilen?
+  * Heise? Netzpolitik? Piratenpartei? torproject-blog? fefe? CCC? ...?
+  * Artikel in [[http://fiff.de/publikationen/fiff-kommunikation | FIfFko]] ? 
+  * wo online stellen
+?

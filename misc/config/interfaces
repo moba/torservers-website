@@ -1,0 +1,79 @@
+auto lo
+iface lo inet loopback
+
+##public network
+auto eth1
+iface eth1 inet static
+address 173.193.202.80
+netmask 255.255.255.192
+gateway 173.193.202.65
+up echo f > /sys/class/net/eth1/queues/rx-0/rps_cpus
+
+##private network
+auto eth0
+iface eth0 inet static
+address 10.26.55.36
+netmask 255.255.255.0
+
+#Static route for backend service network
+up route add -net 10.0.0.0/8 gw 10.26.55.1
+
+auto eth1:1
+iface eth1:1 inet static
+address 174.36.199.200
+netmask 255.255.255.255
+
+auto eth1:2
+iface eth1:2 inet static
+address 174.36.199.201
+netmask 255.255.255.255
+
+auto eth1:3
+iface eth1:3 inet static
+address 174.36.199.202
+netmask 255.255.255.255
+
+auto eth1:4
+iface eth1:4 inet static
+address 174.36.199.203
+netmask 255.255.255.255
+
+# anonymizer2
+auto eth1:5
+iface eth1:5 inet static
+address 173.244.197.210
+netmask 255.255.255.255
+
+# anonymizer3
+auto eth1:6
+iface eth1:6 inet static
+address 173.244.197.211
+netmask 255.255.255.255
+
+auto eth1:7
+iface eth1:7 inet static
+address 173.244.197.209
+netmask 255.255.255.255
+
+auto eth1:8
+iface eth1:8 inet static
+address 173.244.197.208
+netmask 255.255.255.255
+
+auto eth1:9
+iface eth1:9 inet static
+address 174.36.199.207
+netmask 255.255.255.255
+
+# proxmox
+# http://forum.proxmox.com/threads/4068-Installguide-proxmox-on-Software-Raid-%28Hetzner-EQ6-server%29?p=22892
+auto vmbr0
+iface vmbr0 inet static
+address 173.244.197.205
+netmask 255.255.255.0
+gateway 173.193.202.80
+bridge_ports none
+bridge_stp off
+bridge_fd 0
+
+

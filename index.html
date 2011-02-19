@@ -1,0 +1,63 @@
+<?php
+ require_once "template.php";
+ include_once "twitter.php";
+ 
+ printHeader("torservers.net - Tor Exit Node &amp; Bridge hosting");
+?>
+<h1 id="goal">Torservers.net</h1>
+<div class="info">
+  <i>"Everyone has the right to freedom of opinion and expression; this right includes freedom to hold opinions without interference and to seek, receive and impart information and ideas through any media and regardless of frontiers."</i>
+  <span style="vertical-align:right;">(Art. 19, <a href="http://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights#Human_rights_set_out_in_the_Declaration" style="font-weight:normal;text-decoration: none; border-bottom:1px dotted;">Universal Declaration of Human Rights</a>, 1948)</span>
+</div>
+<h2 id="what">Tor?</h2>
+<p>
+ <a href="http://www.torproject.org/"><img class="left" src="images/torlogo-small.png" alt="Tor project"/></a> 
+ The goal of  <a href="https://www.torproject.org/" rel="external">the Tor project</a> is to provide a censorship-resistant &amp; safer access to the Internet. It is the most widely used 
+ free &amp; open source anonymization technique in existence. It also makes it possible to host services like websites 
+ in a secure and anonymous fashion ("hidden services").
+</p>
+<ul>
+ <li>
+  <span class="highlighted">Thousands of people from China, Iran, Russia, Syria and numerous other authoritarian regimes use Tor every day to access free media.</span><br/>
+   Tor is the most widely used censorship circumvention tool in existence.<br/>
+  <a href="http://opennet.net/" rel="external">OpenNet Initiative: Global Internet Filtering Maps</a> &middot; <a href="http://www.accessnow.org/" rel="external">Access: Global Movement for Digital Freedom</a>
+ </li>
+ <li>
+  <span class="highlighted">Whistleblowers, journalists and bloggers need additional protection.</span><br/>
+   Tor provides anonymization and encryption for everyone - for free.<br/>
+  <a href="http://en.rsf.org/press-freedom-index-2010,1034.html" rel="external">Reports without Borders: Press Freedom Index 2010</a>
+ </li>
+</ul>
+
+<h2 id="who">What we do</h2>
+<p>
+We help by running additional, high bandwidth Tor relays. This makes the network
+faster and more reliable. You can help, too, by <a href="https://www.torproject.org/docs/tor-doc-relay.html.en">sharing some of your
+bandwidth</a> with those who need it, and <a href="donate.html">by donating</a> towards our highspeed exits.
+</p>
+<p>
+ If you or your organization wants to run an own relay, we can provide reliable infrastructure and management.
+</p>
+<h2 id="donate">Contributions and Support Pledges</h2>
+<p>
+ <a href="donate.html#donations">List of donations</a>. Thank you - Without you, this would not be possible! 
+</p>
+
+<h2>Latest Twitter Updates</h2>
+<div style="font-size: 0.8em;">
+ <?php parse_cache_feed("torservers", 5); ?>
+ <a href="http://twitter.com/torservers" id="twitter-link">Follow us on Twitter</a> (optional: <a href="http://twitter.com/gamambel">personal ramblings</a>)
+</div>
+
+<p class="info" style="margin: 2em auto 0 auto; float: none; width: 70%; text-align:center;">
+ We currently run <a href="services.html#servers">five Tor exit nodes</a> and are constantly expanding!
+</p>
+
+<h1 id="more"><a href="/about.html">Find out more about torservers.net</a></h1>
+
+<?php
+ printFooter();
+?>
+</body>
+</html>
+
