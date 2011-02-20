@@ -24,4 +24,4 @@
 
 Use "Edit summary" when editing.
 
-{{changes>5}}
+{{changes>count=5&type=create,edit}}
