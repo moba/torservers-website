@@ -128,3 +128,8 @@
 1298215258	127.0.0.1	E	index		[section 3] 	
 1298219867	127.0.0.1	E	intro		[section 3] 	
 1298221174	127.0.0.1	E	index		[section 2] 	
+1298221459	127.0.0.1	C	mirrors		created	
+1298222075	127.0.0.1	E	mirrors		[section 1] 	
+1298222269	127.0.0.1	E	setup:server		[section 11] 	
+1298222298	127.0.0.1	E	setup:server		[High Bandwidth Tweaks (>100 mbps?)] 	
+1298222399	127.0.0.1	E	mirrors		[section 3] 	

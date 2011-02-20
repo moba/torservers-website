@@ -161,7 +161,12 @@ wget http://www.torservers.net/misc/config/10-proxy.conf
 
 By default this will redirect requests for /tor/ to 127.0.0.1 port 9030; edit torrc and set DirPort to 80 and DirListenAddress to 127.0.0.1:9030.
 =====  Local DNS server  =====
-  *  DNS server: own + rootservers => independent of provider DNS
+
+  * usually it is not recommended to directly poll the root DNS servers; you should set up Bind as a Caching DNS and use various upstream DNS servers
+  * OpenDNS filters DNS requests; do not use them
+
+This sets up a DNS that uses root servers only (not recommended; please improve):
+
 <code>
 apt-get install bind9 dnsutils
 dig @e.root-servers.net . ns > /etc/bind/db.root
@@ -174,8 +179,10 @@ vi /etc/resolv.conf # insert top: nameserver 127.0.0.1
 </code>
 
 =====  High Bandwidth Tweaks (>100 mbps?)  =====
-You might also be interested in this or-relay thread regarding high speed relay tweaks:
+
+Only use if you need to optimize. You might also be interested in this or-relay thread regarding high speed relay tweaks:
 [[http://thread.gmane.org/gmane.network.onion-routing.general/2841|How to Run High Capacity Tor Relays]]
+
 <code>
 echo 'ifconfig eth0 txqueuelen 20000' >> /etc/rc.local
 cd /etc
