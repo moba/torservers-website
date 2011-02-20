@@ -1,27 +1,11 @@
 ====== Pressemitteilung ======
 
-==== Howtos und Hinweise ====
-
-  * [[http://wiki.piratenpartei.de/Crew:AG/Presse_NRW/HOWTO-Pressepirat#Pressemitteilung_in_zwei_Minuten|Pressemitteilungen in 2 Minuten]]
-  * [[http://wiki.piratenpartei.de/Erstellung_einer_Pressemeldung#Inhalt_einer_Pressemitteilung|Inalt einer Pressemitteilung]]
-  * [[http://www.presseecho.de/aufbau_pressemitteilung.php|Aufbau einer Pressmitteilung]]
-  * [[http://www.pr-inside.com/de/howto.htm|Howto]]
-  * [[http://wiki.piratenpartei.de/Crew:AG/Presse_NRW#Stilfragen|Stilfragen]]
-
 ===== Dies ist keine offizielle Pressmitteilung =====
   
-  * Betreiben von Tor Exit Knoten - warum?
-  * warum dafür ein Verein?
-    * Erfahrungen aufbauen und teilen, abuse-Meldungen professionell (für andere) abhandeln, ...
-    * Anleitungen schreiben
-    * Betrieb und Exit-Knoten dokumentieren
-    * Service für Organisationen/Personen die nicht selbst hosten wollen
-    * Tor bridges
-    * Anbieten von managed und unmanaged Tor-Knoten-Hosting
-
 ==== prägnanter Titel ====
 
 Neuer Verein für Anonymität und gegen Zensur betreibt professionell Tor-Server
+
 ==== 1. Absatz / Zusammenfassung ====
 
 Kürzlich gründete sich der gemeinnützige Verein Zwiebelfreunde e.V. Dieser tritt für Anonymität und Meinungsfreiheit und gegen Zensur im Internet ein. Es werden professionell Knoten des Anonymitäts-Netzwerkes Tor betrieben. Das ist aktuell von besonderer Bedeutung um Zensur in arabischen Diktaturen zu unterlaufen. Diese wurde kürzlich vielerorts verschärft um demokratisches Aufbegehren der Bevölkerung zu unterbinden.
@@ -38,9 +22,34 @@ Der Verein arbeitet mit den Entwicklern vom Torprojekt zusammen um Erfahrungen a
 Partner wie das Whistleblower Netzwerk und Privacy International indentifizieren sich mit den Zielen und unterstützen den Verein.
 
 
+----
+
+==== Howtos und Hinweise ====
+ 
+  * dritte Person, möglichst sachlich
+  * prägnante Überschrift
+  * Zusammenfassung
+  * Haupttext absteigent in Wichtigkeit
+  * [[http://wiki.piratenpartei.de/Crew:AG/Presse_NRW/HOWTO-Pressepirat#Pressemitteilung_in_zwei_Minuten|Pressemitteilungen in 2 Minuten]]
+  * [[http://wiki.piratenpartei.de/Erstellung_einer_Pressemeldung#Inhalt_einer_Pressemitteilung|Inhalt einer Pressemitteilung]]
+  * [[http://www.presseecho.de/aufbau_pressemitteilung.php|Aufbau einer Pressmitteilung]]
+  * [[http://www.pr-inside.com/de/howto.htm|Howto]]
+  * [[http://wiki.piratenpartei.de/Crew:AG/Presse_NRW#Stilfragen|Stilfragen]]
+
+----
+
+==== TODO? ====
+
+  * Betreiben von Tor Exit Knoten - warum?
+  * warum dafür ein Verein?
+    * Erfahrungen aufbauen und teilen, abuse-Meldungen professionell (für andere) abhandeln, ...
+    * Anleitungen schreiben
+    * Betrieb und Exit-Knoten dokumentieren
+    * Service für Organisationen/Personen die nicht selbst hosten wollen
+    * Tor bridges
+    * Anbieten von managed und unmanaged Tor-Knoten-Hosting
 
   * wie Verteilen?
   * Heise? Netzpolitik? Piratenpartei? torproject-blog? fefe? CCC? ...?
   * Artikel in [[http://fiff.de/publikationen/fiff-kommunikation | FIfFko]] ? 
-  * wo online stellen
-?
+  * wo online stellen?
