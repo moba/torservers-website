@@ -4,7 +4,13 @@
 ====== Tor Server (Relay) ======
 
   * [[setup:server|Torservers Tor Server Setup]]
+  * [[http://blog.minibofh.org/?p=66|Tor relay in virtualized OpenBSD with KVM]] (3. Jan 2011)
 
 ===== Advanced =====
 
   * [[setup:libevent2|Tor with libevent2]]
+
+====== Other ======
+
+  * [[setup:mailserver|Secure Mailserver]]
+

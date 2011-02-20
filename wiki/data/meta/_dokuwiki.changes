@@ -142,3 +142,12 @@
 1298227447	127.0.0.1	E	hoster:evoboxes.net	tagnaq	[EvoBoxes.net] 	
 1298227768	127.0.0.1	E	hoster:100tb.com	tagnaq	[section 1] 	
 1298227928	127.0.0.1	C	setup:index	moritz	redirect to guides	
+1298228793	127.0.0.1	C	setup:mailserver	moritz	gpg encrypt incoming mails	
+1298228921	127.0.0.1	E	setup:mailserver	moritz	empty line at beginning of file	
+1298228937	127.0.0.1	E	setup:mailserver	moritz	empty line at beginning of file	
+1298229089	127.0.0.1	E	setup:mailserver	moritz	added section "encpryt user mailbox"	
+1298229183	127.0.0.1	e	setup:mailserver	moritz	linked new section	
+1298229323	127.0.0.1	e	guides	moritz	linked secure mailserver tutorial	
+1298229668	127.0.0.1	e	setup:mailserver	moritz	fixed link	
+1298229933	127.0.0.1	E	mirrors	moritz	tor qr code	
+1298230084	127.0.0.1	E	guides	moritz	linked openbsd kvm blog post	
