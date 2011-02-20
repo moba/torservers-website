@@ -9,6 +9,8 @@ Because anonymity is important for many people. See [[http://www.torproject.org/
 ?????? Tor Project Inc. develops Tor. Why do we need another organization? ??????
 
 Tor Project Inc. develops Tor, but it doesn't provide Tor nodes. All nodes are contributed by volunteers, and while entry and middle nodes operate with little risk, exits provide publicly facing IP addresses, which can be connected to abuses of the network. Therefore, not many people provide exits, and that limits the available bandwidth of the network. Torservers.net aims to expand the pool of exit nodes by helping people set up their own exits and by taking care of abuse complaints and legal issues.
+
+We also provide and distribute private bridge IPs to Tor users when regular Tor access is blocked.
 ====== Tor FAQ ======
 
 Main FAQ: https://www.torproject.org/faq.html.en
