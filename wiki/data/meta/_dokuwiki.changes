@@ -1,35 +1,3 @@
-1297568516	92.206.100.41	C	start		created	
-1297570546	92.206.100.41	C	main_page		created	
-1297570846	92.206.100.41	E	main_page	moritz	[Discussion] 	
-1297571530	92.206.100.41	E	main_page	moritz		
-1297572052	92.206.100.41	C	wiki_playground	moritz	created	
-1297572196	92.206.100.41	e	wiki_playground	moritz	[Doodling] 	
-1297572881	92.206.100.41	E	main_page	moritz		
-1297574062	92.206.100.41	C	services.html	moritz	created	
-1297576154	127.0.0.1	D	main_page	moritz	removed	
-1297576173	127.0.0.1	D	services.html	moritz	removed	
-1297576189	127.0.0.1	D	wiki_playground	moritz	removed	
-1297576201	127.0.0.1	D	start	moritz	removed	
-1297591230	127.0.0.1	C	index		created	
-1297591735	127.0.0.1	C	abuse_handling		started mediawiki migration	
-1297591750	127.0.0.1	C	server_configuration		started mediawiki migration	
-1297592774	127.0.0.1	C	hoster_list		mediawiki migration 	
-1297593585	127.0.0.1	E	abuse_handling		fixed migration error	
-1297593965	127.0.0.1	E	abuse_handling		fixed migration error	
-1297595007	127.0.0.1	E	server_configuration		merged debian-setup page with information on wiki index page	
-1297595093	127.0.0.1	E	abuse_handling		removed old 100TB IP range from text	
-1297595221	127.0.0.1	C	faq		mediawiki migration	
-1297595282	127.0.0.1	C	todo		mediawiki migration	
-1297596255	127.0.0.1	E	todo		mediawiki migration: moved 'Organizations to contact about Partnership/Sponsoring' from main page to 'todo'	
-1297597887	127.0.0.1	E	hoster_list		mediawiki migration: moved 'Provider Independent IP Space' from index to subpage	
-1297599039	127.0.0.1	E	server_configuration		moved section out of 'preparation'	
-1297600892	127.0.0.1	E	hoster_list		FDCservers: added CZ + 300$ 1GBit unmetered offer	
-1297604619	127.0.0.1	E	hoster_list		made new sections: 'too expensive', 'no custom whois' 	
-1297605603	127.0.0.1	E	hoster_list		fixed wikipedia link	
-1297606299	127.0.0.1	E	hoster_list		fix typo	
-1297606813	127.0.0.1	E	hoster_list		;)	
-1297609442	127.0.0.1	E	server_configuration		[SSH key authentication only] move non commands out of code blocks	
-1297609500	127.0.0.1	E	server_configuration		[iptables firewall] move non commands out of code blocks	
 1297610284	127.0.0.1	E	server_configuration		[High Bandwidth Tweaks (>100 mbps?)]  added reference to mike perry's thread on or-relays	
 1297614323	127.0.0.1	E	abuse_handling		hopefully fixed toc	
 1297616674	127.0.0.1	E	abuse_handling	moritz	email spam	
@@ -155,3 +123,6 @@
 1298205175	127.0.0.1	E	index		not empty anymore [section 3] 	
 1298205827	127.0.0.1	E	hoster:list			
 1298206165	127.0.0.1	E	hoster:list			
+1298215214	127.0.0.1	C	hoster:index		created	
+1298215223	127.0.0.1	D	hoster:list		removed	
+1298215258	127.0.0.1	E	index		[section 3] 	
