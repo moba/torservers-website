@@ -33,3 +33,5 @@
 1298132344	127.0.0.1	E	hoster_list		table fixed	
 1298132576	127.0.0.1	E	hoster_list		unmeteredServers reference rename	
 1298198512	127.0.0.1	E	hoster_list		[section 4] 	
+1298200164	127.0.0.1	E	hoster_list		  + thordc & Rokabear	
+1298200629	127.0.0.1	D	hoster_list		moved page to hoster namespace hoster:list	

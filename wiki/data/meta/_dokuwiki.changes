@@ -141,3 +141,11 @@
 1298172182	127.0.0.1	E	guides	moritz	moved to intro	
 1298172415	127.0.0.1	E	intro	moritz	[section 1] 	
 1298198512	127.0.0.1	E	hoster_list		[section 4] 	
+1298200164	127.0.0.1	E	hoster_list		  + thordc & Rokabear	
+1298200617	127.0.0.1	C	hoster:list		moved page from hosters_list to hoster:list	
+1298200629	127.0.0.1	D	hoster_list		moved page to hoster namespace hoster:list	
+1298200767	127.0.0.1	C	hoster:thordc.is		initial import from http://www.freelists.org/post/torservers/Rokabear-Icelandic-Hosting-for-Tor-was-Re-Re-Torservers-Foundation-Meeting-Planning	
+1298200925	127.0.0.1	E	hoster:list		inquiry moved to separate page	
+1298200964	127.0.0.1	C	hoster:inquiry		moved from hoster_list to hoster:inquiry	
+1298201098	127.0.0.1	E	index		[section 3]  link to hoster list updated	
+1298201128	127.0.0.1	E	hoster:thordc.is			

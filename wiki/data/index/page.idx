@@ -19,3 +19,6 @@ guides
 pressemitteilung
 setup:libevent2
 setup:server
+hoster:list
+hoster:thordc.is
+hoster:inquiry
