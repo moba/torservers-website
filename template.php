@@ -1,4 +1,6 @@
 <?php
+ if (!isset($base)) $base = "";
+ global $base;
  
  $navbar = <<<EOD
 <div class="navbar" role="navigation">

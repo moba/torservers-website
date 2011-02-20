@@ -4,11 +4,11 @@ FIXME This article is a stub. Please improve. :)
 
 ?????? Why are we doing this? ??????
 
-Because it is important.
+Because anonymity is important for many people. See [[http://www.torproject.org/about/torusers.html.en|who uses Tor]].
 
-?????? Torproject Inc. develops Tor. Why do we need another organization? ??????
+?????? Tor Project Inc. develops Tor. Why do we need another organization? ??????
 
-While Torproject Inc. itself develops Tor, they don't provide any Tor nodes. While providing entry- and middle nodes is not a big problem, providing exits is usually connected with dealing with abuses and sometimes legal problems like prosecution for copyright infringement. Therefor not many people provide exits limiting the available exit bandwith to a minimum. Torservs.net tries to improve upon this and to help people set up exit nodes by taking care of abuses and legal stuff.
+Tor Project Inc. develops Tor, but it doesn't provide Tor nodes. All nodes are contributed by volunteers, and while entry and middle nodes operate with little risk, exits provide publicly facing IP addresses, which can be connected to abuses of the network. Therefore, not many people provide exits, and that limits the available bandwidth of the network. Torservers.net aims to expand the pool of exit nodes by helping people set up their own exits and by taking care of abuse complaints and legal issues.
 ====== Tor FAQ ======
 
 Main FAQ: https://www.torproject.org/faq.html.en
