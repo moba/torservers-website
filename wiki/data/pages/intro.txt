@@ -13,7 +13,7 @@ For setup and configuration, see [[guides|Tor Guides]].
 
 ===== Tor =====
 
-<sortable>
+<sortable 1>
 ^Language^Title^Type^
 |de|[[http://wiki.chaostreff.ch/Onion_Routing_und_Tor|Onion Routing und Tor: Wer braucht Anonymität?]]|text|
 |en|[[http://www.howcast.com/videos/90601-How-To-Circumvent-an-Internet-Proxy|Howcast: How To Circumvent an Internet Proxy]]|video|

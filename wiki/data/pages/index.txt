@@ -2,12 +2,12 @@
 
 **Feel free to edit!**
 
-===== Information on Tor =====
+===== Tor =====
 
   * [[intro|Introduction Material]]
   * [[guides|Tor Guides]]
   * [[media|Tor in Media]]
-
+  * [[mirrors|Tor Mirrors]]
 ===== Torservers.net =====
 
   * [[FAQ]] (please fill)
