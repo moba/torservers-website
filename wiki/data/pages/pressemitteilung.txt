@@ -24,22 +24,19 @@
 Neuer Verein für Anonymität und gegen Zensur betreibt professionell Tor-Server
 ==== 1. Absatz / Zusammenfassung ====
 
-Kürzlich gründete sich der gemeinnützige Verein Zwiebelfreunde e.V. Dieser tritt für Anonymität und Meinungsfreiheit und gegen Zensur im Internet ein. Es werden professionell Knoten des Anonymitäts-Netzwerkes Tor betrieben. Das ist aktuell von besonderer Bedeutung um Zensur in arabischen Diktaturen zu unterlaufen. Diese wurde kürzlich vielerorts verschärft um demokratisches Aufbegehren der Bevölkerung einzudämmen.
+Kürzlich gründete sich der gemeinnützige Verein Zwiebelfreunde e.V. Dieser tritt für Anonymität und Meinungsfreiheit und gegen Zensur im Internet ein. Es werden professionell Knoten des Anonymitäts-Netzwerkes Tor betrieben. Das ist aktuell von besonderer Bedeutung um Zensur in arabischen Diktaturen zu unterlaufen. Diese wurde kürzlich vielerorts verschärft um demokratisches Aufbegehren der Bevölkerung zu unterbinden.
 ==== Haupttext, absteigend in Wichtigkeit====
 
-Der gemeinnützige Verein Zwiebelfreunde e.V. wurde am 26. März 2011 in Dresden gegründet.
-Das Ziel ist es Anonymität und den freien, unzensierten Zugang zum Internet zu unterstützen.
-Dazu werden Knoten des Anonymitätsnetzwerkes Tor betrieben und ausführliche Dokumentationen erstellt.
-Der Verein finanziert sich dich einmalige und regelmäßige Spenden und Mitgliedsbeiträge.
+Der gemeinnützige Verein Zwiebelfreunde e.V. wurde am 26. März 2011 in Dresden gegründet. Das Ziel ist es Anonymität und den freien, unzensierten Zugang zum Internet zu unterstützen. Dazu werden Knoten des Anonymitätsnetzwerkes Tor betrieben und ausführliche Dokumentationen erstellt. Der Verein finanziert sich durch einmalige und regelmäßige Spenden und Mitgliedsbeiträge.
 
-Aktuell werden dem Verein sieben Server von Internet Service Providern und Privatpersonen aus den USA, Schweiz, Australien, Niederlanden und Deutschland als Spende zur Verfügung gestellt. Auf diesen werden Tor-Exit-Knoten unterhalten und es wird wird die Abwicklung von Beschwerden gesorgt.
-Zusätzlich wird im Moment nach bezahlbaren und Tor-freundlichen Hostern gesucht, um, je nach Spendenaufkommen, mehrere selbst finanzierte Server mit hohem Durchsatz zu betreiben. 
+Aktuell werden dem Verein sieben Server von Internet Service Providern und Privatpersonen als Spende zur Verfügung gestellt. Diese Server befinden sich in den USA, Schweiz, Australien, Niederlanden und Deutschland. Sie haben einen Gesamtdurchsatz von ca 350 Mbit/s. Auf diesen Servern werden vom Verein Tor-Exit-Knoten unterhalten und es wird für die Abwicklung von Beschwerden gesorgt. Zusätzlich wird im Moment nach bezahlbaren und Tor-freundlichen Hostern gesucht. Je nach Spendenaufkommen sollen mehrere Server mit hohem Durchsatz gemietet und betrieben werden.
+
+Transparenz und das Veröffentlichen des aufgebauten Wissens spielt eine wichtige Rolle. Die vielfältige Arbeit wird in einem Wiki dokumentiert. Das geht vom Auflisten von Hostern über das Installieren und Warten der Server hin zur Behandlung von Beschwerdemeldungen. 
 
 Der Verein arbeitet mit den Entwicklern vom Torprojekt zusammen um Erfahrungen auszutauschen, Probleme zu lösen und Rückmeldungen über den Betrieb zu geben.
- 
+
 Partner wie das Whistleblower Netzwerk und Privacy International indentifizieren sich mit den Zielen und unterstützen den Verein.
 
-Da neben Transparenz und das zur Verfügungstellen des aufgebauten Wissens eine wichtige Rolle spielt, wird die vielfältige Arbeit in einem Wiki dokumentiert. Das geht vom Auflisten von Hostern über Installieren und Warten der Server hin zur Behandlung von Beschwerdemeldungen.
 
 
   * wie Verteilen?
