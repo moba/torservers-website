@@ -10,7 +10,7 @@
 
 ===== Torservers.net =====
 
-  * [[FAQ]] (empty, please fill)
+  * [[FAQ]] (please fill)
   * [[TODO]]
   * [[hoster:list|Hoster List]]
   * [[Abuse Handling]]
