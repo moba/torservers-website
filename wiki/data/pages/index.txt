@@ -20,3 +20,8 @@
 
   * [[Vereinsorganisation]]
 
+===== Wiki: Recent Changes =====
+
+Use "Edit summary" when editing.
+
+{{changes>5}}

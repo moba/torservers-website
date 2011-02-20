@@ -1,23 +1,23 @@
 s:8051:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
-  <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
+  <link type="text/html" rel="alternate" href="http://search.twitter.com/search?q=from%3Atorservers"/>
+  <link type="application/atom+xml" rel="self" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5"/>
   <title>from:torservers - Twitter Search</title>
-  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=39372400328048640" rel="refresh"/>
+  <link type="application/opensearchdescription+xml" rel="search" href="http://search.twitter.com/opensearch.xml"/>
+  <link type="application/atom+xml" rel="refresh" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=39372400328048640"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
   <updated>2011-02-20T17:14:46Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=39372400328048640&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <link type="application/atom+xml" rel="next" href="http://search.twitter.com/search.atom?max_id=39372400328048640&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5"/>
   <entry>
     <id>tag:search.twitter.com,2005:39372400328048640</id>
     <published>2011-02-20T17:14:46Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/39372400328048640" rel="alternate"/>
+    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/39372400328048640"/>
     <title>Tor Download Mirrors http://www.torservers.net/wiki/mirrors #tor @torproject</title>
     <content type="html">Tor Download Mirrors &lt;a href=&quot;http://www.torservers.net/wiki/mirrors&quot;&gt;http://www.torservers.net/wiki/mirrors&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#tor');&quot;&gt;#tor&lt;/a&gt; &lt;a href=&quot;http://twitter.com/torproject&quot;&gt;@torproject&lt;/a&gt;</content>
     <updated>2011-02-20T17:14:46Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
@@ -33,11 +33,11 @@ s:8051:"<?xml version="1.0" encoding="UTF-8"?>
   <entry>
     <id>tag:search.twitter.com,2005:39353383282278402</id>
     <published>2011-02-20T15:59:12Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/39353383282278402" rel="alternate"/>
+    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/39353383282278402"/>
     <title>NL Exit Bandwidth upgraded to 20MB/s. Thanks @evoboxes!</title>
     <content type="html">NL Exit Bandwidth upgraded to 20MB/s. Thanks &lt;a href=&quot;http://twitter.com/evoboxes&quot;&gt;@evoboxes&lt;/a&gt;!</content>
     <updated>2011-02-20T15:59:12Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
@@ -53,11 +53,11 @@ s:8051:"<?xml version="1.0" encoding="UTF-8"?>
   <entry>
     <id>tag:search.twitter.com,2005:39351008119369730</id>
     <published>2011-02-20T15:49:46Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/39351008119369730" rel="alternate"/>
+    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/39351008119369730"/>
     <title>RT @SedonaCyberLink: Technologies Aiding Democracy Uprisings | SedonaCyberLink http://scl.tv/gq3hCv New blog post by Jane Ginn #Tor #democracy #cybersecurity</title>
     <content type="html">RT &lt;a href=&quot;http://twitter.com/SedonaCyberLink&quot;&gt;@SedonaCyberLink&lt;/a&gt;: Technologies Aiding Democracy Uprisings | SedonaCyberLink &lt;a href=&quot;http://scl.tv/gq3hCv&quot;&gt;http://scl.tv/gq3hCv&lt;/a&gt; New blog post by Jane Ginn &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23democracy&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#democracy');&quot;&gt;#democracy&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23cybersecurity&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#cybersecurity');&quot;&gt;#cybersecurity&lt;/a&gt;</content>
     <updated>2011-02-20T15:49:46Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
@@ -73,11 +73,11 @@ s:8051:"<?xml version="1.0" encoding="UTF-8"?>
   <entry>
     <id>tag:search.twitter.com,2005:39173194019512320</id>
     <published>2011-02-20T04:03:11Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/39173194019512320" rel="alternate"/>
+    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/39173194019512320"/>
     <title>Torservers.net Hosting Strategy http://bit.ly/fzg2n4</title>
     <content type="html">Torservers.net Hosting Strategy &lt;a href=&quot;http://bit.ly/fzg2n4&quot;&gt;http://bit.ly/fzg2n4&lt;/a&gt;</content>
     <updated>2011-02-20T04:03:11Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
@@ -93,11 +93,11 @@ s:8051:"<?xml version="1.0" encoding="UTF-8"?>
   <entry>
     <id>tag:search.twitter.com,2005:39164504386437120</id>
     <published>2011-02-20T03:28:40Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/39164504386437120" rel="alternate"/>
+    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/39164504386437120"/>
     <title>Kickstarter project for #FreedomBox Foundation http://kck.st/goEoH5 &quot;from 0 to 60 in 30 days&quot;</title>
     <content type="html">Kickstarter project for &lt;a href=&quot;http://search.twitter.com/search?q=%23FreedomBox&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#FreedomBox');&quot;&gt;#FreedomBox&lt;/a&gt; Foundation &lt;a href=&quot;http://kck.st/goEoH5&quot;&gt;http://kck.st/goEoH5&lt;/a&gt; &amp;quot;from 0 to 60 in 30 days&amp;quot;</content>
     <updated>2011-02-20T03:28:40Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
