@@ -1,0 +1,111 @@
+/* CSS Document */
+
+/* Your form width */
+.form_table {
+	width: 430px;
+	background-color: #FFF;
+	border: 1px solid #000;
+	padding:5px;
+	
+}
+
+.form_table p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height:18px;
+	font-weight: normal;
+	text-align: right;
+	margin: 0px;
+	padding: 0px;
+}
+
+.form_title {
+	vertical-align: text-top;	
+}
+
+.form_table input[type="text"] {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	padding-top: 2px;
+	padding-right: 4px;
+	padding-bottom: 2px;
+	padding-left: 4px;
+	width:305px;
+	float: left;
+}
+
+.form_table textarea {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	padding-top: 2px;
+	padding-right: 4px;
+	padding-bottom: 2px;
+	padding-left: 4px;
+	width:305px;
+	float: left;
+}
+
+.form_table input[type="submit"] {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	padding-top: 4px;
+	padding-right: 6px;
+	padding-bottom: 4px;
+	padding-left: 6px;
+	float:left;
+}
+
+.url_example {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	float:left;
+	clear:left;	
+}
+.form_source {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	float:right;
+	position:relative;
+	right: 8px;
+}
+
+.required {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: normal;
+	color: #F00;
+	position: relative;
+	top: 4px;	
+}
+
+.not_required {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-weight: normal;
+	color: #FFF;
+	position: relative;
+	top: 4px;	
+}
+
+.form_message_success {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	background-color: #DCFFB9;
+	display: block;
+	padding: 10px;
+	border: 2px solid #390;
+}
+
+.form_message_fail {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	background-color: #FFE1E1;
+	display: block;
+	padding: 10px;
+	border: 2px solid #F00;
+}
+
