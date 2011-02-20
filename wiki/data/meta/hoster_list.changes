@@ -28,3 +28,7 @@
 1297756207	127.0.0.1	E	hoster_list		added reference link to original email (source)	
 1297800208	127.0.0.1	E	hoster_list		[section 6] 	
 1297858073	127.0.0.1	E	hoster_list		sorted to reflect likeliness of renting a server there	
+1298129033	127.0.0.1	E	hoster_list		FDCserver: no custom whois	
+1298132169	127.0.0.1	E	hoster_list		added info regardint 100tb.eu + source reference	
+1298132344	127.0.0.1	E	hoster_list		table fixed	
+1298132576	127.0.0.1	E	hoster_list		unmeteredServers reference rename	

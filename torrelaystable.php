@@ -26,13 +26,13 @@
   </td>
  </tr>
  <tr> 
-  <td class="us"><a href="http://raskin.torservers.net/">raskin</a></td><td>80 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=4186509C707E96B77B51A76F8294D7E22FF52C61" rel="external">4186 509C 707E 96B7 7B51 A76F 8294 D7E2 2FF5 2C61</a></td><td>many</td>
+  <td class="us"><a href="http://raskin.torservers.net/">raskin</a></td><td>100 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=4186509C707E96B77B51A76F8294D7E22FF52C61" rel="external">4186 509C 707E 96B7 7B51 A76F 8294 D7E2 2FF5 2C61</a></td><td>many</td>
  </tr>
  <tr>
   <td colspan="4">A relay in New York, courtesy of <a href="http://www.defaultroute.net/" rel="external">Mike Sawicki at DefaultRoute</a>. Named in memoriam of <a href="http://en.wikipedia.org/wiki/Jef_Raskin">Jef Raskin</a>, a Human-Computer Interface expert.</td>
  </tr>
  <tr> 
-  <td class="us"><a href="http://zeller.torservers.net/">zeller</a></td><td>80 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=FEE83A80C09A710C5415F28A9658D5D459D8B45D" rel="external">FEE8 3A80 C09A 710C 5415 F28A 9658 D5D4 59D8 B45D</a></td><td>many</td>
+  <td class="us"><a href="http://zeller.torservers.net/">zeller</a></td><td>100 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=FEE83A80C09A710C5415F28A9658D5D459D8B45D" rel="external">FEE8 3A80 C09A 710C 5415 F28A 9658 D5D4 59D8 B45D</a></td><td>many</td>
  </tr>
  <tr>
   <td colspan="4">A relay in Seattle, courtesy of <a href="http://www.defaultroute.net/" rel="external">Mike Sawicki at DefaultRoute</a>. Named in memoriam of <a href="http://en.wikipedia.org/wiki/Bill_Zeller">Bill Zeller</a>, a young security researcher at Princeton.</td>

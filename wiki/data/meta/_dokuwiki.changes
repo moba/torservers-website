@@ -113,3 +113,30 @@
 1298024066	127.0.0.1	E	pressemitteilung			
 1298066184	127.0.0.1	E	pressemitteilung			
 1298069545	127.0.0.1	E	pressemitteilung		[section 1] 	
+1298115857	127.0.0.1	E	themen_gruendungssitzung	moritz	hidden services hosting	
+1298129033	127.0.0.1	E	hoster_list		FDCserver: no custom whois	
+1298132169	127.0.0.1	E	hoster_list		added info regardint 100tb.eu + source reference	
+1298132344	127.0.0.1	E	hoster_list		table fixed	
+1298132576	127.0.0.1	E	hoster_list		unmeteredServers reference rename	
+1298135774	127.0.0.1	E	abuse_handling		[Reply to Abuse (general)] 	
+1298135839	127.0.0.1	E	abuse_handling		[Reply to own ISP/Data Center] 	
+1298136349	127.0.0.1	E	faq		[Torservers FAQ] 	
+1298136370	127.0.0.1	E	faq		[Torservers FAQ] 	
+1298138178	127.0.0.1	E	faq		[section 1] 	
+1298139793	127.0.0.1	E	pressemitteilung		[section 1] 	
+1298147573	127.0.0.1	E	abuse_handling		[section 2] Grammatical error	
+1298163530	127.0.0.1	E	pressemitteilung		[section 3] 	
+1298163835	127.0.0.1	E	pressemitteilung		[1. Absatz] 	
+1298163873	127.0.0.1	E	pressemitteilung		[Titel] 	
+1298163911	127.0.0.1	E	pressemitteilung		[Haupttext] 	
+1298170839	127.0.0.1	E	guides	moritz		
+1298170869	127.0.0.1	E	guides	moritz	[Tor Server (Relay)] 	
+1298170945	127.0.0.1	C	setup:libevent2	moritz	created	
+1298170972	127.0.0.1	C	setup:server	moritz	created	
+1298170986	127.0.0.1	D	server_configuration	moritz	removed	
+1298171024	127.0.0.1	E	index	moritz	[section 3] 	
+1298171796	127.0.0.1	E	guides	moritz	[section 1] 	
+1298171927	127.0.0.1	E	guides	moritz		
+1298172104	127.0.0.1	E	intro	moritz	[section 1] 	
+1298172182	127.0.0.1	E	guides	moritz	moved to intro	
+1298172415	127.0.0.1	E	intro	moritz	[section 1] 	

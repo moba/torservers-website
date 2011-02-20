@@ -1,12 +1,10 @@
-===== Tor with libevent2 =====
+====== Tor Client ======
 
-==== libevent2 ====
-http://monkey.org/~provos/libevent2
-<code>make clean
-./configure --prefix=/usr/local/libevent --with-pic
-make
-make install</code>
 
-==== Tor ====
-  * based on http://moblog.wiredwings.com/archives/20100427/Tor-on-Debian,-self-compiled-for-better-Performance.html
-  * add to debian/rules: <code>--with-libevent-dir=/usr/local/libevent \</code>
+====== Tor Server (Relay) ======
+
+  * [[setup:server|Torservers Tor Server Setup]]
+
+===== Advanced =====
+
+  * [[setup:libevent2|Tor with libevent2]]

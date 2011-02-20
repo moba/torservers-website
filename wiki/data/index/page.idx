@@ -17,3 +17,5 @@ media
 intro
 guides
 pressemitteilung
+setup:libevent2
+setup:server

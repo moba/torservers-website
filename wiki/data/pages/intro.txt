@@ -1,6 +1,8 @@
 ====== Introduction Material ======
 
-[[guides|Basic Tor Guides]]
+For setup and configuration, see [[guides|Tor Guides]].
+
+===== General =====
 
 <sortable 1>
 ^Language^Title^Author^
@@ -9,6 +11,14 @@
 |en|[[http://arstechnica.com/tech-policy/news/2010/11/google-net-censorship-amounts-to-undeclared-trade-war.ars|Google: 'Net censorship amounts to undeclared trade war]]|Nate Anderson|
 </sortable>
 
+===== Tor =====
+
+<sortable>
+^Language^Title^Type^
+|de|[[http://wiki.chaostreff.ch/Onion_Routing_und_Tor|Onion Routing und Tor: Wer braucht Anonymität?]]|text|
+|en|[[http://www.howcast.com/videos/90601-How-To-Circumvent-an-Internet-Proxy|Howcast: How To Circumvent an Internet Proxy]]|video|
+|fas|[[http://25bahman.com/internet-security-privacy|امنیت و حفاظت از حریم خصوصی]]|text|
+</sortable>
 ====== Further Reading ======
 
 <sortable 1>

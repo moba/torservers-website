@@ -6,7 +6,7 @@ Let us work on good answer for repeating situations. Hopefully, this will help o
 
 Hi $TO$,
 
-Thanks for this report. The subnet on $SUBNET$ hosts Tor exit nodes. I can block specific IPs and ports, but the abuser doesn't use our relays specifically; he/she will just be routed through a different exit node instead.
+Thanks for this report. The subnet on $SUBNET$ hosts Tor exit nodes. I can block specific IPs and ports, but the abuser doesn't use our relays specifically; he/she will just be routed through a different exit node if I do block the IP/PORT.
 
 Tor is a research project, funded by the National Science Foundation and previously DARPA (among others). Its primary goal is to provide people from hostile environments with encrypted and uncensored access to the Internet. For more than a third of the worlds population, the Internet is being either filtered or monitored. Every day, activists and bloggers are imprisoned or threatened for what we in the western countries see as a Human Right.
 
@@ -77,7 +77,7 @@ http://www.torservers.net/
 
 =====  Reply to own ISP/Data Center  =====
 
-//Regarding abuse and my server: We're a group of privacy enthusiasts running Tor exit nodes against censorship and filtered Internet access in oppressed countries. I have ordered through NAME, he knows about the issue with Tor nodes and DMCA complaints. Please forward future complaints to XY to avoid delays.//
+//Regarding abuse and my server: We're a group of privacy enthusiasts running Tor exit nodes against censorship and filtered Internet access in oppressive countries. I have ordered through NAME, he knows about the issue with Tor nodes and DMCA complaints. Please forward future complaints to XY to avoid delays.//
 
 // For more information on that issue, see http://www.torservers.net/abuse.html //
 

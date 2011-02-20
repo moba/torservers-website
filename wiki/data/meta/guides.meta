@@ -1,17 +1,5 @@
-a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1297870124;s:8:"modified";i:1297870350;}s:11:"last_change";a:7:{s:4:"date";i:1297870350;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:6:"guides";s:4:"user";s:6:"moritz";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:7:"creator";s:0:"";s:11:"contributor";a:1:{s:6:"moritz";s:12:"Moritz Bartl";}s:5:"title";s:1:" ";s:11:"description";a:2:{s:15:"tableofcontents";a:3:{i:0;a:4:{s:3:"hid";s:18:"tor_with_libevent2";s:5:"title";s:18:"Tor with libevent2";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:1;a:4:{s:3:"hid";s:9:"libevent2";s:5:"title";s:9:"libevent2";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:2;a:4:{s:3:"hid";s:3:"tor";s:5:"title";s:3:"Tor";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:344:"Tor with libevent2
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1297870124;s:8:"modified";i:1298172182;}s:11:"last_change";a:7:{s:4:"date";i:1298172182;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:6:"guides";s:4:"user";s:6:"moritz";s:3:"sum";s:14:"moved to intro";s:5:"extra";s:0:"";}s:7:"creator";s:0:"";s:11:"contributor";a:1:{s:6:"moritz";s:12:"Moritz Bartl";}s:5:"title";s:1:" ";s:11:"description";a:2:{s:15:"tableofcontents";a:3:{i:0;a:4:{s:3:"hid";s:10:"tor_client";s:5:"title";s:10:"Tor Client";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:16:"tor_server_relay";s:5:"title";s:18:"Tor Server (Relay)";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:2;a:4:{s:3:"hid";s:8:"advanced";s:5:"title";s:8:"Advanced";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:64:"*  Torservers Tor Server Setup
 
-libevent2
+Advanced
 
-<http://monkey.org/~provos/libevent2>
-
-
-make clean
-./configure --prefix=/usr/local/libevent --with-pic
-make
-make install
-
-Tor
-
-	*  based on <http://moblog.wiredwings.com/archives/20100427/Tor-on-Debian,-self-compiled-for-better-Performance.html>
-	*  add to debian/rules: 
---with-libevent-dir=/usr/local/libevent \";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:4:{s:4:"date";a:2:{s:7:"created";i:1297870124;s:8:"modified";i:1297870350;}s:11:"last_change";a:7:{s:4:"date";i:1297870350;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:6:"guides";s:4:"user";s:6:"moritz";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:7:"creator";s:0:"";s:11:"contributor";a:1:{s:6:"moritz";s:12:"Moritz Bartl";}}}
+	*  Tor with libevent2";}s:8:"relation";a:2:{s:10:"references";a:2:{s:12:"setup:server";b:1;s:15:"setup:libevent2";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:2:{s:7:"created";i:1297870124;s:8:"modified";i:1298172182;}s:11:"last_change";a:7:{s:4:"date";i:1298172182;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:6:"guides";s:4:"user";s:6:"moritz";s:3:"sum";s:14:"moved to intro";s:5:"extra";s:0:"";}s:7:"creator";s:0:"";s:11:"contributor";a:1:{s:6:"moritz";s:12:"Moritz Bartl";}}}
