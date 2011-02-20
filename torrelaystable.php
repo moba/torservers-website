@@ -18,6 +18,12 @@
   <br/>We're working on a good new deal with multiple ISPs. <a href="$base/status/softlayer.png">Bandwidth history June 2010 to January 2011</a></td>
  </tr>
  <tr> 
+  <td class="nl"><a href="http://evoboxes.torservers.net/">evoboxes</a></td><td>160 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=08a4074ffc993a50aabe787bf78161df2243cd41" rel="external">08A4 074F FC99 3A50 AABE 787B F781 61DF 2243 CD41</a></td><td>many</td>
+ </tr>
+ <tr>
+  <td colspan="4">A relay in the Netherlands donated by <a href="http://www.evoboxes.net/" rel="external">Evoboxes</a>.
+ </tr>
+ <tr> 
   <td class="us"><a href="http://wau.torservers.net/" class="thumbnail">wau</a></td><td>100 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=C67622A01D8D3B742A14506CD446342993C20FE3" rel="external">C676 22A0 1D8D 3B74 2A14 506C D446 3429 93C2 0FE3</a></td><td>some</td>
  </tr>
  <tr>
@@ -48,12 +54,6 @@
  </tr>
  <tr>
   <td colspan="4">A relay in Australia donated by <a href="http://www.networkpresence.com.au/" rel="external">Network Presence</a>. Allows almost all ports to exit. Named in memoriam of <a href="http://www.identityblog.com/?p=1159">Andreas Pfitzmann</a>, security &amp; anonymity professor and Dean of TU Dresden.</td>
- </tr>
- <tr> 
-  <td class="nl"><a href="http://evoboxes.torservers.net/">evoboxes</a></td><td>10 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=08a4074ffc993a50aabe787bf78161df2243cd41" rel="external">08A4 074F FC99 3A50 AABE 787B F781 61DF 2243 CD41</a></td><td>many</td>
- </tr>
- <tr>
-  <td colspan="4">A relay in the Netherlands donated by <a href="http://www.evoboxes.net/" rel="external">Evoboxes</a>.
  </tr>
  <tr> 
   <td class="de"><a href="http://anonymizer1.torservers.net/">torserversNet1</a></td><td>512 kbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=9B41B9B3D4661566C660096B715BC647FBD72A72" rel="external">9B41 B9B3 D466 1566 C660 096B 715B C647 FBD7 2A72</a></td><td>22,53,443</td>

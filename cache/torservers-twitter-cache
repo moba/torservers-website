@@ -1,15 +1,55 @@
-s:8399:"<?xml version="1.0" encoding="UTF-8"?>
+s:8287:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" rel="alternate" href="http://search.twitter.com/search?q=from%3Atorservers"/>
   <link type="application/atom+xml" rel="self" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5"/>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" rel="search" href="http://search.twitter.com/opensearch.xml"/>
-  <link type="application/atom+xml" rel="refresh" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=39323376019312640"/>
+  <link type="application/atom+xml" rel="refresh" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=39353383282278402"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
-  <updated>2011-02-20T04:03:11Z</updated>
+  <updated>2011-02-20T15:59:12Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" rel="next" href="http://search.twitter.com/search.atom?max_id=39323376019312640&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5"/>
+  <link type="application/atom+xml" rel="next" href="http://search.twitter.com/search.atom?max_id=39353383282278402&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:39353383282278402</id>
+    <published>2011-02-20T15:59:12Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/39353383282278402"/>
+    <title>NL Exit Bandwidth upgraded to 20MB/s. Thanks @evoboxes!</title>
+    <content type="html">NL Exit Bandwidth upgraded to 20MB/s. Thanks &lt;a href=&quot;http://twitter.com/evoboxes&quot;&gt;@evoboxes&lt;/a&gt;!</content>
+    <updated>2011-02-20T15:59:12Z</updated>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:39351008119369730</id>
+    <published>2011-02-20T15:49:46Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/39351008119369730"/>
+    <title>RT @SedonaCyberLink: Technologies Aiding Democracy Uprisings | SedonaCyberLink http://scl.tv/gq3hCv New blog post by Jane Ginn #Tor #democracy #cybersecurity</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/SedonaCyberLink&quot;&gt;@SedonaCyberLink&lt;/a&gt;: Technologies Aiding Democracy Uprisings | SedonaCyberLink &lt;a href=&quot;http://scl.tv/gq3hCv&quot;&gt;http://scl.tv/gq3hCv&lt;/a&gt; New blog post by Jane Ginn &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23democracy&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#democracy');&quot;&gt;#democracy&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23cybersecurity&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#cybersecurity');&quot;&gt;#cybersecurity&lt;/a&gt;</content>
+    <updated>2011-02-20T15:49:46Z</updated>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://bit.ly&quot; rel=&quot;nofollow&quot;&gt;bitly&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
   <entry>
     <id>tag:search.twitter.com,2005:39173194019512320</id>
     <published>2011-02-20T04:03:11Z</published>
@@ -64,46 +104,6 @@ s:8399:"<?xml version="1.0" encoding="UTF-8"?>
       <twitter:result_type>recent</twitter:result_type>
     </twitter:metadata>
     <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:39163364513038336</id>
-    <published>2011-02-20T03:24:08Z</published>
-    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/39163364513038336"/>
-    <title>Help us collect info material on Tor and censorship circumvention http://www.torservers.net/wiki/intro  @torproject #tor</title>
-    <content type="html">Help us collect info material on Tor and censorship circumvention &lt;a href=&quot;http://www.torservers.net/wiki/intro&quot;&gt;http://www.torservers.net/wiki/intro&lt;/a&gt;  &lt;a href=&quot;http://twitter.com/torproject&quot;&gt;@torproject&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#tor');&quot;&gt;#tor&lt;/a&gt;</content>
-    <updated>2011-02-20T03:24:08Z</updated>
-    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:38715738869080064</id>
-    <published>2011-02-18T21:45:26Z</published>
-    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/38715738869080064"/>
-    <title>RT @runasand: Get #Tor via email: use Gmail, email gettor@torproject.org with &quot;tor-browser-bundle&quot; in the body of the message, wait for .zip file. #Libya</title>
-    <content type="html">RT &lt;a href=&quot;http://twitter.com/runasand&quot;&gt;@runasand&lt;/a&gt;: Get &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt; via email: use Gmail, email gettor@torproject.org with &amp;quot;tor-browser-bundle&amp;quot; in the body of the message, wait for .zip file. &lt;a href=&quot;http://search.twitter.com/search?q=%23Libya&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Libya');&quot;&gt;#Libya&lt;/a&gt;</content>
-    <updated>2011-02-18T21:45:26Z</updated>
-    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
     <twitter:lang>en</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
