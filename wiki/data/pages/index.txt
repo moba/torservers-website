@@ -15,7 +15,7 @@
   * [[hoster:|Hoster List]]
   * [[Abuse Handling]]
   * [[setup:server|Torservers Exit Server Setup]]
-
+  * [[Monitoring]]
 ===== Zwiebelfreunde =====
 
   * [[Vereinsorganisation]]
