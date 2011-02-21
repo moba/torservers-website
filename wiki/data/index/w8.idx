@@ -324,3 +324,7 @@ happened
 analysis
 rsyslogd
 logfiles
+graphics
+requires
+designed
+notifier
