@@ -8,7 +8,7 @@ Neuer Verein für Anonymität und gegen Zensur betreibt professionell Tor-Server
 
 ==== 1. Absatz / Zusammenfassung ====
 
-Kürzlich gründete sich der gemeinnützige Verein Zwiebelfreunde e.V. Dieser tritt für Anonymität und Meinungsfreiheit und gegen Zensur im Internet ein. Es werden professionell Knoten des Anonymitäts-Netzwerkes Tor betrieben. Das ist aktuell von besonderer Bedeutung um Zensur in arabischen Diktaturen zu unterlaufen. Diese wurde kürzlich vielerorts verschärft um demokratisches Aufbegehren der Bevölkerung zu unterbinden.
+Kürzlich gründete sich der gemeinnützige Verein Zwiebelfreunde e.V. Dieser tritt für Anonymität und Meinungsfreiheit und gegen Zensur im Internet ein. Es werden professionell Knoten des Anonymitäts-Netzwerkes Tor betrieben. Das ist aktuell von besonderer Bedeutung um Zensur in arabischen Diktaturen zu unterlaufen. Diese wurde kürzlich vielerorts verschärft um demokratisches Aufbegehren der Bevölkerung zu verhindern.
 ==== Haupttext, absteigend in Wichtigkeit====
 
 Der gemeinnützige Verein Zwiebelfreunde e.V. wurde am 26. März 2011 in Dresden gegründet. Das Ziel ist es Anonymität und den freien, unzensierten Zugang zum Internet zu unterstützen. Dazu werden Knoten des Anonymitätsnetzwerkes Tor betrieben und ausführliche Dokumentationen erstellt. Der Verein finanziert sich durch einmalige und regelmäßige Spenden und Mitgliedsbeiträge.
