@@ -12,7 +12,7 @@
 
   * [[FAQ]] (please fill)
   * [[TODO]]
-  * [[hoster:|Hoster List]]
+  * [[hoster:|Hoster List]] - [[hoster:inquiry|Inquiry Templates]]
   * [[Abuse Handling]]
   * [[setup:server|Torservers Exit Server Setup]]
   * [[Monitoring]]
