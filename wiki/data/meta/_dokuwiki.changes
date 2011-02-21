@@ -1,36 +1,3 @@
-1297610284	127.0.0.1	E	server_configuration		[High Bandwidth Tweaks (>100 mbps?)]  added reference to mike perry's thread on or-relays	
-1297614323	127.0.0.1	E	abuse_handling		hopefully fixed toc	
-1297616674	127.0.0.1	E	abuse_handling	moritz	email spam	
-1297616819	127.0.0.1	E	abuse_handling	moritz	[Reply to Abuse (general)] 	
-1297616940	127.0.0.1	e	abuse_handling	moritz	[Reply to Abuse (general)] 	
-1297617500	127.0.0.1	E	todo	moritz		
-1297622321	127.0.0.1	E	todo	moritz		
-1297622474	127.0.0.1	e	todo	moritz		
-1297623027	127.0.0.1	E	server_configuration	moritz	minor layout fixes	
-1297623111	127.0.0.1	E	server_configuration	moritz	monitoring: snmp, opennhs	
-1297624497	127.0.0.1	E	index	moritz		
-1297624725	127.0.0.1	E	index	moritz		
-1297626073	127.0.0.1	E	server_configuration	moritz	removed section	
-1297626220	127.0.0.1	E	server_configuration	moritz	Tor setup	
-1297626269	127.0.0.1	e	server_configuration	moritz	comments using #	
-1297626360	127.0.0.1	E	server_configuration	moritz	comments using #	
-1297626417	127.0.0.1	E	server_configuration	moritz	small fixes	
-1297626506	127.0.0.1	e	server_configuration	moritz	small layout fixes	
-1297626582	127.0.0.1	E	server_configuration	moritz	[a few defaults] 	
-1297626610	127.0.0.1	e	server_configuration	moritz	comments using #	
-1297638469	127.0.0.1	E	hoster_list		added section 'contacting'	
-1297638833	127.0.0.1	E	hoster_list		remove NOTOC	
-1297642725	127.0.0.1	E	index	juris		
-1297643578	127.0.0.1	C	vereinsorganisation	juris	created	
-1297643646	127.0.0.1	E	vereinsorganisation	juris		
-1297645269	127.0.0.1	E	hoster_list	moritz	email templates	
-1297645302	127.0.0.1	C	satzungsentwurf_verein	juris	created	
-1297648908	127.0.0.1	e	index	moritz	heading	
-1297689414	127.0.0.1	E	hoster_list		[section 7] 	
-1297689850	127.0.0.1	E	hoster_list		[section 7] 	
-1297693752	127.0.0.1	E	hoster_list		[section 7] 	
-1297696642	127.0.0.1	E	hoster_list	moritz	arin/ripe documentation	
-1297696694	127.0.0.1	e	hoster_list	moritz	[Inquiry] 	
 1297713797	127.0.0.1	E	vereinsorganisation			
 1297713949	127.0.0.1	E	hoster_list		moved email templates to the bottom	
 1297716758	127.0.0.1	C	themen_gruendungssitzung		created	
