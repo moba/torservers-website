@@ -1,13 +1,52 @@
 ======  TODO  ======
-From top to bottom. If you want to help go ahead :-)
 
-    * better "donations" list (actual donations/costs)
-    * FAQ
-    * "about us" section: who we are/team, affiliated/supported organizations
-    * website translations
-    * design: other icons, onion graphic, logo? anyone?
-    * contact form with gpg encryption would be a nice thing to have 
+We're a slowly, but healthily growing family of Tor friends. Anyone is welcome to contribute, priority on the items are basically set by individual preferences ("Hey, I started..."). Join us on irc.oftc.net #torservers.
 
+  - Work on Todo-List, add ideas :)
+
+===== Tech =====
+
+==== Bridges ====
+
+So far, we received only single requests for bridges, that's why - very unfortunately - this hasn't been high on our priority list right now. I think it should be put energy into
+
+  * finding the best deals for small VPS'es in various countries with a large number of non-consecutive IPs
+  * not used as exits at all, so no complaint problem there
+
+Someone should go hunting. Also, it is probably worth to ask in various hosting forums. Often, ISPs are not antipathetic towards helping especially blocked Tor users (who usually are not the ones abusing the network), and, serving as entry, it has no risk associated.
+
+  * how do we set up bridge nodes that listen to a large number of IPs?
+  * how do we monitor usage?
+  * and, how do we keep track of who we gave the bridge IP to?
+
+==== Exits ====
+
+  * monitoring
+  * graphs. I want combined graphs that for example show bandwidth usage across all nodes (and some usage stats, see bridges)
+  * myFamily setting: currently, we have to log into EACH machine and update MyFamily if we add or remove a node. We need that centralized, but safe (signed).
+
+===== Tor User Groups =====
+
+One of our goals is to offer press contacts and organize local hackfests and workshops on Tor - safe environments for social movements in general.
+
+  * Map/List of Contacts
+  * etc.
+
+====== Website ======
+
+  * need help on writing press releases, proposals, funding applications etc., in all languages
+  * collect articles and howtos on tor for wiki
+  * design: other icons, onion graphic, logo? anyone?
+
+===== Tech =====
+
+  * push website to github
+  * enable website translations (move everything to dokuwiki? or use gettext on our simple website code?)
+  * contact form with gpg encryption
+
+===== Other =====
+
+  * t-shirts
 ====== Organizations to contact about Partnership/Sponsoring ======
 
   *  TODO: collect email addresses of each organization
