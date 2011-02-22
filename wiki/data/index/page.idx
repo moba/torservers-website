@@ -30,3 +30,4 @@ setup:mailserver
 monitoring
 usergroups
 users:moritz
+setup_3amailserver
