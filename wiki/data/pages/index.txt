@@ -5,7 +5,7 @@
 ===== Tor =====
 
   * [[intro|Introduction Material]]
-  * [[guides|Tor Guides]]
+  * [[guides|Tor Quick Setup Guides]]
   * [[media|Tor in Media]]
   * [[mirrors|Tor Mirrors]]
   * [[usergroups|Tor User Groups]]
