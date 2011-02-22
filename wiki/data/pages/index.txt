@@ -8,6 +8,7 @@
   * [[guides|Tor Guides]]
   * [[media|Tor in Media]]
   * [[mirrors|Tor Mirrors]]
+  * [[usergroups|Tor User Groups]]
 ===== Torservers.net =====
 
   * [[FAQ]] (please fill)

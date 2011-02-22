@@ -172,3 +172,13 @@
 1298344676	127.0.0.1	e	todo	moritz	www mirror rsync	
 1298346011	127.0.0.1	E	mirrors			
 1298346780	127.0.0.1	E	guides		[Tor Server (Relay) -> Advanced] 	
+1298349071	127.0.0.1	E	setup:mailserver	moritz	postfix howto remove IPs from emails	
+1298349112	127.0.0.1	e	setup:mailserver	moritz	moved sections	
+1298349286	127.0.0.1	e	setup:mailserver	moritz	small fix	
+1298349589	127.0.0.1	e	index	moritz	added link to new user groups page	
+1298349793	127.0.0.1	C	usergroups	moritz	created	
+1298349942	127.0.0.1	C	users:moritz	moritz	created	
+1298350015	127.0.0.1	e	usergroups	moritz	added some details about moritz	
+1298350143	127.0.0.1	e	todo	moritz	linked [Tor User Groups] 	
+1298350538	127.0.0.1	e	usergroups	moritz	[Tor User Groups -> Germany] 	
+1298350687	127.0.0.1	e	usergroups	moritz	[Tor User Groups -> Germany] 	

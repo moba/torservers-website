@@ -41,6 +41,7 @@ One of our goals is to offer press contacts and organize local hackfests and wor
   * Map/List of Contacts
   * etc.
 
+-> [[usergroups|Tor User Groups]]
 ===== Website =====
 
   * need help on writing press releases, proposals, funding applications etc., in all languages
