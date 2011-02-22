@@ -11,11 +11,15 @@
   * [[usergroups|Tor User Groups]]
 ===== Torservers.net =====
 
-  * [[FAQ]] (please fill)
   * [[TODO]]
+  * [[FAQ]] (please fill)
   * [[hoster:|Hoster List]] - [[hoster:inquiry|Inquiry Templates]]
   * [[Abuse Handling]]
+
+==== Technical Guides ====
+
   * [[setup:server|Torservers Exit Server Setup]]
+  * [[setup:mailserver|Secure Mailserver Setup]]
   * [[Monitoring]]
 ===== Zwiebelfreunde =====
 

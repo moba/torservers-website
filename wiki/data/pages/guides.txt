@@ -5,7 +5,6 @@
 
   * [[setup:server|Torservers Tor Server Setup]]
   * [[http://blog.minibofh.org/?p=66|Tor relay in virtualized OpenBSD with KVM]] (3. Jan 2011)
-  * [[http://drwho.virtadpt.net/archive/2010/04/10/my-novalug-presentation-was-a-success|Slides for Tor presentation at NOVALUG, 20100410]] (Video forthcoming.)
 
 ===== Advanced =====
 

@@ -17,8 +17,12 @@ For setup and configuration, see [[guides|Tor Guides]].
 ^Language^Title^Type^
 |de|[[http://wiki.chaostreff.ch/Onion_Routing_und_Tor|Onion Routing und Tor: Wer braucht Anonymität?]]|text|
 |en|[[http://www.howcast.com/videos/90601-How-To-Circumvent-an-Internet-Proxy|Howcast: How To Circumvent an Internet Proxy]]|video|
+|en|[[http://drwho.virtadpt.net/archive/2010/04/10/my-novalug-presentation-was-a-success|Slides for Tor presentation at NOVALUG 2010]]|slides|
 |fas|[[http://25bahman.com/internet-security-privacy|امنیت و حفاظت از حریم خصوصی]]|text|
 </sortable>
+
+[[https://svn.torproject.org/cgi-bin/viewvc.cgi/projects/presentations/|Torproject.org: Tor Presentations]]
+
 ====== Further Reading ======
 
 <sortable 1>
