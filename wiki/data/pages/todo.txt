@@ -15,7 +15,7 @@ So far, we received only single requests for bridges, that's why - very unfortun
 
 Someone should go hunting. Also, it is probably worth to ask in various hosting forums. Often, ISPs are not antipathetic towards helping especially blocked Tor users (who usually are not the ones abusing the network), and, serving as entry, it has no risk associated.
 
-  * how do we set up bridge nodes that listen to a large number of IPs?
+  * how do we set up bridge nodes that listen to a large number of IPs? https://trac.torproject.org/projects/tor/ticket/2510
   * how do we monitor usage?
   * and, how do we keep track of who we gave the bridge IP to?
 
@@ -25,6 +25,13 @@ Someone should go hunting. Also, it is probably worth to ask in various hosting 
   * graphs. I want combined graphs that for example show bandwidth usage across all nodes (and some usage stats, see bridges)
   * myFamily setting: currently, we have to log into EACH machine and update MyFamily if we add or remove a node. We need that centralized, but safe (signed).
 
+==== Member Services ====
+
+I want to provide secure email accounts and similar services to members, other affiliated groups, social movements, or everyone. We can still decide on who to give them to, but in general I want to have that kind of stuff documented openly in our Wiki. I know it's not really "Torservers.net" related, but remember we're the people with all the abilities to help in other areas as well.
+
+I played with [[setup:mailserver|GPG encryption for incoming messages using Postfix]]. How would you expand that to greater scale? Is "Sieve" the better mail filtering language? How to make things like that user configurable easily?
+
+Other useful services might be Jabber, StatusNet, hidden services hosting etc.
 ===== Tor User Groups =====
 
 One of our goals is to offer press contacts and organize local hackfests and workshops on Tor - safe environments for social movements in general.
@@ -32,13 +39,13 @@ One of our goals is to offer press contacts and organize local hackfests and wor
   * Map/List of Contacts
   * etc.
 
-====== Website ======
+===== Website =====
 
   * need help on writing press releases, proposals, funding applications etc., in all languages
   * collect articles and howtos on tor for wiki
   * design: other icons, onion graphic, logo? anyone?
 
-===== Tech =====
+==== Tech ====
 
   * push website to github
   * enable website translations (move everything to dokuwiki? or use gettext on our simple website code?)
@@ -47,11 +54,12 @@ One of our goals is to offer press contacts and organize local hackfests and wor
 ===== Other =====
 
   * t-shirts
-====== Organizations to contact about Partnership/Sponsoring ======
 
-  *  TODO: collect email addresses of each organization
+===== Organizations to contact about Partnership/Sponsoring =====
 
-===== German =====
+Add! Start writing contact letters.
+
+==== German ====
 
   *  [[http://www.stiftung-bridge.de/|Stiftung Bridge]] - förderantrag bis april 2011 stellen
   *  Journalismus: [[http://linke-medienakademie.de/|Linke Medienakademie]], [[http://www.reporter-ohne-grenzen.de/|Reporter ohne Grenzen]]
@@ -65,7 +73,7 @@ One of our goals is to offer press contacts and organize local hackfests and wor
 
   *  [[http://www.spendenportal.de/|spendenportal.de]]
 
-===== English =====
+==== English ====
 
   *  [[http://www.ifj.org/|International Federation of Journalists]], [[http://www.projectcensored.org/|Project Censored]], [[http://www.rfa.org/english|Radio Free Asia]] / [[http://www.rfaunplugged.org/|RFA Unplugged]], [[http://www.humanrightsfirst.org/|Human Rights First]], [[http://globalvoicesonline.org/|Global Voices]], [[http://www.indexoncensorship.org/|Index on Censorship]]
   *  [[http://www.accessnow.org/|Access Now]], [[http://opennet.net/|OpenNet Initiative]], [[http://www.hackersforcharity.org/|Hackers for Charity]], [[http://www.eff.org/|EFF]]
