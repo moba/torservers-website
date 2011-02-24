@@ -9,7 +9,7 @@
 ===== Advanced =====
 
   * [[setup:libevent2|Tor with libevent2]]
-
+  * [[setup:blockbittorrent|Block BitTorrent tracker]]
 ====== Other ======
 
   * [[setup:mailserver|Secure Mailserver]]

@@ -392,3 +392,9 @@ mean
 sasl
 hold
 tram
+live
+grep
+sort
+uniq
+gets
+lift
