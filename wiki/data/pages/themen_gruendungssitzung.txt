@@ -98,5 +98,6 @@ Unterschrift Versammlungsleiter Unterschrift 1. Vorsitzender Unterschrift Protok
     * Mitglieder-Datenschutz (minimale Forderung von Klarnamen, Anonymität/Pseudonymität, so weit wie rechtlich möglich, im Verein)
     * Dienste für Mitglieder (VPN, Emailaccount auf Crypto-Partition + IP-Filterung bei ausgehenden Mails, Webspace?)
     * Hidden Services Hosting?
+    * Blutmagie: Was passiert mit der Infrastruktur?
     * ...
  
