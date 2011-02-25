@@ -1,23 +1,43 @@
-s:7874:"<?xml version="1.0" encoding="UTF-8"?>
+s:7803:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
-  <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
+  <link type="text/html" rel="alternate" href="http://search.twitter.com/search?q=from%3Atorservers"/>
+  <link type="application/atom+xml" rel="self" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5"/>
   <title>from:torservers - Twitter Search</title>
-  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=41025276661989376" rel="refresh"/>
+  <link type="application/opensearchdescription+xml" rel="search" href="http://search.twitter.com/opensearch.xml"/>
+  <link type="application/atom+xml" rel="refresh" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=41042649859358720"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
-  <updated>2011-02-25T06:42:42Z</updated>
+  <updated>2011-02-25T07:51:44Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=41025276661989376&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <link type="application/atom+xml" rel="next" href="http://search.twitter.com/search.atom?max_id=41042649859358720&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:41042649859358720</id>
+    <published>2011-02-25T07:51:44Z</published>
+    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/41042649859358720"/>
+    <title>RT @ioerror: It appears that I am not the first to notice the RCMP's inability to use Tor: http://is.gd/LT96fu</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/ioerror&quot;&gt;@ioerror&lt;/a&gt;: It appears that I am not the first to notice the RCMP&amp;apos;s inability to use Tor: &lt;a href=&quot;http://is.gd/LT96fu&quot;&gt;http://is.gd/LT96fu&lt;/a&gt;</content>
+    <updated>2011-02-25T07:51:44Z</updated>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
   <entry>
     <id>tag:search.twitter.com,2005:41025276661989376</id>
     <published>2011-02-25T06:42:42Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/41025276661989376" rel="alternate"/>
+    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/41025276661989376"/>
     <title>RT @thcxthcx: @torproject Check out my new WordPress plugin that fetches and shows/hides Tor bridges : http://goo.gl/AAhOL</title>
     <content type="html">RT &lt;a href=&quot;http://twitter.com/thcxthcx&quot;&gt;@thcxthcx&lt;/a&gt;: &lt;a href=&quot;http://twitter.com/torproject&quot;&gt;@torproject&lt;/a&gt; Check out my new WordPress plugin that fetches and shows/hides Tor bridges : &lt;a href=&quot;http://goo.gl/AAhOL&quot;&gt;http://goo.gl/AAhOL&lt;/a&gt;</content>
     <updated>2011-02-25T06:42:42Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
@@ -33,11 +53,11 @@ s:7874:"<?xml version="1.0" encoding="UTF-8"?>
   <entry>
     <id>tag:search.twitter.com,2005:40840738442973184</id>
     <published>2011-02-24T18:29:25Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/40840738442973184" rel="alternate"/>
+    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/40840738442973184"/>
     <title>RT @wseltzer: At Ga. Tech for workshop on Free and Open Communication on the Internet. Public event today: http://www.gtisc.gatech.edu/foci.html #FOCI</title>
     <content type="html">RT &lt;a href=&quot;http://twitter.com/wseltzer&quot;&gt;@wseltzer&lt;/a&gt;: At Ga. Tech for workshop on Free and Open Communication on the Internet. Public event today: &lt;a href=&quot;http://www.gtisc.gatech.edu/foci.html&quot;&gt;http://www.gtisc.gatech.edu/foci.html&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23FOCI&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#FOCI');&quot;&gt;#FOCI&lt;/a&gt;</content>
     <updated>2011-02-24T18:29:25Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
@@ -53,11 +73,11 @@ s:7874:"<?xml version="1.0" encoding="UTF-8"?>
   <entry>
     <id>tag:search.twitter.com,2005:39908967417266176</id>
     <published>2011-02-22T04:46:53Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/39908967417266176" rel="alternate"/>
+    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/39908967417266176"/>
     <title>Meet other local #Tor fans! http://www.torservers.net/wiki/usergroups @torproject</title>
     <content type="html">Meet other local &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt; fans! &lt;a href=&quot;http://www.torservers.net/wiki/usergroups&quot;&gt;http://www.torservers.net/wiki/usergroups&lt;/a&gt; &lt;a href=&quot;http://twitter.com/torproject&quot;&gt;@torproject&lt;/a&gt;</content>
     <updated>2011-02-22T04:46:53Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
@@ -73,11 +93,11 @@ s:7874:"<?xml version="1.0" encoding="UTF-8"?>
   <entry>
     <id>tag:search.twitter.com,2005:39905888739266560</id>
     <published>2011-02-22T04:34:39Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/39905888739266560" rel="alternate"/>
+    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/39905888739266560"/>
     <title>Secure Mailserver: Remove IP from Outgoing Mails in Postfix http://www.torservers.net/wiki/setup/mailserver</title>
     <content type="html">Secure Mailserver: Remove IP from Outgoing Mails in Postfix &lt;a href=&quot;http://www.torservers.net/wiki/setup/mailserver&quot;&gt;http://www.torservers.net/wiki/setup/mailserver&lt;/a&gt;</content>
     <updated>2011-02-22T04:34:39Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
@@ -85,26 +105,6 @@ s:7874:"<?xml version="1.0" encoding="UTF-8"?>
     </twitter:metadata>
     <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
     <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:39899133867200512</id>
-    <published>2011-02-22T04:07:49Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/39899133867200512" rel="alternate"/>
-    <title>&quot;Der Flaschenhals innerhalb von Tor sind die Exit-Knoten.&quot; http://taz.de/1/netz/netzpolitik/artikel/1/wie-ein-virenscanner/</title>
-    <content type="html">&amp;quot;Der Flaschenhals innerhalb von Tor sind die Exit-Knoten.&amp;quot; &lt;a href=&quot;http://taz.de/1/netz/netzpolitik/artikel/1/wie-ein-virenscanner/&quot;&gt;http://taz.de/1/netz/netzpolitik/artikel/1/wie-ein-virenscanner/&lt;/a&gt;</content>
-    <updated>2011-02-22T04:07:49Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>de</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
       <uri>http://twitter.com/torservers</uri>
