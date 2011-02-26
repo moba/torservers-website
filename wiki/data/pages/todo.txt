@@ -22,8 +22,8 @@ Someone should go hunting. Also, it is probably worth to ask in various hosting 
 ==== Exits ====
 
   * monitoring
-  * graphs. I want combined graphs that for example show bandwidth usage across all nodes (and some usage stats, see bridges)
-  * myFamily setting: currently, we have to log into EACH machine and update MyFamily if we add or remove a node. We need that centralized, but safe (signed).
+  * graphs. I want combined graphs that for example show bandwidth usage across all nodes, and "our bandwidth" in comparison to all exit relay bandwidth (and some usage stats, see bridges)
+  * myFamily setting: currently, we have to log into EACH machine and update MyFamily if we add or remove a node. We need that centralized, but safe (signed). also, we need to be able to sync (some) exit rules.
 
 ==== Tor Distribution ====
 
