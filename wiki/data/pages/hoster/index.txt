@@ -1,0 +1,60 @@
+====== Hosters ======
+
+Each of these has been contacted for partnership in Tor hosting and been told about abuse problems etc. 
+Suggest hosters and I will contact them.
+
+
+----
+
+
+^ ISP ^ Location ^ custom whois ^ offer/orientation ^ comment ^
+| [[http://www.100tb.com/ |100tb.com]] | US/UK | US:Y;UK:? | $200: 100TB outbound, inbound free, 20ct/GB extra, Quad Xeon 3220, 8GB RAM, 2x500GB | read more about [[100tb.com|our experience with them]] |
+| [[http://www.100tb.eu/|100tb.eu]] | NL | Y | 169€: 50TB in + 50TB out, Dual E2160, 4GB RAM; maybe we need the maxi duo HW for 200Euro | "As long as abuse complaints are solved swiftly this is not an issue. Yes we can swip a range of IPs to you." (([[http://www.freelists.org/post/torservers/100tbeu-was-Re-Re-FDCServers-Fwd-Re-1Gbit-Hosting-in-EU|100tb.eu reference]])) |
+| [[http://2host.com/|2Host]] | US | Y | $150: 100TB out, 100TB in, Quad Q9550, 4GB RAM, 2x500GB | custom whois no problem, abuse should be okay; cheap offers at [[http://www.webhostingtalk.com/showthread.php?t=971493|webhostingtalk]] |
+| [[http://evoboxes.net|EvoBoxes]] | NL | N (?)| 135GBP: x3440, 8GB RAM, 2x1TB, 1Gbit | read more about [[evoboxes.net|our experience with them]] |
+
+
+===== no custom WHOIS =====
+^ ISP ^ Location ^ custom whois ^ offer/orientation ^ comment ^
+| [[http://fdcservers.net|FDCservers]] | US/CZ | Y, CZ:N | 300$/month 1GBit unmeterd | 24h response time to abuse; also complained about massive amount of DMCA spam |
+| [[http://www.t-n-media.de/|t-n media]] | RO | N | 250€ 1Gbit dedicated Intel Core i7, 6GB RAM, 2x 1,5TB | tor ok, will forward abuse |
+| [[http://www.net100tb.com|Net100TB]] | NL | N | 219€: 100TB in+out, Quad, 8GB RAM | |
+| [[http://www.yazuhost.com/|Yazuhost]] | NL | N | 150€ 100TB up 100TB down Xeon 3210, 4GB RAM, 500GB | tor ok, Leaseweb reseller, can forward DMCA complaints |
+
+===== currently contacting =====
+^ ISP ^ Location ^ custom whois ^ offer/orientation ^ comment ^
+| [[http://RapidSpeeds.com|RapidSpeeds]] |  | | 140GBP 1Gbit unmetered | Not going to host you. no custom WHOIS| 
+| [[http://Securedservers.com|Securedservers]] |  | | | |
+| [[http://thordc.is|thordc]]  |  | | |  [[thordc.is|HW prices]] |
+| [[http://rokabear.com/|Rokabear]] |  | | | |
+
+
+
+===== expensive =====
+^ ISP ^ Location ^ custom whois ^ offer/orientation ^ comment ^
+| [[http://www.leaseweb.com|Leaseweb]] | NL | N | ~106 euro 100mbit/s dedi unshared, E2160, 4GB | always forwards all abuse complaints |
+| [[http://ecatel.co.uk|Ecatel]] | NL | Y | ~120 euro 100mbit/s dedi, NEW: €266 100TB, €600 dedi 1Gbit. Xeon E5506, 12GB, 250GB HDD | own data center, known privacy hoster <-- not their own dc.  |
+| [[http://UnmeteredServers.com|UnmeteredServers]] | ? | N | $749.99/Month $0/Setup Fee , 2nd Month Free, Dual Quad-Core Intel Xeon e5620 2.4Ghz 12GB ECC DDR2/3 Memory | "should abuse complaints get to overwhelming we would no choice but to cancel the service as we need to keep our ipspace clean" (([[http://www.freelists.org/post/torservers/UnmeteredServers-Fwd-Re-Tor-Server-Custom-Build|UnmeteredServers reference]])) |
+| [[http://www.cinipac.com/|Cinipac]] | eg. IRAN | ? | 130€ 3000GB | privacy hoster |
+| [[http://www.prq.se|PRQ]]| SE | Y | too expensive | ex the piratebay hoster |
+| [[http://www.rapidswitch.com/DedicatedServers.aspx|Rapidswitch]] | UK | N | 100€ 10TB | As long as the use of the server abides by these guidelines it is ok. Please note that if we do receive an abuse report for the server we can suspend it. |
+| [[http://www.santrex.net/|Santrex]] | FR/US/DE/UK | Y | $160 10TB | 24h-48h response time |
+| [[http://www.sh3lls.net/dedicated.htm|Sh3lls]] | US | Y | $90 10mbit, $300 100mbit | "timely" reaction; also see https://secure.sh3lls.net/viewticket.php?tid=318437&c=vGvu5uwz |
+| [[http://www.netrouting.nl|Netrouting]] | NL | N | €50 10mbit E2220, 2GB | "timely" reaction |
+| [[http://serverconnect.se/|Serverconnect]] | NL | ? | 220€ 10TB | ? |
+| [[http://www.shinjiru.com/|Shinjiru]] | MY | Y | $190 1500GB | tor sponsor, privacy hoster malaysia |
+| [[http://directspace.net|DirectSpace]]  | US | ? | Xeon 5110 , 4GB RAM, 2x500GB, 100TB up 100TB down, $10/TB | custom notice should be no problem, very poor communication. no reply about custom whois. |
+| [[http://www.caratnetworks.com|Carat]]  | CA | ? | 300€ 10TB | known privacy hoster |
+
+====== Provider Independent IP Space ======
+
+  * [[wp>Provider-independent_address_space]]
+  * would be excellent to have
+  * expensive
+    * http://lir.at : 1000 EUR setup, 100 EUR yearly
+    * http://openpeering.nl : 650 EUR setup, 150 EUR yearly
+    * http://CB3ROB.NET : even more expensive 
+    * smaller nets than 256 are not routed, you have to at least use 25% of all IPs, and they all have to be routed to the same ISP -> use IPs for bridges 
+    * Yes the old justification used to be for SSL'ed hosting, I think we can easily justify this, as tor is SSL, and if we have several bridges...
+    * RIPE NCC charge 50€ for PI/AS issued on the same day see http://www.ripe.net/ripe/docs/ripe-499 We just need to find a member who doesn't want funny numbers as above.
+

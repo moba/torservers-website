@@ -1,0 +1,11 @@
+1298228793	127.0.0.1	C	setup:mailserver	moritz	gpg encrypt incoming mails	
+1298228921	127.0.0.1	E	setup:mailserver	moritz	empty line at beginning of file	
+1298228937	127.0.0.1	E	setup:mailserver	moritz	empty line at beginning of file	
+1298229089	127.0.0.1	E	setup:mailserver	moritz	added section "encpryt user mailbox"	
+1298229183	127.0.0.1	e	setup:mailserver	moritz	linked new section	
+1298229668	127.0.0.1	e	setup:mailserver	moritz	fixed link	
+1298285393	127.0.0.1	E	setup:mailserver		gpg key moved to variable	
+1298288732	127.0.0.1	e	setup:mailserver	moritz	improved explanation	
+1298349071	127.0.0.1	E	setup:mailserver	moritz	postfix howto remove IPs from emails	
+1298349112	127.0.0.1	e	setup:mailserver	moritz	moved sections	
+1298349286	127.0.0.1	e	setup:mailserver	moritz	small fix	

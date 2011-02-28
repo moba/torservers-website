@@ -1,0 +1,9 @@
+====== EvoBoxes.net ======
+
+After contacting them regarding a custom build offer for an exit node they provided us with an unmetered 10MBit/s VPS for free. After a week they upgraded [[http://torstatus.blutmagie.de/router_detail.php?FP=08a4074ffc993a50aabe787bf78161df2243cd41|the node]] to 20MBit/s unmetered! This node was donated to us on 11/02/2011 and is maintained and managed by us (torservers.net).
+
+Seems to be some kind of software limit of 3MB/s or so - please investigate. http://grab.by/93Vc
+-- Nathan - EvoBoxes.net
+ 
+
+

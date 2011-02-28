@@ -1,0 +1,10 @@
+<file>
+CL-1C512M	Cloud Virtual machine 1 CPU core,  512 MB memory 20 GB disk space 	25€
+CL-1C2G	        Cloud Virtual machine 1 CPU core,    2 GB memory 20 GB disk space 	80€
+CL-2C4G	        Cloud Virtual machine 2 CPU core,    4 GB memory 20 GB disk space	160€
+CL-3C6G	        Cloud Virtual machine 3 CPU core,    6 GB memory 20 GB disk space	250€
+CL-4C8G   	Cloud Virtual machine 4 CPU core,    8 GB memory 20 GB disk space	350€
+CL-5C10G	Cloud Virtual machine 5 CPU core,   10 GB memory 20 GB disk space	500€
+CL-6C12G	Cloud Virtual machine 6 CPU core,   12 GB memory 20 GB disk space	600€
+CL-7C14G	Cloud Virtual machine 7 CPU core,   14 GB memory 20 GB disk space	700€"
+</file>

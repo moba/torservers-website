@@ -1,0 +1,8 @@
+====== Block BitTorrent tracker ======
+
+Benefits should be much less abuse complaints
+
+Executing the following code
+<code>for a in $(wget -qO- http://www.trackon.org/api/live| awk -F/ ' { print $3 }' ); do dig +short a $a; done |grep -v [a-z]|sort|uniq </code>
+gets one a list of ips of BitTorrent trackers.
+They are then inserted into the Tor config file, torrc, as exit reject rules to block the ips.

@@ -1,0 +1,100 @@
+====== Secure Mailserver ======
+
+===== Remove IP from Outgoing Mails in Postfix =====
+
+( http://moblog.wiredwings.com/archives/20100501/Remove-IPs-from-Outgoing-Mail-Postfix-SMTP.html )
+
+By default, every email includes your personal IP and hostname - many mailserver installations even pass on internal IPs. As there is no need for the outside world to know your IP (being able to track your location etc), a properly configured mailserver should remove IP headers from outgoing mail. 
+
+This does not have to mean that IPs or authentication cannot be logged. Safely stored encrypted on the mailserver, regularly moved offsite.
+
+Postfix (or any other SMTP server) receives mail from other mail servers ("incoming"), and mails by users ("outgoing"). As we don't want to strip any headers from incoming mail, we first force all users to authenticate (which is a good thing anyway), and make Postfix add another header to authenticated ("outgoing") mails. Then, we can match this header and strip both the Received line containing internal hostnames and IPs, and the authenticated header.
+
+==== /etc/postfix/main.cf ====
+
+<code># add header for authenticated mail to strip IP
+smtpd_sasl_authenticated_header = yes
+header_checks = regexp:/etc/postfix/header_checks</code>
+
+==== /etc/postfix/header_checks ====
+
+<code>/^Received: .*\(Authenticated sender:.*/ IGNORE
+/^Received: by yourdomain\.com .*from userid [0-9]+\)/ IGNORE</code>
+
+(replace yourdomain.com by your server's name)
+
+===== GPG-Encrypt Incoming Mails using Postfix =====
+
+( http://www.j3e.de/pgp-mime-encrypt-in-procmail.html )
+
+  * Many administrators use logcheck and similar tools to generate email reports, containing potentially sensitive information. Often, this information is being forwarded in plaintext to a central location.
+  * [[#encrypt_user_mailbox|Mailboxes should be encrypted using a user key]]; even then, the logging procedure could be monitored and the operator forced to "unlock" boxes. With GPG, only the owner of the private key can unlock mails, and each mail is encrypted individually - the private key never touches the server.
+
+<code>apt-get install procmail</code>
+
+As user, import key, eg.:
+
+<code>gpg --recv-keys 0x484DC500</code>
+
+==== ~/.procmailrc ====
+
+(replace 484DC500 with user GPG public key fingerprint)
+
+<code>
+GPGKEY  =       484DC500 # Replace with user GPG fingerprint
+MAILDIR =       $HOME/Maildir/  # You'd better make sure it exists
+DEFAULT =       $MAILDIR
+LOCKFILE=       $HOME/.lockmail
+
+YEARMONTH=`date +%Y.%m`
+
+## debug:
+# VERBOSE=yes
+# LOGFILE=$HOME/procmail.$YEARMONTH.log
+
+:0:
+{
+   MYHDRS=`formail -XContent-Type: -XContent-disposition: -XContent-transfer-encoding:`
+   :0 fh
+   | formail -I 'Content-Type: multipart/encrypted; protocol="application/pgp-encrypted";boundary="MfFXiAuoTsnnDAfX"' -I Content-transfer-encoding: -I Content-disposition:
+
+   :0 fb
+   # replace with your PGP key ID here:
+   | { cat ~/.gpg-mime-start ; { echo "$MYHDRS" ; echo ; cat - ; } | gpg --batch --quiet --always-trust -a -e -r $GPGKEY; cat ~/.gpg-mime-end; }
+}
+
+:0
+! forward_to@example.com
+</code>
+
+==== ~/.gpg-mime-start ====
+  
+(could also be stored outside user space; emtpy line at end)
+
+<code>--MfFXiAuoTsnnDAfX
+Content-Type: application/pgp-encrypted
+Content-Disposition: attachment
+
+Version: 1
+
+--MfFXiAuoTsnnDAfX
+Content-Type: application/octet-stream
+Content-Disposition: inline; filename="msg.asc"
+
+~
+ 
+</code>
+
+==== ~/.gpg-mime-end ====
+
+(empty line at beginning)
+
+<code>
+ 
+--MfFXiAuoTsnnDAfX
+</code>
+>
+
+===== Encrypt user mailbox =====
+
+  * eCryptFS + PAM?

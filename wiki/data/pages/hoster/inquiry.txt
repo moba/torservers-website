@@ -1,0 +1,39 @@
+====== Inquiry ======
+<file>Subject: Tor Server Custom Build
+
+Hi,
+
+I am interested in your dedicated Gbit specials for hosting a Tor
+exit. Can you give me a quote for a Dual Xeon E5620 2.4Ghz with 8GB RAM,
+2x500GB RAID1 (or as small as you can get in terms of hard drives, does
+not matter) and ARIN/RIPE reassignment for a subnet (/29 is enough) towards
+our organization?
+
+Thank you,
+</file>
+
+Follow up if positive response:
+
+<file>Thank you for getting back to me so quickly.
+
+About Tor: We are a soon-to-be registered non-profit from Germany
+working together with security and cryptography experts on censorship
+circumvention. Tor is a research project funded by the US Government
+(and others) that offers encrypted and safe tunnels to those affected by
+Internet censorship (China, Iran, Egypt, Burma etc). Among our partners
+are Human Rights Organizations and social movements from around the globe.
+
+Even though we only allow a number of well-known ports to exit from our
+servers to not facilitate file sharing, Tor can unfortunately lead to a
+number of (mostly unwarranted) abuse complaints. The Tor network and
+software blocks unprotected ports such as SMTP automatically, so Tor IPs
+rarely make it to blacklists.
+
+If you like to know more about the project, feel free to contact me on
+Jabber/XMPP moritz@torservers.net or visit our website at
+http://www.torservers.net/
+</file>
+
+  * before final order make sure they will really give you proper WHOIS reassignment; examples: http://www.db.ripe.net/whois?searchtext=79.140.39.227 (RIPE), http://whois.arin.net/rest/net/NET-74-120-15-144-1/ (ARIN)
+  * RIPE Documentation: http://www.ripe.net/lir-services/resource-management/faq/internet-resources#faq_22 , http://www.ripe.net/ripe/docs/ripe-489
+  * ARIN Reassignment Form: https://www.arin.net/resources/templates/reassign-simple.txt (prefilled for Torservers.net: http://www.torservers.net/misc/arin-torservers.txt - ISP only needs to edit Network Section, 20-23)

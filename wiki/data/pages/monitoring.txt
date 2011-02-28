@@ -1,0 +1,34 @@
+====== Monitoring for Tor Nodes ======
+
+=====Service Monitoring using zabbix=====
+
+We use zabbix to Monitor our Nodes, because it provides a well designed way to configure it from a central point. 
+
+Here is a quick and Dirty Howto on how to get it running:
+
+Before even touching apt to actually install zabbix lets get php set up the way zabbix wants it. Therefor set the timezone in php.ini correctly and also set "max_execution_time = 300".
+
+To install a zabbix Server on Debian Lenny the backports Repository is needed. Add "deb http://backports.org/debian lenny-backports main contrib non-free" to sources list to get them.
+An "aptitude -t lenny-backports install xabbix-server-mysql zabbix-frontend-php zabbix-agent" will install all necessary packages for the server. Follow all the steps through Debconf to get the Database up and running and when you're done go to http://serverip/zabbix . If that works login with the username "admin" and password "zabbix". Needless to say: Change the password afterwards.
+
+If the Installation goes wrong this is usually because it can't connect to the DB and the error Message shown will probably tell you exactly that. If the erronous file shown is " /usr/share/zabbix/conf/zabbix.conf.php" what probably happened is, that the DB Port in /usr/share/zabbix/conf/zabbix.conf.php is wrong. If not compare it to /etc/zabbix/dbconf. They should be identical, if not, thats the problem right there.
+ 
+Also even when Zabbix does come up cleanly and you can login check the Zabbix Servers Logfile for MySQl Connection errors. If there are some make sure the DBPassword in /etc/zabbix/zabbix_server.conf is set correctly.
+
+With Zabbix up and running you're ready to get hosts in there and configure your templates for Services and stuff. All hosts you want to monitor need the zabbix agent, which then needs configuration in /etc/zabbix/zabbix_agent.conf and zabbix_agentd.conf.
+
+For more information feel free to ask juwi at our XMPP chat@conference.torservers.net or read through zabbixs' excellent documentation at www.zabbix.com/documentation or www.zabbix.com/wiki for some of the more advanced use cases
+
+BTW: The Built in Jabber Notifier doesn't work very well (doesn't really seem to work at all with encryption). A workaround can be found here: http://forums.admon.org/admon-help/8833-how-send-jabber-message-zabbix-alternative-way.html
+===But I want shiny graphics!=== 
+
+Zabbix can easily provide you with that, but it is not quite as easy to get to as with Cacti or mrtg, so if graphs are all you want then use one of those.
+=====Further Considerations=====
+
+====What to do with Logfiles====
+
+Centralized Logfile Analysis is usually a good idea as soon as there are more than a handful nodes.
+
+rsyslogd and syslog-ng both provide you with the ability to send Logfiles to a centralized host. rsyslogd even has built in TLS Encryption with X.509 Authentication. For actually doing something useful with those Logs Splunk is probably a good candidate.
+
+As you might have guessed though, zabbix also provides you with a way to monitor logfiles via active checks, which must be enabled in the agent. For more information look at their documentation. It describes very well what needs to be done.

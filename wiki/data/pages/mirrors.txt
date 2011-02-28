@@ -1,0 +1,35 @@
+====== Tor Mirrors ======
+
+People need alternative ways to download Tor if torproject.org is blocked for them.
+===== Torproject.org Mirrors =====
+
+( https://www.torproject.org/getinvolved/mirrors.html.en )
+
+  * https://www.oignon.net/
+  * https://www.torproject.us/
+  * https://tor.beme-it.de/
+  * https://torproj.xpdm.us/
+  * https://tor.blingblingsquad.net/
+  * https://tor.tomyn.com/
+  * https://tor-www.5coluna.com/
+  * http://jan25.virtadpt.net/ (Source, executables, browser bundles, all with PGP signatures.)
+
+===== Bittorrent Download =====
+
+  * All releases: https://www.torservers.net/mirrors/torrents/
+  * Tor Browser 1.3.17: [[https://www.torservers.net/mirrors/torrents/torbrowser/tor-browser-1.3.17_en-US.exe.torrent|Windows]] [[https://www.torservers.net/mirrors/torrents/torbrowser/osx/TorBrowser-1.0.12-dev-osx-i386-en-US.zip.torrent|OSX]] [[https://www.torservers.net/mirrors/torrents/torbrowser/linux/tor-browser-gnu-linux-i686-1.1.4-dev-en-US.tar.gz.torrent|Linux i686]] [[https://www.torservers.net/mirrors/torrents/torbrowser/linux/tor-browser-gnu-linux-x86_64-1.1.4-dev-en-US.tar.gz.torrent|Linux x64]]
+  * Vidalia Bundle 0.2.1.29: [[https://www.torservers.net/mirrors/torrents/vidalia-bundles/vidalia-bundle-0.2.1.29-0.2.10.exe.torrent|Windows]] [[https://www.torservers.net/mirrors/torrents/vidalia-bundles/vidalia-bundle-0.2.1.29-0.2.10-i386-1.dmg.torrent|OSX]]
+  * [[https://www.torservers.net/mirrors/torrents/android/0.2.2.14-alpha-orbot-1.0.4.apk.torrent|Android]]
+
+If you suspect your Internet connection to be monitored, make sure to turn off [[http://www.bittorrent.org/beps/bep_0022.html|Local Tracker Discovery]] in your BT client (only implemented in a few clients and should already be disabled by default).
+
+(todo: magnet URIs)
+===== Tor by Email =====
+
+( https://www.torproject.org/projects/gettor.html.en )
+
+Use a Gmail address and send an email with the body "help" to gettor AT torproject.org.
+
+===== QR Code =====
+
+{{:torinstructions-qr.png|tor instructions qr code}}

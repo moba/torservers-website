@@ -1,0 +1,25 @@
+====== Tor User Groups ======
+
+You are interested in Tor? Have questions? Meet other local Tor users! Organize a Tor hackfest! Hold workshops, etc. Your ideas welcome.
+
+For now, just add yourself to this page. Include some contract information and areas you are interested in.
+
+===== World Map ====
+FIXME: Insert static image of world map with nice markers
+
+===== Netherlands =====
+
+  * Utrecht: http://2600nl.net/wiki/meetings/signup
+
+===== Germany =====
+
+  * Dresden: [[users:moritz|Moritz]] (press contact, user groups, workshops; anything really)
+  * Bremen: ask on IRC
+  * München: Poldi (for contact information look up node NamiTemp2)
+  * Berlin: Juris (user groups, sponsor meetings, workshops, ...) Contact: juris AT torservers.net
+
+===== Washington, DC =====
+  * The Doctor: Presentations, training, tutorials, user groups, code hacking. PGP key id: 0x807B17C1, ([[https://privacybox.de/cgi-bin/tram_msg.pl?sus=drwho|privacybox.de]])
+
+===== Bay Area, CA =====
+  * raidz: (training, meetings) Contact: andrew AT torservers.net

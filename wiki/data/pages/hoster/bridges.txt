@@ -1,0 +1,23 @@
+====== Tor Bridge Hosting ======
+
+We need a large number of non-consecutive IPs for Tor bridges. Bridges are used by people behind restrictive firewalls that block access to the Tor network. They are only used as entry node to reach the Tor network, and only pass encrypted traffic between Tor clients and Tor middle nodes. As such, they will not generate abuse complaints or any trouble.
+
+===== Action Request =====
+
+It is very unlikely that any single ISP is able to offer more than ten non-consecutive IPs from different subnets. Please help us and look for cheap "unmetered" VPS with cheap pricing for extra IPs. 
+
+**Please collect possible VPS/shell offers and a contact email address and we will approach them.**
+
+Contact support and ask if it is possible to get non-consecutive IPs.
+The problem is that most requests for non-consecutive IPs come from spammers and shady Search Engine Optimizers. Most likely you will have to explain nicely that there is no abuse or other risk (eg. point them to this URL in a personal chat? - we could use a nice page that explains the concept in full).
+
+  * shell/eggdrop/IRC bounce providers usually have cheap shell accounts and can be found on IRC to chat about it
+
+Also, it is probably worth to ask in various hosting forums. Often, ISPs are not antipathetic towards helping especially blocked Tor users (who usually are not the ones abusing the network).
+
+===== Open Questions =====
+
+  * how do we monitor usage?
+    * how do we run a bridge authority? what benefits does that bring?
+  * how do we keep track of who we gave the bridge IP to?
+  * https://trac.torproject.org/projects/tor/ticket/2510
