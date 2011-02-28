@@ -8,17 +8,7 @@ We're a slowly, but healthily growing family of Tor friends. Anyone is welcome t
 
 ==== Bridges ====
 
-So far, we received only single requests for bridges, that's why - very unfortunately - this hasn't been high on our priority list. I think it should be put energy into
-
-  * finding the best deals for small VPS'es in various countries with a large number of non-consecutive IPs
-  * not used as exits at all, so no complaint problem there
-
-Someone should go hunting. Also, it is probably worth to ask in various hosting forums. Often, ISPs are not antipathetic towards helping especially blocked Tor users (who usually are not the ones abusing the network), and, serving as entry node, there's no risk associated.
-
-  * how do we set up bridge nodes that listen to a large number of IPs? https://trac.torproject.org/projects/tor/ticket/2510
-  * how do we monitor usage?
-  * and, how do we keep track of who we gave the bridge IP to?
-
+-> [[hoster:bridges|Tor Bridges Action Request]]
 ==== Exits ====
 
   * monitoring

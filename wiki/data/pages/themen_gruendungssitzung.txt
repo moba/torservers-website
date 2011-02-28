@@ -2,7 +2,7 @@
 
 ===== Ziele des Vereins =====
 
-    * verlässliche Partner für Tor Exits ausfindig mache; diese Informationen allen Interessenten zugänglich machen
+    * verlässliche Partner für Tor Exits ausfindig machen; diese Informationen allen Interessenten zugänglich machen
     * eigene Server betreiben
     * Ansprechpartner für Medien und sonstige Interessenten bieten
     * Tor Nutzergruppen/"Freunde" zusammenbringen (lokale Gruppen, globale Vernetzung) 

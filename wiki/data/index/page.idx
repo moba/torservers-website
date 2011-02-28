@@ -32,3 +32,4 @@ usergroups
 users:moritz
 setup_3amailserver
 setup:blockbittorrent
+hoster:bridges
