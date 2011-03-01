@@ -33,3 +33,5 @@ users:moritz
 setup_3amailserver
 setup:blockbittorrent
 hoster:bridges
+setup:bridge
+satzung

@@ -24,3 +24,10 @@
 1298984828	127.0.0.1	e	intro	moritz	fixed	
 1298996465	127.0.0.1	E	setup:server	moritz	mtu 9000	
 1299013808	127.0.0.1	e	guides	moritz	bridge on debian howto linked	
+1299015204	127.0.0.1	C	setup:bridge	moritz	created	
+1299015359	127.0.0.1	E	setup:bridge	moritz	[Questions?] 	
+1299015617	127.0.0.1	e	setup:bridge	moritz	windows etc	
+1299015685	127.0.0.1	e	setup:bridge	moritz	changed section headers	
+1299016270	127.0.0.1	e	vereinsorganisation	moritz	Satzungsentwurf moved to Satzung	
+1299016285	127.0.0.1	C	satzung	moritz	created	
+1299016305	127.0.0.1	D	satzungsentwurf_verein	moritz	removed	

@@ -1,0 +1,44 @@
+====== Tor Bridge Setup ======
+
+Bridges are used by people behind restrictive firewalls that block access to the Tor network. They are only used as entry node to reach the Tor network, and only pass encrypted traffic between Tor clients and Tor middle nodes. As such, they will not generate abuse complaints or any trouble.
+
+This guide will set up a bridge on port 443 and pass its details to Torproject, who will take care of distributing it to those in need. If you want to distribute the bridge IP yourself, uncomment the "PublishServerDescriptor 0" line in torrc before starting Tor. If you want to use a different port, change the "ORPort" line.
+
+===== Windows =====
+
+See -> [[https://www.torproject.org/docs/bridges#RunningABridge]]
+
+===== Debian =====
+
+==== Preparation ====
+
+<code># add tor sources
+echo 'deb     http://deb.torproject.org/torproject.org squeeze main' >> /etc/apt/sources.list
+echo 'deb     http://deb.torproject.org/torproject.org experimental-squeeze main' >> /etc/apt/sources.list
+gpg --keyserver keys.gnupg.net --recv 886DDD89
+gpg --export A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89 | apt-key add -
+aptitude update</code>
+
+==== Installation ====
+
+<code>apt-get install tor tor-geoipdb
+/etc/init.d/tor stop
+cd /etc/tor
+mv torrc torrc.dist
+wget -O torrc https://www.torservers.net/misc/config/torrc-bridge
+/etc/init.d/tor start</code>
+
+Make sure that incoming connections to port 443 TCP are allowed in your firewall configuration.
+
+====== How do I know if it worked? ======
+
+Open /var/log/tor/log (Linux). In Vidalia: Message Log -> Advanced. The last lines should be similar to this:
+
+<code>Mar 01 21:24:31.143 [notice] Bootstrapped 100%: Done.
+Mar 01 21:24:31.143 [notice] Now checking whether ORPort YOURIP:443 is reachable... (this may take up to 20 minutes -- look for log messages indicating success)
+Mar 01 21:25:28.438 [notice] Self-testing indicates your ORPort is reachable from the outside. Excellent.
+Mar 01 21:25:33.150 [notice] Performing bandwidth self-test...done.</code>
+
+====== Questions? ======
+
+Don't be afraid to ask. There are helpful people on irc.oftc.net #tor around the clock.

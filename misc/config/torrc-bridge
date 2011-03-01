@@ -1,7 +1,11 @@
-SocksPort 0
+## default bridge port 443
 ORPort 443
-BridgeRelay 1
-Exitpolicy reject *:*
 
 ## uncomment if you don't want torproject.org to know your bridge
 # PublishServerDescriptor 0
+
+## leave rest unchanged
+
+SocksPort 0
+BridgeRelay 1
+Exitpolicy reject *:*
