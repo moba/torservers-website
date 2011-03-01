@@ -12,6 +12,8 @@ See -> [[https://www.torproject.org/docs/bridges#RunningABridge]]
 
 ===== Debian =====
 
+What about other Linux distros? Why don't you provide a distro independent solution?
+
 ==== Preparation ====
 
 <code># add tor sources
