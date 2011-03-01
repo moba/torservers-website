@@ -225,31 +225,6 @@ h3 {
  list-style: none;  
 }
 
-.de {
- background:url("./images/flags/de.png") 0.5em 40% no-repeat; 
- padding-left: 3em; 
-}
-
-.au {
- background:url("./images/flags/au.png") 0.5em 40% no-repeat; 
- padding-left: 3em; 
-}
-
-.us {
- background:url("./images/flags/us.png") 0.5em 40% no-repeat; 
- padding-left: 3em; 
-}
-
-.nl {
- background:url("./images/flags/nl.png") 0.5em 40% no-repeat; 
- padding-left: 3em; 
-}
-
-.ch {
- background:url("./images/flags/ch.png") 0.5em 40% no-repeat; 
- padding-left: 3em; 
-}
-
 iframe {
  margin-top: 5px;
  padding: 0;
@@ -369,4 +344,35 @@ h2#info {
  background-color:#eee;
  padding:5px;
  margin:-5px -5px 5px -5px;
+}
+
+
+.de {
+ background:url("./images/flags/de.png") 0.5em 40% no-repeat; 
+ padding-left: 3em; 
+}
+
+.au {
+ background:url("./images/flags/au.png") 0.5em 40% no-repeat; 
+ padding-left: 3em; 
+}
+
+.us {
+ background:url("./images/flags/us.png") 0.5em 40% no-repeat; 
+ padding-left: 3em; 
+}
+
+.nl {
+ background:url("./images/flags/nl.png") 0.5em 40% no-repeat; 
+ padding-left: 3em; 
+}
+
+.ch {
+ background:url("./images/flags/ch.png") 0.5em 40% no-repeat; 
+ padding-left: 3em; 
+}
+
+.cz {
+ background:url("./images/flags/cz.png") 0.5em 40% no-repeat; 
+ padding-left: 3em; 
 }

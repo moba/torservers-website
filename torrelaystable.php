@@ -11,11 +11,10 @@
  </thead>
 
  <tr> 
-  <td class="us"><s><a href="$base/status/softlayer.png">anonymizer3/anonymizer4</a></s></td><td><font color="green">320 mbit/s</font></td><td>-</td><td>many</td>
+  <td class="cz"><a href="http://fdc1.torservers.net/">fdc1</a></td><td><font color="green">1000 mbit/s</font></td><td>-</td><td>many</td>
  </tr>
  <tr>
-  <td colspan="4"><font color="green"><b>Community funded exit relay; currently down <a href="http://www.freelists.org/post/torservers/Softlayer-finally-kicks-us-from-their-data-center">because Softlayer kicked us</a>. </b></font>
-  <br/>We're working on a good new deal with multiple ISPs. <a href="$base/status/softlayer.png">Bandwidth history June 2010 to January 2011</a></td>
+  <td colspan="4"><font color="green"><b>Community funded exit relay</b></font> with FDCServers.</td>
  </tr>
  <tr> 
   <td class="nl"><a href="http://evoboxes.torservers.net/">evoboxes</a></td><td>160 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=08a4074ffc993a50aabe787bf78161df2243cd41" rel="external">08A4 074F FC99 3A50 AABE 787B F781 61DF 2243 CD41</a></td><td>many</td>
