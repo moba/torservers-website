@@ -184,13 +184,22 @@ Only use if you need to optimize. You might also be interested in this or-relay 
 [[http://thread.gmane.org/gmane.network.onion-routing.general/2841|How to Run High Capacity Tor Relays]]
 
 <code>
+# remove "exit" from rc.local, then
 echo 'ifconfig eth0 txqueuelen 20000' >> /etc/rc.local
+
 cd /etc
 mv sysctl.conf sysctl.conf.dist
 wget http://www.torservers.net/misc/config/sysctl.conf
-  -  go through the settings once again! some only useful with large memory and CPU
-  -  better tweaking probably possible; magic involved
+# go through the settings once again! some only useful with large memory and CPU
+# better tweaking probably possible; magic involved
 sysctl -p
+</code>
+
+==== MTU "Jumbo Frames"====
+
+<code>
+ifconfig eth0 mtu 9000
+# to make permanent, add "mtu 9000" to /etc/network/interfaces
 </code>
 
 ==== Receive Packet Steering (RPS) ====

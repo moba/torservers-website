@@ -1,3 +1,4 @@
 1298170972	127.0.0.1	C	setup:server	moritz	created	
 1298222269	127.0.0.1	E	setup:server		[section 11] 	
 1298222298	127.0.0.1	E	setup:server		[High Bandwidth Tweaks (>100 mbps?)] 	
+1298996465	127.0.0.1	E	setup:server	moritz	mtu 9000	
