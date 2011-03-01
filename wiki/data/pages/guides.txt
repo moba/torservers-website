@@ -1,5 +1,8 @@
 ====== Tor Client ======
 
+====== Tor Bridge ======
+
+  * [[setup:bridge|Bridge on Debian]]
 
 ====== Tor Server (Relay) ======
 
