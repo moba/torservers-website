@@ -19,6 +19,7 @@ For setup and configuration, see [[guides|Tor Guides]].
 |en|[[http://www.howcast.com/videos/90601-How-To-Circumvent-an-Internet-Proxy|Howcast: How To Circumvent an Internet Proxy]]|video|
 |en|[[http://drwho.virtadpt.net/archive/2010/04/10/my-novalug-presentation-was-a-success|Slides for Tor presentation at NOVALUG 2010]]|slides|
 |fas|[[http://25bahman.com/internet-security-privacy|امنیت و حفاظت از حریم خصوصی]]|text|
+|ar|[[http://www.france24.com/ar/20110222-tor-anonymity-protect-privacy-computer|التصفح الخفي على الانترنت]]|text+audio|
 </sortable>
 
 [[https://svn.torproject.org/cgi-bin/viewvc.cgi/projects/presentations/|Torproject.org: Tor Presentations]]
