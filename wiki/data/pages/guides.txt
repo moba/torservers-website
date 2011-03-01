@@ -1,18 +1,20 @@
 ====== Tor Client ======
 
-====== Tor Bridge ======
+FIXME 
 
-  * [[setup:bridge|Bridge on Debian]]
+Explain Vidalia, Browser Bundle, why everyone should use Tor with Torbutton and Firefox only. Quick installation guides in all languages.
 
-====== Tor Server (Relay) ======
+====== Tor Relay ======
 
+  * [[setup:bridge|Setting up a Tor Bridge in less than 5 Minutes]]
   * [[setup:server|Torservers Tor Server Setup]]
   * [[http://blog.minibofh.org/?p=66|Tor relay in virtualized OpenBSD with KVM]] (3. Jan 2011)
 
 ===== Advanced =====
 
   * [[setup:libevent2|Tor with libevent2]]
-  * [[setup:blockbittorrent|Block BitTorrent tracker]]
+  * [[setup:blockbittorrent|Block BitTorrent trackers]]
+
 ====== Other ======
 
   * [[setup:mailserver|Secure Mailserver]]

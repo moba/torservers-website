@@ -2,6 +2,8 @@
 
 Bridges are used by people behind restrictive firewalls that block access to the Tor network. They are only used as entry node to reach the Tor network, and only pass encrypted traffic between Tor clients and Tor middle nodes. As such, they will not generate abuse complaints or any trouble.
 
+**You can help even if you have only 20kb/s and a dynamic IP.**
+
 This guide will set up a bridge on port 443 and pass its details to Torproject, who will take care of distributing it to those in need. If you want to distribute the bridge IP yourself, uncomment the "PublishServerDescriptor 0" line in torrc before starting Tor. If you want to use a different port, change the "ORPort" line.
 
 ===== Windows =====
