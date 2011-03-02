@@ -1,0 +1,34 @@
+====== Mit Zwiebeln gegen Diktatoren ======
+
+  * Als PDF: https://www.torservers.net/presse/Mit-Zwiebeln-gegen-Diktatoren.pdf
+
+==== Torservers.net unterstützt Demokratiebewegung in der arabischen Welt ====
+
+Freier, unzensierter Zugang zum Internet kann Diktatoren stürzen und Völker befreien. Das zeigen die jüngsten Ereignisse in Nordafrika. Ob in Tunesien, Ägypten oder Libyen – die Revolution ist untrennbar mit dem Internet verbunden. Soziale Netze wie Facebook und Twitter spielen gerade dort, wo es kaum unabhängige Medien gibt, eine Schlüsselrolle für die weltweite Demokratisierung.
+
+==== Mit Tor zur Freiheit ====
+
+Freies Internet ohne Zensur und Überwachung - möglich macht das Tor. Tor leitet den Datenverkehr verschlüsselt über Zwischenstationen. Es nutzt dabei ausschließlich Bandbreite, die von Freiwilligen zur Verfügung gestellt wird. Täglich nutzen etwa 200.000 Menschen Tor, darunter NGOs, Journalisten, Menschenrechtsaktivisten,  Firmen und Regierungsmitglieder. Tor ist offene Software und für alle Nutzer völlig kostenlos erhältlich.
+
+==== Torservers.net erhält Förderung über 10.000 US Dollar ====
+
+Finanziert wurde das Projekt Torservers.net bislang überwiegend aus privaten Spendengeldern. Nun ist es Gründer Moritz Bartl und seinem Team gelungen, mit der Organisation „Access Now“ einen starken Partner zu gewinnen. „Access Now“ fördert Torservers.net über sechs Monate mit 10.000 US Dollar und hat weitere Fördergelder in Aussicht gestellt. Dadurch wird Torservers.net zum größten Betreiber der Tor-Infrastruktur.
+
+==== Gründung von Zwiebelfreunde e.V. ====
+
+Am 26. März 2011 wird Moritz Bartl den gemeinnützigen Verein Zwiebelfreunde e.V. gründen. Der Verein übernimmt die erfolgreiche Plattform Torservers.net. Darüber hinaus wird er als Vermittler und Ansprechpartner Nutzer und Interessenten von Zensurumgehung näher zusammen bringen. Dazu zählen Treffen und Workshops ins verschiedenen Städten Deutschlands. Zusammen mit dem Whistleblower-Netzwerk, Open Data e.V., der schwedischen Aktivistengruppe Telecomix, Privacy International und weiteren internationalen Partnern „wird so sichergestellt, dass Zensur im Internet keine Chance hat“, so der Gründer im Interview.
+„Zwiebelfreunde“? Onion Routing nennt sich das Verfahren, das für unüberwachbare und freie Kommunikation sorgt und auch bei Tor eingesetzt wird. Die Botschaft wird in mehreren Schichten verschlüsselt, ähnlich der Haut einer Zwiebel.
+
+=== Ansprechpartner: ===
+
+Moritz Bartl\\
+
+Torservers.net\\
+DID Dresdner Institut für Datenschutz\\
+Königstrasse 9\\
+01097 Dresden\\
+
+presse@torservers.net\\
+Tel.: 0176 / 96 373 484\\
+Fax.: 0911 / 308 4466 748\\
+http://www.torservers.net/
