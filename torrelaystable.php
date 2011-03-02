@@ -14,7 +14,11 @@
   <td class="cz"><a href="http://fdc1.torservers.net/">fdc1</a></td><td><font color="green">1000 mbit/s</font></td><td>-</td><td>many</td>
  </tr>
  <tr>
-  <td colspan="4"><font color="green"><b>Community funded exit relay</b></font> with FDCServers.</td>
+  <td colspan="4"><font color="green"><b>Community funded exit relay</b></font> with FDCServers.
+  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=7326be7d3262f2fe813bc8e38613c80d0132d81d">katari</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=c5ea3b664af656e5794ecee4935c3e84da86d661">katari2</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/T%C3%BApac_Katari">Túpac Katari</a>.
+  / <a href="https://torstatus.blutmagie.de/router_detail.php?FP=0e651cacd51bc95300b41f47c82ba0f07686b450">bouazizi</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=94b4e563fc3d756cae9d28316751449653c48e05">bouazizi2</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Mohamed_Bouazizi">Mohamed Bouazizi</a>.
+  / <a href="https://torstatus.blutmagie.de/router_detail.php?FP=ab9710104a6d0d7457079ca8ca5d494af6332e92">bolivar</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=308a86d470c851c4944f455f8f2b11a4275bce6b">bolivar2</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar">Simón Bolívar</a>.
+  </p></td>
  </tr>
  <tr> 
   <td class="nl"><a href="http://evoboxes.torservers.net/">evoboxes</a></td><td>160 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=08a4074ffc993a50aabe787bf78161df2243cd41" rel="external">08A4 074F FC99 3A50 AABE 787B F781 61DF 2243 CD41</a></td><td>many</td>
