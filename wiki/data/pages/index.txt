@@ -1,15 +1,12 @@
-====== Wiki ======
-
-**Feel free to edit!**
-
-===== Tor =====
+====== Tor ======
 
   * [[intro|Introduction Material]]
   * [[guides|Tor Quick Setup Guides]]
   * [[media|Tor in Media]]
-  * [[mirrors|Tor Mirrors]]
+  * [[mirrors|Tor Download Mirrors]]
   * [[usergroups|Tor User Groups]]
-===== Torservers.net =====
+
+====== Torservers.net ======
 
   * [[TODO]]
   * [[FAQ]] (please fill)
@@ -17,16 +14,17 @@
   * [[hoster:bridges|Bridge Hosters]]
   * [[Abuse Handling]]
 
-==== Technical Guides ====
+===== Technical Guides =====
 
   * [[setup:server|Torservers Exit Server Setup]]
   * [[setup:mailserver|Secure Mailserver Setup]]
   * [[Monitoring]]
-===== Zwiebelfreunde =====
 
-  * [[Vereinsorganisation]]
+====== Zwiebelfreunde ======
 
-===== Wiki: Recent Changes =====
+  * [[Satzung]]
+  * [[Themen Gründungssitzung]]
+====== Wiki: Recent Changes ======
 
 Use "Edit summary" when editing.
 
