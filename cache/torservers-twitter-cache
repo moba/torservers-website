@@ -1,23 +1,23 @@
 s:8133:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
-  <link type="text/html" rel="alternate" href="http://search.twitter.com/search?q=from%3Atorservers"/>
-  <link type="application/atom+xml" rel="self" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5"/>
+  <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
   <title>from:torservers - Twitter Search</title>
-  <link type="application/opensearchdescription+xml" rel="search" href="http://search.twitter.com/opensearch.xml"/>
-  <link type="application/atom+xml" rel="refresh" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=42841566204792832"/>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=42856665694998529" rel="refresh"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
   <updated>2011-03-01T21:44:18Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" rel="next" href="http://search.twitter.com/search.atom?max_id=42841566204792832&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=42856665694998529&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
   <entry>
     <id>tag:search.twitter.com,2005:42701720119287809</id>
     <published>2011-03-01T21:44:18Z</published>
-    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/42701720119287809"/>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/42701720119287809" rel="alternate"/>
     <title>How to set up a #Tor bridge in less than 5 minutes https://www.torservers.net/wiki/setup/bridge</title>
     <content type="html">How to set up a &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt; bridge in less than 5 minutes &lt;a href=&quot;https://www.torservers.net/wiki/setup/bridge&quot;&gt;https://www.torservers.net/wiki/setup/bridge&lt;/a&gt;</content>
     <updated>2011-03-01T21:44:18Z</updated>
-    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
@@ -33,11 +33,11 @@ s:8133:"<?xml version="1.0" encoding="UTF-8"?>
   <entry>
     <id>tag:search.twitter.com,2005:42653412445257728</id>
     <published>2011-03-01T18:32:20Z</published>
-    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/42653412445257728"/>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/42653412445257728" rel="alternate"/>
     <title>RT @runasand: Help translate Tor and torproject.org into other languages (especially Arabic and Farsi): https://www.transifex.net/projects/p/torproject/</title>
     <content type="html">RT &lt;a href=&quot;http://twitter.com/runasand&quot;&gt;@runasand&lt;/a&gt;: Help translate Tor and torproject.org into other languages (especially Arabic and Farsi): &lt;a href=&quot;https://www.transifex.net/projects/p/torproject/&quot;&gt;https://www.transifex.net/projects/p/torproject/&lt;/a&gt;</content>
     <updated>2011-03-01T18:32:20Z</updated>
-    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
@@ -53,11 +53,11 @@ s:8133:"<?xml version="1.0" encoding="UTF-8"?>
   <entry>
     <id>tag:search.twitter.com,2005:42571840241156096</id>
     <published>2011-03-01T13:08:12Z</published>
-    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/42571840241156096"/>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/42571840241156096" rel="alternate"/>
     <title>Help us collect introduction material on #Tor in all languages https://www.torservers.net/wiki/intro  @telecomix @internet #followerpower</title>
     <content type="html">Help us collect introduction material on &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt; in all languages &lt;a href=&quot;https://www.torservers.net/wiki/intro&quot;&gt;https://www.torservers.net/wiki/intro&lt;/a&gt;  &lt;a href=&quot;http://twitter.com/telecomix&quot;&gt;@telecomix&lt;/a&gt; &lt;a href=&quot;http://twitter.com/internet&quot;&gt;@internet&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23followerpower&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#followerpower');&quot;&gt;#followerpower&lt;/a&gt;</content>
     <updated>2011-03-01T13:08:12Z</updated>
-    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
@@ -73,11 +73,11 @@ s:8133:"<?xml version="1.0" encoding="UTF-8"?>
   <entry>
     <id>tag:search.twitter.com,2005:42568395396354048</id>
     <published>2011-03-01T12:54:31Z</published>
-    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/42568395396354048"/>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/42568395396354048" rel="alternate"/>
     <title>It's a new month. Help us hit the Top 10 on Flattr: https://flattr.com/thing/5649 (currently: 16)</title>
     <content type="html">It&amp;apos;s a new month. Help us hit the Top 10 on Flattr: &lt;a href=&quot;https://flattr.com/thing/5649&quot;&gt;https://flattr.com/thing/5649&lt;/a&gt; (currently: 16)</content>
     <updated>2011-03-01T12:54:31Z</updated>
-    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
@@ -93,11 +93,11 @@ s:8133:"<?xml version="1.0" encoding="UTF-8"?>
   <entry>
     <id>tag:search.twitter.com,2005:42518931654721536</id>
     <published>2011-03-01T09:37:57Z</published>
-    <link type="text/html" rel="alternate" href="http://twitter.com/torservers/statuses/42518931654721536"/>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/42518931654721536" rel="alternate"/>
     <title>You guys are SO GREAT! Thanks for understanding the importance of Tor! #Flattr revenue Feb: 93.44&#8364;</title>
     <content type="html">You guys are SO GREAT! Thanks for understanding the importance of Tor! &lt;a href=&quot;http://search.twitter.com/search?q=%23Flattr&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Flattr');&quot;&gt;#Flattr&lt;/a&gt; revenue Feb: 93.44&#8364;</content>
     <updated>2011-03-01T09:37:57Z</updated>
-    <link type="image/png" rel="image" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg"/>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
