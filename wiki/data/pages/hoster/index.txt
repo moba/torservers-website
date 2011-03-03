@@ -20,7 +20,7 @@ Suggest hosters and I will contact them.
 | [[http://www.t-n-media.de/|t-n media]] | RO | N | 250€ 1Gbit dedicated Intel Core i7, 6GB RAM, 2x 1,5TB | tor ok, will forward abuse |
 | [[http://www.net100tb.com|Net100TB]] | NL | N | 219€: 100TB in+out, Quad, 8GB RAM | |
 | [[http://www.yazuhost.com/|Yazuhost]] | NL | N | 150€ 100TB up 100TB down Xeon 3210, 4GB RAM, 500GB | tor ok, Leaseweb reseller, can forward DMCA complaints |
-
+| [[http://www.zenex5ive.com/|Xenex]] | USA | N | $379 E5620 8GB 2x500GB 100TB | "We cannot reassign IP blocks." |
 ===== currently contacting =====
 ^ ISP ^ Location ^ custom whois ^ offer/orientation ^ comment ^
 | [[http://RapidSpeeds.com|RapidSpeeds]] |  | | 140GBP 1Gbit unmetered | Not going to host you. no custom WHOIS| 
