@@ -13,6 +13,7 @@
   * [[hoster:|Hoster List]] - [[hoster:inquiry|Inquiry Templates]]
   * [[hoster:bridges|Bridge Hosters]]
   * [[Abuse Handling]]
+  * [[names|Suggest a Name for our Exit Nodes]]
 
 ===== Technical Guides =====
 
