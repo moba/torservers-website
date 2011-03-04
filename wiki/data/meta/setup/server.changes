@@ -7,3 +7,5 @@
 1299242356	127.0.0.1	E	setup:server	moritz	vnstati	
 1299242428	127.0.0.1	e	setup:server	moritz	self compile	
 1299243987	127.0.0.1	e	setup:server	moritz	crontab -u	
+1299261887	127.0.0.1	e	setup:server	moritz	generate vnstats less often	
+1299262095	127.0.0.1	e	setup:server	moritz	absolute paths in cronjobs	

@@ -51,3 +51,5 @@
 1299242428	127.0.0.1	e	setup:server	moritz	self compile	
 1299243987	127.0.0.1	e	setup:server	moritz	crontab -u	
 1299248882	127.0.0.1	E	todo	moritz	website and wiki pushed to github	
+1299261887	127.0.0.1	e	setup:server	moritz	generate vnstats less often	
+1299262095	127.0.0.1	e	setup:server	moritz	absolute paths in cronjobs	
