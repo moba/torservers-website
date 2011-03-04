@@ -2,3 +2,5 @@
 1298222269	127.0.0.1	E	setup:server		[section 11] 	
 1298222298	127.0.0.1	E	setup:server		[High Bandwidth Tweaks (>100 mbps?)] 	
 1298996465	127.0.0.1	E	setup:server	moritz	mtu 9000	
+1299240702	127.0.0.1	e	setup:server	moritz	headline	
+1299241309	127.0.0.1	e	setup:server	moritz	init.d script for multiple installations	

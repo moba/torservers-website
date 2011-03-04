@@ -1,4 +1,4 @@
-
+====== Tor Exit Full Setup ======
 
 =====  Basic Setup  =====
 
@@ -178,11 +178,13 @@ wget http://www.torservers.net/misc/config/named.conf.options
 vi /etc/resolv.conf # insert top: nameserver 127.0.0.1
 </code>
 
-=====  High Bandwidth Tweaks (>100 mbps?)  =====
+======  High Bandwidth Tweaks (>100 mbps?)  ======
 
-Only use if you need to optimize. You might also be interested in this or-relay thread regarding high speed relay tweaks:
+Currently, Tor does not scale on multicore CPUs. One Tor process is able to handle around 100mbps of throughput. If your line supports more, you will need to run multiple Tor processes. There is a modified initscript that makes it easy to manage multiple Tor configurations on one machine: http://archives.seul.org/or/relays/Sep-2010/msg00004.html
+
+You might also be interested in this or-relay thread regarding high speed relay tweaks:
 [[http://thread.gmane.org/gmane.network.onion-routing.general/2841|How to Run High Capacity Tor Relays]]
-
+ 
 <code>
 # remove "exit" from rc.local, then
 echo 'ifconfig eth0 txqueuelen 20000' >> /etc/rc.local
@@ -226,7 +228,8 @@ echo 16384 > /proc/sys/net/core/rps_sock_flow_entries
 </code>
 
 To make it permanent put it some place useful (can it be put into sysctl.conf?)
-=====  TODO/Extras/Open Discussions  =====
+
+======  TODO/Extras/Open Discussions  ======
 
   *  VPN - openVPN?
   *  TODO: pull MyFamily setting from a central place, signed - or push it to all machines from local machine?
