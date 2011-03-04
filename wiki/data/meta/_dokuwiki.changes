@@ -49,3 +49,4 @@
 1299241309	127.0.0.1	e	setup:server	moritz	init.d script for multiple installations	
 1299242356	127.0.0.1	E	setup:server	moritz	vnstati	
 1299242428	127.0.0.1	e	setup:server	moritz	self compile	
+1299243987	127.0.0.1	e	setup:server	moritz	crontab -u	

@@ -172,8 +172,7 @@ cd /var/www
 touch vnstat.png vnstat_d.png vnstat_m.png
 chown www-data:www-data vnstat*.png
 # set up cron job
-su www-data
-crontab -e
+crontab -u www-data -e
 </code>
 
 <code>*/5 * * * * vnstati -vs -o /var/www/vnstat.png -i eth0 >/dev/null 2>&1
