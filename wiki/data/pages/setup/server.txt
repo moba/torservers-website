@@ -78,6 +78,7 @@ dpkg-reconfigure exim4-config
 # "internet site; mail is sent and received directly using SMTP"
 # all default 
 </code>
+
 =====  Tor  =====
 
   * https://blog.torproject.org/blog/tips-running-exit-node-minimal-harassment
@@ -160,6 +161,28 @@ wget http://www.torservers.net/misc/config/10-proxy.conf
 </code>
 
 By default this will redirect requests for /tor/ to 127.0.0.1 port 9030; edit torrc and set DirPort to 80 and DirListenAddress to 127.0.0.1:9030.
+
+===== Generate Bandwidth Stats =====
+
+We want to have better stats (feel free to help on this). For now, we use vnstat and vnstati to generate public bandwidth stats on each node individually.
+
+<code>
+# create empty images in root-owned /var/www and change owner to www-data
+cd /var/www
+touch vnstat.png vnstat_d.png vnstat_m.png
+chown www-data:www-data vnstat*.png
+# set up cron job
+su www-data
+crontab -e
+</code>
+
+<code>*/5 * * * * vnstati -vs -o /var/www/vnstat.png -i eth0 >/dev/null 2>&1
+*/5 * * * * vnstati -d -o /var/www/vnstat_d.png -i eth0 >/dev/null 2>&1
+1 * * * * vnstati -m -o /var/www/vnstat_m.png -i eth0 >/dev/null 2>&1
+</code>
+
+If you still run Debian Lenny, vnstati is not in the default repository. You can find it here: http://debian.uvena.de/stable/packages.php
+
 =====  Local DNS server  =====
 
   * usually it is not recommended to directly poll the root DNS servers; you should set up Bind as a Caching DNS and use various upstream DNS servers
@@ -184,6 +207,8 @@ Currently, Tor does not scale on multicore CPUs. One Tor process is able to hand
 
 You might also be interested in this or-relay thread regarding high speed relay tweaks:
 [[http://thread.gmane.org/gmane.network.onion-routing.general/2841|How to Run High Capacity Tor Relays]]
+
+If you're hitting CPU or memory limits, you might want to look into [[http://moblog.wiredwings.com/archives/20100427/Tor-on-Debian,-self-compiled-for-better-Performance.html|compiling your own Tor]].
  
 <code>
 # remove "exit" from rc.local, then
