@@ -37,10 +37,10 @@ One of our goals is to offer press contacts and organize local hackfests and wor
   * need help on writing press releases, proposals, funding applications etc., in all languages
   * collect articles and howtos on tor for wiki
   * design: other icons, onion graphic, logo? anyone?
+  * https://github.com/moba/torservers-website
 
 ==== Tech ====
 
-  * push website to github
   * enable website translations (move everything to dokuwiki? or use gettext on our simple website code?)
   * contact form with gpg encryption
   * move mailinglist; offer secure mailinglists. [[http://www.sympa.org/|sympa]] (used by riseup) or mailman?
