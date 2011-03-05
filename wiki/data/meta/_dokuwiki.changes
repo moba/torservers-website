@@ -52,3 +52,7 @@
 1299262095	127.0.0.1	e	setup:server	moritz	absolute paths in cronjobs	
 1299268305	127.0.0.1	e	setup:server	moritz	;fi in cronjob	
 1299270687	127.0.0.1	E	faq	moritz	minimal requirements	
+1299325137	127.0.0.1	E	hoster:index		Tor explicitly not allowed section added	
+1299325688	127.0.0.1	E	hoster:index		add notice about exit node fdc1	
+1299325797	127.0.0.1	E	hoster:index		[no custom WHOIS] 	
+1299326173	127.0.0.1	C	hoster:fdcservers		created page	
