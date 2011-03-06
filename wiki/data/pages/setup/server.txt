@@ -136,9 +136,9 @@ apt-get install lighttpd php5-cgi
 cd /etc/lighttpd
 mv lighttpd.conf lighttpd.conf.dist
 wget http://www.torservers.net/misc/config/lighttpd.conf
+mkdir conf.d
 # this config disables public version number display and IP logging
-## server.tag = "lighttpd"
-## accesslog.format = "127.0.0.1 %V %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-Agent}i\""
+# and allows for extra configs in conf.d
 cd /var/www
 wget http://www.torservers.net/misc/config/web-index.txt
 touch -d 20010101 cache

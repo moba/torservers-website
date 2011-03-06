@@ -10,3 +10,4 @@
 1299261887	127.0.0.1	e	setup:server	moritz	generate vnstats less often	
 1299262095	127.0.0.1	e	setup:server	moritz	absolute paths in cronjobs	
 1299268305	127.0.0.1	e	setup:server	moritz	;fi in cronjob	
+1299447996	127.0.0.1	e	setup:server	moritz	conf.d	
