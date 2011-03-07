@@ -8,12 +8,13 @@
 
 ====== Torservers.net ======
 
+  * [[press|Press Releases]]
   * [[TODO]]
   * [[FAQ]] (please fill)
   * [[hoster:|Hoster List]] - [[hoster:inquiry|Inquiry Templates]]
   * [[hoster:bridges|Bridge Hosters]]
   * [[Abuse Handling]]
-  * [[names|Suggest a Name for our Exit Nodes]]
+  * [[names|Suggest names for our Exit Nodes]]
 
 ===== Technical Guides =====
 

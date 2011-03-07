@@ -1,0 +1,33 @@
+Dresden, March 8th 2011
+
+Onions Against Dictators - Torservers.net supports democracy movements by providing uncensorable gateway to free Internet; receives $10,000 grant from Access Now
+
+Uncensored access to the Internet can overthrow dictators and aid the creation of free societies. This has been shown by recent events in North Africa and the Middle East. Whether in Tunisia, Egypt or Libya - the revolution is inseparably linked to free communication and unhindered access to independent news and media. 
+Till today the Torservers.net project has been graciously financed by private donations from supporters. Now, founder Moritz Bartl and his team have partnered with Access Now. Torservers.net has received a $10,000 US Dollars grant from Access Now that allows for a major capacity upgrade as an immediate tech response to support freedom movements all around the globe. This makes Torservers.net the largest operator on the Tor network.
+
+Tor – The Gateway to Freedom
+
+With the free software Tor, Internet traffic is securely passed through relay stations to prevent censorship and surveillance (www.torproject.org). The bandwidth and computers used are mostly provided by volunteers, many using their home PCs. Every day more than 200,000 people use Tor, including human rights activists, government officials, police investigators, journalists, non-profits and private individuals. Torservers.net helps the network grow, by making additional resources available to those in need of protecting their personal freedom and privacy online. These resources greatly improve the overall speed and availability of the Tor network.
+
+Foundation of Zwiebelfreunde e.V. ("Friends of the Onion")
+
+Zwiebelfreunde is a non-profit association that manages the successful Torservers.net   platform. In addition, the organisation acts as a user group mediator for security and tech professionals. It organises various meetings and workshops within Germany and around  Europe together with international partners such as German Whistleblower-Netzwerk e.V., Open Data e.V., the Swedish activist group Telecomix, Privacy International, the Belgian Pirate Party and others to "ensure that Internet censorship has no chance".
+
+
+Contact:
+
+Moritz Bartl
+
+Torservers.net
+DID Dresdner Institut für Datenschutz
+Koenigstrasse 9
+01097 Dresden
+Germany
+
+press@torservers.net
+Tel.: +49-(0)176 / 96 373 484
+Fax.: +49-(0)911 / 308 4466 748
+http://www.torservers.net/
+http://www.twitter.com/torservers/
+
+Torservers.net is a global initiative of security and tech professionals that manage high bandwidth Tor relays and publish information about censorship circumvention and media surveillance. It works closely with related organizations such as "The Tor Project", the developers and researchers behind the Tor software.
