@@ -19,6 +19,7 @@
 ===== Technical Guides =====
 
   * [[setup:server|Torservers Exit Server Setup]]
+  * [[setup:bridge|Tor Bridge Setup]]
   * [[setup:mailserver|Secure Mailserver Setup]]
   * [[Monitoring]]
 
