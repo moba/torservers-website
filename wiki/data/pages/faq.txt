@@ -22,7 +22,7 @@ Main Wiki: https://trac.torproject.org/projects/tor/wiki
 
 ?????? What are the minimal requirements for a 10mbps relay? ??????
 
-A virtual machine with 256MB RAM might be enough, but we experienced some out of memory errors with long running nodes. If you can, upgrade to 512MB. You can also experiment with [[moblog.wiredwings.com/archives/20100427/Tor-on-Debian,-self-compiled-for-better-Performance.html|OpenSSL 1.0 and OpenBSD-Malloc]]. CPU requirements: Hard to say. If you have some idea, edit this.
+A virtual machine with 256MB RAM might be enough, but we experienced some out of memory errors with long running nodes. If you can, upgrade to 512MB. You can also experiment with [[http://moblog.wiredwings.com/archives/20100427/Tor-on-Debian,-self-compiled-for-better-Performance.html|OpenSSL 1.0 and OpenBSD-Malloc]]. CPU requirements: Hard to say. If you have some idea, edit this.
 
 ?????? What are the minimal requirements for a high bandwidth relay? ??????
 

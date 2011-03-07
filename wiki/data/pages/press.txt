@@ -1,7 +1,7 @@
 ====== Onions Against Dictators ======
 
-  * PDF: https://www.torservers.net/documents/Onions-against-Dictators.pdf (March 8th 2011)
-  * Text: https://www.torservers.net/documents/Onions-against-Dictators.txt (March 8th 2011)
+  * PDF: https://www.torservers.net/files/Onions-against-Dictators.pdf (March 8th 2011)
+  * Text: https://www.torservers.net/files/Onions-against-Dictators.txt (March 8th 2011)
   * Image: http://www.torservers.net/images/torservers.jpg
   * German Press Releases: https://www.torservers.net/wiki/presse
 
@@ -14,7 +14,7 @@ Till today the Torservers.net project has been graciously financed by private do
 
 ===== Tor – The Gateway to Freedom =====
 
-With the free software Tor, Internet traffic is securely passed through relay stations to prevent censorship and surveillance (www.torproject.org). The bandwidth and computers used are mostly provided by volunteers, many using their home PCs. Every day more than 200,000 people use Tor, including human rights activists, government officials, police investigators, journalists, non-profits and private individuals. Torservers.net helps the network grow, by making additional resources available to those in need of protecting their personal freedom and privacy online. These resources greatly improve the overall speed and availability of the Tor network.
+With the free software Tor, Internet traffic is securely passed through relay stations to prevent censorship and surveillance. The bandwidth and computers used are mostly provided by volunteers, many using their home PCs. Every day more than 200,000 people use Tor, including human rights activists, government officials, police investigators, journalists, non-profits and private individuals. Torservers.net helps the network grow, by making additional resources available to those in need of protecting their personal freedom and privacy online. These resources greatly improve the overall speed and availability of the Tor network.
 
 ===== Foundation of Zwiebelfreunde e.V. ("Friends of the Onion") =====
 
