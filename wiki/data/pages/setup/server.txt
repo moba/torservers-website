@@ -167,6 +167,7 @@ By default this will redirect requests for /tor/ to 127.0.0.1 port 9030; edit to
 We want to have better stats (feel free to help on this). For now, we use vnstat and vnstati to generate public bandwidth stats on each node individually.
 
 <code>
+apt-get install vnstati
 # create empty images in root-owned /var/www and change owner to www-data
 cd /var/www
 touch vnstat.png vnstat_d.png vnstat_m.png
