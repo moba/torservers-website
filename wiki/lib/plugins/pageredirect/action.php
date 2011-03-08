@@ -91,7 +91,7 @@ class action_plugin_pageredirect extends DokuWiki_Action_Plugin {
 	}
 
 	function handle_pageredirect_metadata(&$event, $param) { 
-		unset($event->data->meta['relation']['isreplacedby']); 
+		if ( isset ( $event->data->meta['relation']['isreplacedby'] ) ) { unset($event->data->meta['relation']['isreplacedby']); } 
 	}
 
 }
