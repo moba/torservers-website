@@ -38,8 +38,6 @@ Make sure that incoming connections to port 443 TCP are allowed in your firewall
 Here is a tutorial on [[http://drwho.virtadpt.net/archive/2011/03/05/running-a-tor-node-from-amazons-elastic-computing-cloud|how to set up and run a Tor node]] from the Amazon EC2.
 
 Keep in mind that this tutorial is written by someone who has throttled the amount of traffic their node will relay to 100 GB/month.  By signing up for the [[https://aws.amazon.com/free/|Free Usage Tier]] you will be allowed to relay about 30GB of traffic before billing begins.
-
-(I know, I know - I'll update my post after work today.  --The Doctor)
 ====== How do I know if it worked? ======
 
 Open /var/log/tor/log (Linux). In Vidalia: Message Log -> Advanced. The last lines should be similar to this:
