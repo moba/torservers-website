@@ -56,7 +56,13 @@
   <td class="au"><a href="http://pfitz.torservers.net/">pfitz</a></td><td>10 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=17AA942E9EB1C631450C1BEF77C158168054881E" rel="external">17AA 942E 9EB1 C631 450C 1BEF 77C1 5816 8054 881E</a></td><td>all</td>
  </tr>
  <tr>
-  <td colspan="4">A relay in Australia donated by <a href="http://www.networkpresence.com.au/" rel="external">Network Presence</a>. Allows almost all ports to exit. Named in memoriam of <a href="http://www.identityblog.com/?p=1159">Andreas Pfitzmann</a>, security &amp; anonymity professor and Dean of TU Dresden.</td>
+  <td colspan="4">A relay in Australia donated by <a href="http://www.networkpresence.com.au/" rel="external">Network Presence Australian Hosting</a>. Allows almost all ports to exit. Named in memoriam of <a href="http://www.identityblog.com/?p=1159">Andreas Pfitzmann</a>, security &amp; anonymity professor and Dean of TU Dresden.</td>
+ </tr>
+ <tr> 
+  <td class="de"><a href="http://psilotor.torservers.net/">psilotor</a></td><td>10 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=F6020A32D544F11BDBD36E376F1CA99439A9755C" rel="external">F602 0A32 D544 F11B DBD3 6E37 6F1C A994 39A9 755C</a></td><td>many</td>
+ </tr>
+ <tr>
+  <td colspan="4">A relay in Germany donated by <a href="http://psilo.fr/" rel="external">Psilo.fr - L'esprit libre sur internet VPN service</a>.</td>
  </tr>
  <tr> 
   <td class="de"><a href="http://anonymizer1.torservers.net/">torserversNet1</a></td><td>512 kbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=9B41B9B3D4661566C660096B715BC647FBD72A72" rel="external">9B41 B9B3 D466 1566 C660 096B 715B C647 FBD7 2A72</a></td><td>22,53,443</td>
