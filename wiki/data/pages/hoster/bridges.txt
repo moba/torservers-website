@@ -28,6 +28,18 @@ To calculate "end price per IP": Take price of one VPS plus 9 extra IPs and divi
 |4.59|1.00|1.36|[[http://www.kazila.com/unmanaged-vps.html|kazila]]|256|250|1 year in advance payment||
 </sortable>
 
+===== Example Inquiry Teplate =====
+
+<file>Hi!
+
+I am interested in your VPS offers for Tor bridge hosting. Bridges are used by people behind restrictive firewalls that block access to the Tor network. They are only used as entry node to reach the Tor network, and only pass encrypted traffic between Tor clients and Tor middle nodes. As such, they will not generate abuse complaints or any trouble.
+
+Tor bridges use SSL, which is a good justification for IPs.
+
+Are you good with an order for a VPS plus 9 extra IPs?
+
+Thanks!</file>
+
 ===== Non-Consecutive IPs =====
 
 Contact support and ask if it is possible to get non-consecutive IPs.
