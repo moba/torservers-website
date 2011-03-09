@@ -12,3 +12,4 @@
 1299268305	127.0.0.1	e	setup:server	moritz	;fi in cronjob	
 1299447996	127.0.0.1	e	setup:server	moritz	conf.d	
 1299584323	127.0.0.1	e	setup:server	moritz	vnstati install	
+1299706422	127.0.0.1	E	setup:server	moritz	vnstat MaxBandwidth	

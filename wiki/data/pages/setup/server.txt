@@ -222,6 +222,13 @@ wget http://www.torservers.net/misc/config/sysctl.conf
 sysctl -p
 </code>
 
+==== vnstat MaxBandwidth =====
+
+Set MaxBandwidth to line maximum, eg. for GBit:
+
+<code>sed "s/MaxBandwidth 100/MaxBandwidth 1000/g" -i /etc/vnstat.conf
+/etc/init.d/vnstat reload</code>
+
 ==== MTU "Jumbo Frames"====
 
 <code>
