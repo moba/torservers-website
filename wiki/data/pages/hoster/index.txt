@@ -1,7 +1,7 @@
 ====== Hosters ======
 
 Each of these has been contacted for partnership in Tor hosting and been told about abuse problems etc. 
-Suggest hosters and I will contact them.
+Suggest hosters and I will contact them. If you want to read more about our experience with certain providers, have a look at [[experience|this page]].
 
 
 ----
