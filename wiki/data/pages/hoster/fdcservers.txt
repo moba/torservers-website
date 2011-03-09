@@ -1,3 +1,0 @@
-  * [[http://www.freelists.org/post/torservers/FDCServers-Fwd-Re-1Gbit-Hosting-in-EU,17|28/02/2011]] We ordered a 1GBit/s unmetered server for 300$/months in their Czech datacenter. 
-  * [[http://www.freelists.org/post/torservers/FDC-1-GBIT-exit-online|02/03/2011]] Node is up and running (6 Tor instances)
-  * We haven't had any problems with the ISP so far (as of 05/03/2011). 

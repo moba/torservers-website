@@ -54,3 +54,8 @@
 1299627611	127.0.0.1	E	hoster:bridges	moritz	example VPS inquiry	
 1299660957	127.0.0.1	E	hoster:evoboxes.net		[EvoBoxes.net] 	
 1299667480	127.0.0.1	E	hoster:bridges	moritz		
+1299669464	127.0.0.1	D	hoster:100tb.com	tagnaq	moved to https://www.torservers.net/wiki/hoster/experience	
+1299669496	127.0.0.1	E	hoster:evoboxes.net	tagnaq	moved to https://www.torservers.net/wiki/hoster/experience	
+1299669571	127.0.0.1	D	hoster:evoboxes.net	tagnaq	removed	
+1299669592	127.0.0.1	D	hoster:fdcservers	tagnaq	moved to https://www.torservers.net/wiki/hoster/experience	
+1299669820	127.0.0.1	E	hoster:index	tagnaq	removed links to provider specific 'experience' sites (there is only one page for all of them)	
