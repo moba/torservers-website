@@ -26,6 +26,7 @@ To calculate "end price per IP": Take price of one VPS plus 9 extra IPs and divi
 |1.25|-|1.25|[[http://buyvm.net|buyVM]]|128/256|500|15 per year, often sold out|https://my.frantech.ca/cart.php?a=add&pid=67|
 |7|1.50|2.05|[[http://nqhost.com/cheap-vps.html|nqhost]]|384|shared|special on lowendbox.com||
 |4.59|1.00|1.36|[[http://www.kazila.com/unmanaged-vps.html|kazila]]|256|250|1 year in advance payment||
+|4|1.00|1.40|[[http://directspace.net/webhosting/vps/inventory.php|directspace]]|512/1024|1000|max 5 IPs||
 </sortable>
 
 ===== Example Inquiry Teplate =====
