@@ -1,0 +1,41 @@
+====== Only allow Tor traffic ======
+
+FIXME: Could use some more info. Meant to be an example. Thanks you axio :)
+
+<code>
+#! /bin/sh
+#this needs to be chmod'd 755
+#update-rc.d firewall defaults 20 (not the correct way to do this)
+#script works with ubuntu/debian based systems
+
+
+iptables -F
+iptables -P INPUT ACCEPT
+iptables -P FORWARD ACCEPT
+iptables -P OUTPUT ACCEPT
+
+iptables -P INPUT DROP
+iptables -P OUTPUT DROP
+
+#allow tor and polipo access to loopback
+iptables -I INPUT -j ACCEPT -i lo -p tcp --dport 8118:9050 --sport 1:65000
+iptables -A OUTPUT -j ACCEPT -o lo -p tcp --dport 1:65000 --sport 8118:9050
+
+#does this allow the user and polipo to send data out to ethernet too?
+iptables -A OUTPUT -p tcp -j ACCEPT -m owner --uid-owner test2 -o lo
+iptables -A OUTPUT -p tcp -j ACCEPT -m owner --uid-owner root -o lo
+iptables -A OUTPUT -p tcp -j ACCEPT -m owner --uid-owner proxy -o lo
+
+
+#udp appears not to be needed
+#iptables -A OUTPUT -p udp -j ACCEPT -o lo -m owner --uid-owner debian-tor 
+
+
+#loop through all ethernet devices and allow tor out; one should be the right one unless you are using wifi; although i think this works with wifi too
+NETDEVICES=`ifconfig -a | grep Ethernet | cut -d' ' -f 1 | xargs`
+
+for DEVICE in $NETDEVICES
+do
+        iptables -A OUTPUT -p tcp -j ACCEPT -o $DEVICE -m owner --uid-owner debian-tor
+        iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+done</code>
