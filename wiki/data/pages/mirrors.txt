@@ -5,6 +5,7 @@ People need alternative ways to download Tor if torproject.org is blocked for th
 
 ( https://www.torproject.org/getinvolved/mirrors.html.en )
 
+  * https://www.torservers.net/mirrors/torproject.org/
   * https://www.oignon.net/
   * https://www.torproject.us/
   * https://tor.beme-it.de/
