@@ -242,7 +242,7 @@ sysctl -p
 Set MaxBandwidth to line maximum, eg. for GBit:
 
 <code>sed "s/MaxBandwidth 100/MaxBandwidth 1000/g" -i /etc/vnstat.conf
-/etc/init.d/vnstat reload</code>
+/etc/init.d/vnstat restart # don't reload; will stop vnstat from updating its db...</code>
 
 ===== TXQueueLen, MTU "Jumbo Frames" =====
 
