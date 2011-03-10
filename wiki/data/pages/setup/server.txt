@@ -203,18 +203,33 @@ vi /etc/resolv.conf # insert top: nameserver 127.0.0.1
 
 ======  High Bandwidth Tweaks (>100 mbps?)  ======
 
-Currently, Tor does not scale on multicore CPUs. One Tor process is able to handle around 100mbps of throughput. If your line supports more, you will need to run multiple Tor processes. There is a modified initscript that makes it easy to manage multiple Tor configurations on one machine: http://archives.seul.org/or/relays/Sep-2010/msg00004.html
-
 You might also be interested in this or-relay thread regarding high speed relay tweaks:
 [[http://thread.gmane.org/gmane.network.onion-routing.general/2841|How to Run High Capacity Tor Relays]]
 
-If you're hitting CPU or memory limits, you might want to look into [[http://moblog.wiredwings.com/archives/20100427/Tor-on-Debian,-self-compiled-for-better-Performance.html|compiling your own Tor]].
- 
-<code>
-# remove "exit" from rc.local, then
-echo 'ifconfig eth0 txqueuelen 20000' >> /etc/rc.local
+If you're hitting CPU or memory limits, you should look into [[http://moblog.wiredwings.com/archives/20100427/Tor-on-Debian,-self-compiled-for-better-Performance.html|compiling your own Tor]]. 
 
-cd /etc
+In general, as with all optimizations: you should only apply those that are necessary for you.
+
+===== Multiple Tor Processes =====
+
+Currently, Tor does not scale on multicore CPUs. One Tor process is able to handle around 100mbps of throughput. If your line supports more, you will need to run multiple Tor processes. There is a modified initscript that makes it easy to manage multiple Tor configurations on one machine: (thanks Teun! source: http://archives.seul.org/or/relays/Sep-2010/msg00004.html)
+
+<code>cd /etc/init.d
+mv tor tor.dist
+wget -O tor https://www.torservers.net/misc/config/initd-tor
+chmod +x tor
+
+## example usage:
+# ls /etc/tor
+tor0.cfg tor1.cfg tor2.cfg tor3.cfg
+# /etc/init.d/tor start
+# /etc/init.d/tor stop
+# /etc/init.d tor reload tor2 tor3
+# /etc/init.d/tor stop tor1</code>
+
+===== sysctl.conf =====
+
+<code>cd /etc
 mv sysctl.conf sysctl.conf.dist
 wget http://www.torservers.net/misc/config/sysctl.conf
 # go through the settings once again! some only useful with large memory and CPU
@@ -222,21 +237,25 @@ wget http://www.torservers.net/misc/config/sysctl.conf
 sysctl -p
 </code>
 
-==== vnstat MaxBandwidth =====
+===== vnstat MaxBandwidth =====
 
 Set MaxBandwidth to line maximum, eg. for GBit:
 
 <code>sed "s/MaxBandwidth 100/MaxBandwidth 1000/g" -i /etc/vnstat.conf
 /etc/init.d/vnstat reload</code>
 
-==== MTU "Jumbo Frames"====
+===== TXQueueLen, MTU "Jumbo Frames" =====
 
 <code>
+<code>
+# remove "exit" from rc.local, then
+echo 'ifconfig eth0 txqueuelen 20000' >> /etc/rc.local
+
 ifconfig eth0 mtu 9000
 # to make permanent, add "mtu 9000" to /etc/network/interfaces
 </code>
 
-==== Receive Packet Steering (RPS) ====
+===== Receive Packet Steering (RPS) =====
   * enable [[http://moblog.wiredwings.com/archives/20100827/Howto-Enable-Receive-Packet-Steering-RPS-on-Linux-2.6.35.html|RPS]] on kernels >= 2.6.35
   * edit /etc/network/interfaces:
 
@@ -250,7 +269,7 @@ gateway 012.345.678.90
 up echo f > /sys/class/net/eth1/queues/rx-0/rps_cpus
 </code>
 
-==== Receive Flow Steering (RFS) ====
+===== Receive Flow Steering (RFS) =====
 
 Receive Flow Steering (RFS), also introduced with kernel 2.6.35, might help if you run multiple Tor processes, but test first and monitor CPU usage across the CPU cores.
 
