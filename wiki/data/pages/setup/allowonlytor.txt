@@ -1,6 +1,6 @@
 ====== Only allow Tor traffic ======
 
-FIXME: Could use some more info. Meant to be an example. Thanks you axio :)
+FIXME: Could use some more info. Meant to be an example. Thanks you anon on IRC :)
 
 <code>
 #! /bin/sh
