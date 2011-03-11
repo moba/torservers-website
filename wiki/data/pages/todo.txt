@@ -77,7 +77,7 @@ Add! Start writing contact letters.
 
 ==== English ====
 
-  *  [[http://www.ifj.org/|International Federation of Journalists]], [[http://www.projectcensored.org/|Project Censored]], [[http://www.rfa.org/english|Radio Free Asia]] / [[http://www.rfaunplugged.org/|RFA Unplugged]], [[http://www.humanrightsfirst.org/|Human Rights First]], [[http://globalvoicesonline.org/|Global Voices]], [[http://www.indexoncensorship.org/|Index on Censorship]]
+  *  [[http://www.ifj.org/|International Federation of Journalists]], [[http://www.projectcensored.org/|Project Censored]], [[http://www.rfa.org/english|Radio Free Asia]] / [[http://www.rfaunplugged.org/|RFA Unplugged]], [[http://www.humanrightsfirst.org/|Human Rights First]], [[http://globalvoicesonline.org/|Global Voices]], [[http://www.indexoncensorship.org/|Index on Censorship]], [[http://www.apc.org/|Association For Progressive Communications]]
   *  [[http://www.accessnow.org/|Access Now]], [[http://opennet.net/|OpenNet Initiative]], [[http://www.hackersforcharity.org/|Hackers for Charity]], [[http://www.eff.org/|EFF]]
   *  [[http://www.indymedia.org/|IndyMedia]], [[https://www.riseup.net|Riseup]]
   *  [[http://english.aljazeera.net/|Al Jazeera]] ?
