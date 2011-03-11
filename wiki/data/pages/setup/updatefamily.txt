@@ -1,0 +1,5 @@
+====== Update MyFamily ======
+
+<code>sed -i -e "s:^MyFamily.*:`wget -O - https://www.torservers.net/misc/config/torrc | grep MyFamily`:g" /etc/tor/tor*</code>
+
+  * missing signature checking!

@@ -15,7 +15,7 @@ Explain Vidalia, Browser Bundle, why everyone should use Tor with Torbutton and 
   * [[setup:libevent2|Tor with libevent2]]
   * [[setup:blockbittorrent|Block BitTorrent trackers]]
   * [[setup:allowonlytor|Only allow Tor traffic with iptables]]
-
+  * [[setup:updateFamily|Centrally update MyFamily]]
 ====== Other ======
 
   * [[setup:mailserver|Secure Mailserver]]
