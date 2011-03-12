@@ -53,3 +53,20 @@
 1299920566	127.0.0.1	E	themen_gruendungssitzung		[Tops] 	
 1299920573	127.0.0.1	e	index	moritz	linked partners	
 1299920586	127.0.0.1	e	partners	moritz	access now	
+1299928069	127.0.0.1	E	guides		[Other] 	
+1299928153	127.0.0.1	e	hoster:bridges	moritz	moved sections	
+1299928392	127.0.0.1	C	setup:zabbix		created	
+1299928533	127.0.0.1	E	hoster:bridges	moritz	ISP details	
+1299928726	127.0.0.1	E	setup:zabbix		[Zabbix Walkthrough -> Install dependencies] 	
+1299928763	127.0.0.1	e	hoster:bridges	moritz	nqhost: no such traffic wanted	
+1299928845	127.0.0.1	C	gruendungssitzung	moritz	moved page	
+1299928859	127.0.0.1	D	themen_gruendungssitzung	moritz	moved	
+1299928884	127.0.0.1	e	index	moritz	moved page	
+1299928969	127.0.0.1	E	guides	moritz	moved "only allow tor" to client section	
+1299929074	127.0.0.1	e	setup:bridge	moritz	[Debian -> Amazon Elastic Computing Cloud] 	
+1299929113	127.0.0.1	E	setup:zabbix		[Basic Setup -> Install Zabbix] 	
+1299929139	127.0.0.1	e	setup:bridge	moritz	[Windows] 	
+1299929153	127.0.0.1	E	setup:zabbix		[Zabbix Walkthrough -> Install Zabbix] 	
+1299929233	127.0.0.1	e	setup:server	moritz	[what ports should one use?] 	
+1299929349	127.0.0.1	E	setup:zabbix			
+1299929357	127.0.0.1	E	setup:server	moritz	[What Ports Should I Use?] moved to faq	

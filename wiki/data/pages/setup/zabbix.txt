@@ -1,0 +1,63 @@
+====== Zabbix Walkthrough ======
+
+=====  Basic Setup  =====
+
+  * Debian  Squeeze 64bit (so we don't have to go with backports)
+  * MySQL because I suppose it is easier than Postgres for most people
+  * We use lighttpd, but it will run with Apache or anything else, as well
+
+====  Install dependencies  ====
+
+<code>
+aptitude install mysql-server php5 lighttpd
+</code>
+
+Get those things up and running and we're ready to install the Zabbix Server
+
+==== Install Zabbix ====
+
+Zabbix is split in three components that we need. Server, Frontend and (since we als want to monitor our www Server) the Agent.
+
+<code>
+aptitude install zabbix-server-mysql
+
+Follow Debconf Instructions
+</code>
+
+In case you chose a random password:
+
+<code>cat /etc/zabbix/zabbix_server.conf | grep DBPassword
+</code>
+You need that password to install the Frontend
+<code>aptitude install zabbix-frontend-php
+
+Follow Debconf and as DB Password give the password retrieved from zabbix Server
+</code>
+
+Now there are three things left to do:
+
+  - Fix the DB Username and DB Name the zabbix-frontend-php installed with
+  - Get it to work with our Webserver
+  - Tweak some php Settings
+
+<code>
+vi /etc/zabbix/dbconfig.php
+Replace the Database Name with "zabbixservermysql" and the User with "zabbix-server-my"
+:q
+</code>
+<code>
+touch /etc/lighttpd/conf.d/zabbix.conf
+echo "alias.url += ( "/zabbix" => "/usr/share/zabbix" )" > /etc/lighttpd/conf.d/zabbix.conf
+</code>
+
+In case you use Apache there is a config for it in /etc/zabbix which only needs to be copied over to apaches config directory
+
+<code>
+vi /etc/php5/cgi/php.ini
+post_max_size = 32M
+max_execution_time = 300
+max_input_time = 300
+Also set your php timezone
+</code>
+
+Now restart lighttpd and zabbix-server and it should be reachable with your browser.

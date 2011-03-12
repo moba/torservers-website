@@ -30,7 +30,7 @@
 
   * [[presse|Pressemitteilungen]]
   * [[Satzung]]
-  * [[Themen Gründungssitzung]]
+  * [[gruendungssitzung|Gründungssitzung]]
 ====== Wiki: Recent Changes ======
 
 Use "Edit summary" when editing.

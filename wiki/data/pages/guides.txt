@@ -4,6 +4,10 @@ FIXME
 
 Explain Vidalia, Browser Bundle, why everyone should use Tor with Torbutton and Firefox only. Quick installation guides in all languages.
 
+===== Advanced =====
+
+  * [[setup:allowonlytor|Only allow Tor traffic]]
+
 ====== Tor Relay ======
 
   * [[setup:bridge|Setting up a Tor Bridge in less than 5 Minutes]]
@@ -14,9 +18,9 @@ Explain Vidalia, Browser Bundle, why everyone should use Tor with Torbutton and 
 
   * [[setup:libevent2|Tor with libevent2]]
   * [[setup:blockbittorrent|Block BitTorrent trackers]]
-  * [[setup:allowonlytor|Only allow Tor traffic with iptables]]
   * [[setup:updateFamily|Centrally update MyFamily]]
+
 ====== Other ======
 
   * [[setup:mailserver|Secure Mailserver]]
-
+  * [[setup:zabbix|Zabbix Install Walkthrough]]

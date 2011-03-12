@@ -16,3 +16,5 @@
 1299750176	127.0.0.1	E	setup:server	moritz	init.d script for multiple installations (more details)	
 1299788090	127.0.0.1	e	setup:server	moritz	vnstat restart instead of reload	
 1299918866	127.0.0.1	e	setup:server	moritz	[TODO/Extras/Open Discussions] 	
+1299929233	127.0.0.1	e	setup:server	moritz	[what ports should one use?] 	
+1299929357	127.0.0.1	E	setup:server	moritz	[What Ports Should I Use?] moved to faq	

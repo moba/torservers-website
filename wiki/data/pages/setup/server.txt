@@ -124,11 +124,9 @@ On high bandwidth nodes, or nodes with restricted resources, you should compile 
 
   *  TODO: Compile on one machine and distribute .deb to others/set up a repository
 
-====  what ports should one use?  ====
+====  What Ports Should I Use?  ====
 
-Tor ORPort traffic is SSL, so the rationale is that your node will be "most reachable" if you use 443 (commonly used for HTTPS). Nobody knows for sure, but what IS known is that there is also a fair amount of users where 443 is definitely blocked, so you should take a look at other node configurations at Torstatus and decide what port could be useful. 22 is probably good too.
-Same goes for DirPort: The stuff is HTTP, so port 80 makes much sense. Most relays however use port 80 already, so it also makes perfect sense NOT to use port 80, because it might be blocked for some.
-
+ -> [[:faq|FAQ]]
 =====  Webserver  =====
 
 <code>

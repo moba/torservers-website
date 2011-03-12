@@ -6,13 +6,14 @@ Bridges are used by people behind restrictive firewalls that block access to the
 
 This guide will set up a bridge on port 443 and pass its details to Torproject, who will take care of distributing it to those in need. If you want to distribute the bridge IP yourself, uncomment the "PublishServerDescriptor 0" line in torrc before starting Tor. If you want to use a different port, change the "ORPort" line.
 
-===== Windows =====
+===== Windows (& Mac/KDE?) =====
 
 See -> [[https://www.torproject.org/docs/bridges#RunningABridge]]
 
 ===== Debian =====
 
 What about other Linux distros? Why don't you provide a distro independent solution?
+''Other distros should be similar. Please add sections on other distros. There is no independent solution, but most Linux distros work very similar.''
 
 ==== Preparation ====
 
@@ -34,10 +35,11 @@ wget -O torrc https://www.torservers.net/misc/config/torrc-bridge
 
 Make sure that incoming connections to port 443 TCP are allowed in your firewall configuration.
 
-==== Amazon Elastic Computing Cloud ====
+===== Amazon Elastic Computing Cloud =====
+
 Here is a tutorial on [[http://drwho.virtadpt.net/archive/2011/03/05/running-a-tor-node-from-amazons-elastic-computing-cloud|how to set up and run a Tor node]] from the Amazon EC2.
 
-Keep in mind that this tutorial is written by someone who has throttled the amount of traffic their node will relay to 100 GB/month.  By signing up for the [[https://aws.amazon.com/free/|Free Usage Tier]] you will be allowed to relay about 30GB of traffic before billing begins.
+Keep in mind that this tutorial is written by someone who has throttled the amount of traffic their node will relay to 100 GB/month.  By signing up for the [[https://aws.amazon.com/free/|Free Usage Tier]] you will be allowed to relay about 30GB of traffic before billing begins (for 12 months).
 ====== How do I know if it worked? ======
 
 Open /var/log/tor/log (Linux). In Vidalia: Message Log -> Advanced. The last lines should be similar to this:

@@ -17,6 +17,13 @@ Before ordering, you should ask if Tor bridges (SSL) are a good enough justifica
   * http://www.lowendbox.com/
   * http://www.webhostingtalk.com/forumdisplay.php?f=104
 
+===== Open Questions =====
+
+  * how do we monitor usage?
+    * how do we run a bridge authority? what benefits does that bring?
+  * how do we keep track of who we gave the bridge IP to?
+  * https://trac.torproject.org/projects/tor/ticket/2510
+
 ===== ISPs =====
 
 To calculate "end price per IP": Take price of one VPS plus 9 extra IPs and divide by 10. ''Prices are listed per month.''
@@ -24,11 +31,27 @@ To calculate "end price per IP": Take price of one VPS plus 9 extra IPs and divi
 <sortable 3>
 ^VPS^Extra IP^"End Price per IP"^Site^RAM/Burst^BW (GB)^Details^Order Link^
 |1.25|-|1.25|[[http://buyvm.net|buyVM]]|128/256|500|15 per year, often sold out|https://my.frantech.ca/cart.php?a=add&pid=67|
-|7|1.50|2.05|[[http://nqhost.com/cheap-vps.html|nqhost]]|384|shared|special on lowendbox.com||
+|7|1.50|2.05|[[http://nqhost.com/cheap-vps.html|nqhost]]|384|shared|special on lowendbox.com; does not allow tor bridges?!||
 |4.59|1.00|1.36|[[http://www.kazila.com/unmanaged-vps.html|kazila]]|256|250|1 year in advance payment||
 |4|1.00|1.40|[[http://directspace.net/webhosting/vps/inventory.php|directspace]]|512/1024|1000|max 5 IPs||
 |6.95|1.00|1.50|[[http://www.webhostingtalk.com/showthread.php?t=1028173|newwebsite]]|512/1024|500||
 </sortable>
+
+==== Comments ====
+
+  * DMEHosting: "Yes you can order a VPS with 10 IP's. However most IP's will be from the same /24 block since ARIN has strict guidelines for IP usage. For 10 IP's it would be $1.5/mo each. If you get 20 or more, it's $1/mo each."
+  * OneXenVPS: "Yes we can assign you 9 additional IPs for $0.50 per IP (these will be rather consecutive or maybe from 2 ranges)."
+  * W2Interactive: "Yes you can purchase as many IPs are you need. $2/ip"
+  * Forever Hosting: "Yes we allow 9 IP's to be ordered for our VPS."
+  * BHost: "We can definitely do this, and will manually allocate your additional IPs to ensure they are not consecutive. They will all be in the same /24 though. We'd do 9 additional IPs for £8 + VAT per month."
+  * SemoWeb: "Go ahead and place your order and request 9 ips. The ips are $1.50 per month each."
+  * Hudson Valley: "Im sorry we do not allow proxies.  This seems to be a type of proxy. "
+  * Host Ladder: "I am sorry but we cannot do that for you right now. The IP's should not get blocked unless something illigal is happening."
+  * NQHost: "we don't allow such traffic."
+  * ThrustVPS: "We charge $1/mo for the first 2 IP's then $3/mo after that."
+  * Curvehost: "I would be able to do a deal if you pay yearly.  Additional ips are charged at $1.50/month, just request them in the notes when ordering."
+  * Enotch: "Yes, if you would like I can create an invoice for an additional 9 IPs and process the request this way."
+  * VPSVille: "We can allocate 10 non-consecutive IPs from separate blocks for you. Choose Toronto as the location of the server for the maximum IP flexibility as we're largest in Toronto."
 
 ===== Non-Consecutive IPs =====
 
@@ -62,10 +85,3 @@ different subnets you are able to provide.
 
 Thanks!
 </file>
-
-===== Open Questions =====
-
-  * how do we monitor usage?
-    * how do we run a bridge authority? what benefits does that bring?
-  * how do we keep track of who we gave the bridge IP to?
-  * https://trac.torproject.org/projects/tor/ticket/2510
