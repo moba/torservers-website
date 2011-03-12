@@ -282,10 +282,11 @@ To make it permanent put it some place useful (can it be put into sysctl.conf?)
 
 ======  TODO/Extras/Open Discussions  ======
 
-  *  VPN - openVPN?
-  *  TODO: pull MyFamily setting from a central place, signed - or push it to all machines from local machine?
-  *  TODO: public traffic/other stats. i didn't like cacti very much...
-  *  Julian is working on monitoring using SNMP and OpenNHS
-  *  disable webserver referer and user-agent logging, too?
-  *  selinux/appamor/chroot?
-  *  firewall: is [[http://moblog.wiredwings.com/archives/20110203/Howto-Install-TARPIT-on-Debian-Stable-Lenny.html|tarpitting]] really useful for us?
+  * VPN - openVPN?
+  * Freenet?
+  * TODO: pull MyFamily setting from a central place, signed - or push it to all machines from local machine?
+  * TODO: public traffic/other stats. i didn't like cacti very much...
+  * Julian is working on monitoring using SNMP and OpenNHS
+  * disable webserver referer and user-agent logging, too?
+  * selinux/appamor/chroot?
+  * firewall: is [[http://moblog.wiredwings.com/archives/20110203/Howto-Install-TARPIT-on-Debian-Stable-Lenny.html|tarpitting]] really useful for us?
