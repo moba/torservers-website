@@ -30,18 +30,6 @@ To calculate "end price per IP": Take price of one VPS plus 9 extra IPs and divi
 |6.95|1.00|1.50|[[http://www.webhostingtalk.com/showthread.php?t=1028173|newwebsite]]|512/1024|500||
 </sortable>
 
-===== Example Inquiry Teplate =====
-
-<file>Hi!
-
-I am interested in your VPS offers for Tor bridge hosting. Bridges are used by people behind restrictive firewalls that block access to the Tor network. They are only used as entry node to reach the Tor network, and only pass encrypted traffic between Tor clients and Tor middle nodes. As such, they will not generate abuse complaints or any trouble.
-
-Tor bridges use SSL, which is a good justification for IPs.
-
-Are you good with an order for a VPS plus 9 extra IPs?
-
-Thanks!</file>
-
 ===== Non-Consecutive IPs =====
 
 Contact support and ask if it is possible to get non-consecutive IPs.
@@ -50,6 +38,30 @@ The problem is that most requests for non-consecutive IPs come from spammers and
   * shell/eggdrop/IRC bounce providers usually have cheap shell accounts and can be found on IRC to chat about it
 
 Also, it is probably worth to ask in various hosting forums. Often, ISPs are not antipathetic towards helping especially blocked Tor users (who usually are not the ones abusing the network).
+
+==== Example Inquiry Template ====
+
+<file>Hi!
+
+I am interested in your VPS offers for Tor bridge hosting. Bridges are
+used by people behind restrictive firewalls that block access to the Tor
+network. They are only used as entry node to reach the Tor network, and
+only pass encrypted traffic between Tor clients and Tor middle nodes. As
+such, they will not generate abuse complaints or any trouble.
+
+Tor bridges use SSL, which is a good justification for IPs.
+
+Ideally, because we distribute bridge IPs to countries which try to
+block Tor bridges (and scan for near Tor bridges), the IPs need to be
+non-consecutive: They should be somewhat apart, ideally from different
+subnets altogether.
+
+Can you provide VPS with these properties? I am looking for up to 100
+non-consecutive IPs, so let me know how many single IPs from how many
+different subnets you are able to provide.
+
+Thanks!
+</file>
 
 ===== Open Questions =====
 
