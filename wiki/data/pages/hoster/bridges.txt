@@ -8,7 +8,8 @@ This is useful information for organizations like ours: We run private bridges t
 
 It is very unlikely that any single ISP is able to offer more than ten non-consecutive IPs from different subnets. Please help us and look for cheap "unmetered" VPS with cheap pricing for extra IPs. Please collect fitting VPS/shell offers below.
 
-**Estimated requirements: at least 256MB RAM per 10 IPs, 128 MB per single IP bridge?**
+**Estimated requirements: at least 256MB RAM per 10 bridges, 128 MB for a single IP bridge?**
+''128MB RAM and 128MB swap seem to be enough for 10 bridges. Very tight allocation though. Better have 256MB RAM.''
 
 Before ordering, you should ask if Tor bridges (SSL) are a good enough justification for 10 IPs. Also, if possible, order only single IPs at a time, to get IPs that are apart from each other. We will not order more than 10 IPs per IP pool, that's why we are interested in "end prices per 10 IPs" below.
 
