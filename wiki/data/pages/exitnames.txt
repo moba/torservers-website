@@ -1,4 +1,3 @@
-.
 ====== Suggested Names for Exits ======
 
 Exit names will shows up in [[https://torstatus.blutmagie.de|Torstatus]], the Vidalia map (consensus files), and we use them for RDNS/DNS, so they will be left as footprints when using the exit. We aim to promote certain events and people whose ideas we support.
