@@ -14,7 +14,7 @@ aptitude install mysql-server php5 lighttpd
 
 Get those things up and running and we're ready to install the Zabbix Server
 
-==== Install Zabbix ====
+==== Install Zabbix Server ====
 
 Zabbix is split in three components that we need. Server, Frontend and (since we als want to monitor our www Server) the Agent.
 
@@ -61,3 +61,25 @@ Also set your php timezone
 </code>
 
 Now restart lighttpd and zabbix-server and it should be reachable with your browser.
+
+==== Install Zabbix Agent ====
+
+<code>
+aptitude install zabbix-agent
+</code>
+<code>
+vi /etc/zabbix/zabbix_agent.conf
+set Server and increase the timeout maybe
+vi /etc/zabbix/zabbix_agentd.conf
+set Server,
+set Hostname
+increase timeout if necessary
+</code>
+
+Now start zabbix-agent
+
+==== Firewall ====
+
+In case you use iptables you need to open port 10050 on the client side and 10050 and 10051 on the server side (or any other port of course if you configured Zabbix to use non-standard ports).
+
+==== Advanced ====

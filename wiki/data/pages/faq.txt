@@ -20,6 +20,14 @@ Main Wiki: https://trac.torproject.org/projects/tor/wiki
 
 ==== Relay Operator ====
 
+?????? Which Ports Should I Use? ??????
+
+Tor will work with any ORPort and DirPort.
+
+Tor ORPort traffic is SSL, so the rationale is that your node will be “most reachable” if you use 443 (commonly used for HTTPS). Nobody knows for sure, but what IS known is that there is also a fair amount of users where 443 is definitely blocked, so you should take a look at other node configurations at Torstatus and decide what port could be useful. 22 is probably good too. Same goes for DirPort: The stuff is HTTP, so port 80 makes much sense. Most relays however use port 80 already, so it also makes perfect sense NOT to use port 80, because it might be blocked for some.
+
+If you have limited bandwidth ressources, it is wise to disable directory mirroring and donate your traffic for relay traffic only.
+
 ?????? What are the minimal requirements for a 10mbps relay? ??????
 
 A virtual machine with 256MB RAM might be enough, but we experienced some out of memory errors with long running nodes. If you can, upgrade to 512MB. You can also experiment with [[http://moblog.wiredwings.com/archives/20100427/Tor-on-Debian,-self-compiled-for-better-Performance.html|OpenSSL 1.0 and OpenBSD-Malloc]]. CPU requirements: Hard to say. If you have some idea, edit this.

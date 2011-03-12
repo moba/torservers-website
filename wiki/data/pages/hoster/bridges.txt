@@ -39,19 +39,20 @@ To calculate "end price per IP": Take price of one VPS plus 9 extra IPs and divi
 
 ==== Comments ====
 
-  * DMEHosting: "Yes you can order a VPS with 10 IP's. However most IP's will be from the same /24 block since ARIN has strict guidelines for IP usage. For 10 IP's it would be $1.5/mo each. If you get 20 or more, it's $1/mo each."
-  * OneXenVPS: "Yes we can assign you 9 additional IPs for $0.50 per IP (these will be rather consecutive or maybe from 2 ranges)."
-  * W2Interactive: "Yes you can purchase as many IPs are you need. $2/ip"
-  * Forever Hosting: "Yes we allow 9 IP's to be ordered for our VPS."
+  * Amazon: Perfect for bridges because you can easily switch IPs from a large set of subnets. Unfortunately, you cannot assign more than one IP to one VM instance and traffic is fairly expensive. 30GB are free for one year!
   * BHost: "We can definitely do this, and will manually allocate your additional IPs to ensure they are not consecutive. They will all be in the same /24 though. We'd do 9 additional IPs for £8 + VAT per month."
-  * SemoWeb: "Go ahead and place your order and request 9 ips. The ips are $1.50 per month each."
-  * Hudson Valley: "Im sorry we do not allow proxies.  This seems to be a type of proxy. "
-  * Host Ladder: "I am sorry but we cannot do that for you right now. The IP's should not get blocked unless something illigal is happening."
-  * NQHost: "we don't allow such traffic."
-  * ThrustVPS: "We charge $1/mo for the first 2 IP's then $3/mo after that."
   * Curvehost: "I would be able to do a deal if you pay yearly.  Additional ips are charged at $1.50/month, just request them in the notes when ordering."
+  * DMEHosting: "Yes you can order a VPS with 10 IP's. However most IP's will be from the same /24 block since ARIN has strict guidelines for IP usage. For 10 IP's it would be $1.5/mo each. If you get 20 or more, it's $1/mo each."
   * Enotch: "Yes, if you would like I can create an invoice for an additional 9 IPs and process the request this way."
+  * Forever Hosting: "Yes we allow 9 IP's to be ordered for our VPS."
+  * Hudson Valley: "Im sorry we do not allow proxies.  This seems to be a type of proxy. "
+  * Host Ladder: "I am sorry but we cannot do that for you right now. The IP's should not get blocked unless something illigal is   * OneXenVPS: "Yes we can assign you 9 additional IPs for $0.50 per IP (these will be rather consecutive or maybe from 2 ranges)."
+  * NQHost: "we don't allow such traffic."
+  * SemoWeb: "Go ahead and place your order and request 9 ips. The ips are $1.50 per month each."
+happening."
+  * ThrustVPS: "We charge $1/mo for the first 2 IP's then $3/mo after that."
   * VPSVille: "We can allocate 10 non-consecutive IPs from separate blocks for you. Choose Toronto as the location of the server for the maximum IP flexibility as we're largest in Toronto."
+  * W2Interactive: "Yes you can purchase as many IPs are you need. $2/ip"
 
 ===== Non-Consecutive IPs =====
 

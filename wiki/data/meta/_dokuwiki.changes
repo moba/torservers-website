@@ -70,3 +70,16 @@
 1299929233	127.0.0.1	e	setup:server	moritz	[what ports should one use?] 	
 1299929349	127.0.0.1	E	setup:zabbix			
 1299929357	127.0.0.1	E	setup:server	moritz	[What Ports Should I Use?] moved to faq	
+1299929443	127.0.0.1	E	setup:zabbix		[Zabbix Walkthrough -> Install Zabbix] 	
+1299929448	127.0.0.1	E	faq	moritz	what ports should i use?	
+1299929648	127.0.0.1	E	hoster:bridges	moritz	sorted alphabetically + added amazon	
+1299929929	127.0.0.1	e	index	moritz	moved page about name suggestions	
+1299930273	127.0.0.1	e	faq	moritz	[Relay Operator] 	
+1299930300	127.0.0.1	C	exitnames	moritz	created	
+1299930431	127.0.0.1	e	exitnames	moritz	non-violence	
+1299930447	127.0.0.1	E	setup:zabbix		[Zabbix Walkthrough -> Install Zabbix Agent] 	
+1299930465	127.0.0.1	E	setup:zabbix		[Zabbix Walkthrough -> Install Zabbix Agent] 	
+1299930553	127.0.0.1	E	setup:zabbix		[Zabbix Walkthrough -> Install Zabbix Agent] 	
+1299930590	127.0.0.1	E	setup:zabbix		[Zabbix Walkthrough -> Firewall] 	
+1299930978	127.0.0.1	E	setup:zabbix		[Zabbix Walkthrough -> Advanced] 	
+1299931006	127.0.0.1	E	exitnames		[Suggested Names for Exits] 	

@@ -14,7 +14,7 @@
   * [[hoster:|Hoster List]] - [[hoster:inquiry|Inquiry Templates]]
   * [[hoster:bridges|Bridge Hosters]]
   * [[Abuse Handling]]
-  * [[names|Suggest names for our Exit Nodes]]
+  * [[exitnames|Suggest names for our Exit Nodes]]
   * [[partners|Friends and Partners]]
 \\
   * Torservers.net Onion Address: http://hbpvnydyyjbmhx6b.onion/

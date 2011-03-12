@@ -1,0 +1,12 @@
+====== Suggested Names for Exits ======
+
+Exit names will shows up in [[https://torstatus.blutmagie.de|Torstatus]], the Vidalia map (consensus files), and we use them for RDNS/DNS, so they will be left as footprints when using the exit. We aim to promote certain events and people whose ideas we support.
+
+  * [[http://en.wikipedia.org/wiki/Rainbow_Warrior_(1955)|Rainbow Warrior]], [[http://en.wikipedia.org/wiki/Legend_of_Rainbow_Warriors|Legend of Rainbow Warriors]]
+  * Bradley Manning
+  *freebox
+  *tibet
+  *unity
+  *datalove
+
+To understand where we are heading, see our current names -> [[https://www.torservers.net/services.html#servers]]. We prefer unknown and non-violent activists/events.
