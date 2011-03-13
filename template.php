@@ -6,7 +6,13 @@
 <div class="navbar" role="navigation">
  <ul>
   <li><a href="$base/about.html">About</a></li> 
-  <li><a href="$base/services.html">Services</a></li> 
+  <li><a href="$base/services.html">Services</a>
+   <ul>
+    <li><a href="$base/services.html#exits">Exit Node Hosting</a></li>
+	<li><a href="$base/services.html#bridges">Private Bridges</a></li>
+	<li><a href="$base/services.html#hiddenservices">Services Hosting</a></li>
+   </ul>
+  </li> 
   <li><a href="$base/wiki/">Wiki</a></li>
   <li><a href="$base/donate.html">Donate</a></li> 
   <li><a href="$base/contact.html">Contact</a></li>
