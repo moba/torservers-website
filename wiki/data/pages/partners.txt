@@ -1,11 +1,21 @@
-====== Torservers Friends & Partners ======
+======  Sponsors  ======
+
+If you need IT services, consider our privacy-aware sponsors!
+
+  * [[http://www.codero.com/|Codero]] (Kansas) -> hosting
+  * [[http://www.defaultroute.com/|DefaultRoute]] (Seattle/NY) -> IT services 
+  * [[http://www.evoboxes.net/|Evoboxes]] (NL) -> seedboxes
+  * [[http://www.networkpresence.com.au/|Network Presence]] (AU) -> Australian hosting
+  * [[http://rockhall.co.uk/|Rock Hall Ltd]] (UK) -> IT services, server hardware
+
+====== Friends & Partners ======
 
 FIXME Stub. Please improve and add details.
 
-  * Tor Project
   * Access Now
-  * Telecomix
+  * The Tor Project
+  * Open Data e.V.
   * Privacy International
   * Pirate Party Belgium
+  * Telecomix
   * Whistleblower-Netzwerk e.V.
-  * Open Data e.V.
