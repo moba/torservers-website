@@ -1,4 +1,4 @@
-a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1298570972;s:8:"modified";i:1298571181;}s:11:"last_change";a:7:{s:4:"date";i:1298571181;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:21:"setup:blockbittorrent";s:4:"user";N;s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:7:"creator";s:0:"";s:5:"title";s:1:" ";s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:11:"description";a:1:{s:8:"abstract";s:353:"Benefits should be much less abuse complaints
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1298570972;s:8:"modified";i:1298571181;}s:11:"last_change";a:7:{s:4:"date";i:1298571181;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:21:"setup:blockbittorrent";s:4:"user";N;s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:7:"creator";s:0:"";s:5:"title";s:1:" ";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:24:"block_bittorrent_tracker";s:5:"title";s:24:"Block BitTorrent tracker";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:353:"Benefits should be much less abuse complaints
 
 Executing the following code
 
@@ -7,4 +7,4 @@ for a in $(wget -qO- http://www.trackon.org/api/live| awk -F/ ' { print $3 }' );
 
 
 gets one a list of ips of BitTorrent trackers.
-They are then inserted into the Tor config file, torrc, as exit reject rules to block the ips.";}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:3:{s:4:"date";a:2:{s:7:"created";i:1298570972;s:8:"modified";i:1298571181;}s:11:"last_change";a:7:{s:4:"date";i:1298571181;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:21:"setup:blockbittorrent";s:4:"user";N;s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:7:"creator";s:0:"";}}
+They are then inserted into the Tor config file, torrc, as exit reject rules to block the ips.";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:3:{s:4:"date";a:2:{s:7:"created";i:1298570972;s:8:"modified";i:1298571181;}s:11:"last_change";a:7:{s:4:"date";i:1298571181;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"E";s:2:"id";s:21:"setup:blockbittorrent";s:4:"user";N;s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:7:"creator";s:0:"";}}
