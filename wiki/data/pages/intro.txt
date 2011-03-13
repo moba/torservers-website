@@ -20,6 +20,7 @@ For setup and configuration, see [[guides|Tor Guides]].
 |en|[[http://drwho.virtadpt.net/archive/2010/04/10/my-novalug-presentation-was-a-success|Slides for Tor presentation at NOVALUG 2010]]|slides|
 |fas|[[http://25bahman.com/internet-security-privacy|امنیت و حفاظت از حریم خصوصی]]|text|
 |ar|[[http://www.france24.com/ar/20110222-tor-anonymity-protect-privacy-computer|التصفح الخفي على الانترنت]]|text+audio|
+|fr|[[http://koolfy.be/2011/03/13/some-people-just-want-to-see-the-world-tor/|Tout sur Tor, accessible à tous]]|text| 
 </sortable>
 
 [[https://svn.torproject.org/cgi-bin/viewvc.cgi/projects/presentations/|Torproject.org: Tor Presentations]]
