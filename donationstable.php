@@ -30,6 +30,11 @@
     <td><a href="http://www.rockhall.co.uk" rel="external">rockhall.co.uk</a></td>
   </tr>  
   <tr>
+    <td>€50</td>
+	<td>monthly</td>
+    <td>[not published]</td>
+  </tr>  
+  <tr>
     <td>€40</td>
 	<td>monthly</td>
     <td>Klaus Layer</td>
@@ -92,7 +97,7 @@
   <tr>
     <td>€5</td>
 	<td>monthly</td>
-    <td>Martin Lobe</td>
+    <td>[not published]</td>
   </tr>
   <tr>
     <td>$5</td>
