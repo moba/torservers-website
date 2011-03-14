@@ -88,6 +88,24 @@ h2 {
 /* border: 1px solid #999;*/
 }
 
+.navbar li ul {
+ display:none;
+ margin:0; 
+ padding:0.2em 0 0.5em 0; 
+ background: #404040;
+ position:absolute; 
+ text-align:left;
+}
+
+.navbar li ul li {
+ clear: left;
+ width: 100%;
+}
+
+.navbar li:hover ul {
+ display:block;
+}
+
 a:hover {
  text-decoration:underline;
 }
@@ -108,8 +126,8 @@ table {
  table-layout:fixed;
 }
 
-tr:nth-child(odd)    { background-color:#eee; }
-tr:nth-child(even)    { background-color:#fff; }
+tr:nth-child(odd)    { background-color:#fff; }
+tr:nth-child(even)    { background-color:#eee; }
 td, th {
  padding: 5px;
  text-overflow:ellipsis;
