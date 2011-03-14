@@ -4,7 +4,7 @@ If you need IT services, consider our privacy-aware sponsors!
 
   * [[http://www.codero.com/|Codero]] (Kansas) -> hosting
   * [[http://www.defaultroute.com/|DefaultRoute]] (Seattle/NY) -> IT services 
-  * [[http://www.evoboxes.net/|Evoboxes]] (NL) -> seedboxes
+  * [[http://www.evoboxes.net/|Evoboxes]] (NL) -> VPSes
   * [[http://www.networkpresence.com.au/|Network Presence]] (AU) -> Australian hosting
   * [[http://rockhall.co.uk/|Rock Hall Ltd]] (UK) -> IT services, server hardware
 
