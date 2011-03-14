@@ -4,11 +4,12 @@ Exit names will shows up in [[https://torstatus.blutmagie.de|Torstatus]], the Vi
 
   * [[https://secure.wikimedia.org/wikipedia/en/wiki/Rainbow_Warrior_%281955%29|Rainbow Warrior]], [[https://secure.wikimedia.org/wikipedia/en/wiki/Legend_of_Rainbow_Warriors|Legend of Rainbow Warriors]]
   * Bradley Manning
+  * Alan Gross -> http://globalvoicesonline.org/2011/03/14/cuba-u-s-a-gross-sentence/
   * tibet -> names of events/persons? not dalai lama, too well-known imho...
   * datalove -> :)
   * freebox -> huh?
   * unity -> huh?
-  * Geldof -> organiser, agitator and loudmouth - Live AID Live 8 Make Poverty History  http://en.wikipedia.org/wiki/Bob_Geldof
+  * <del>Geldof -> organiser, agitator and loudmouth - Live AID Live 8 Make Poverty History  http://en.wikipedia.org/wiki/Bob_Geldof</del>
   * Chomsky
   * Goethe -> He loved making fun of the political system of the time using and abusing that little freedom he had as an artist
   * John Milton
