@@ -1,6 +1,6 @@
 We are running and did run Tor exit nodes at different Providers and Datacenters. This page documents our experience with them.
 
-======100tb.com======
+======100tb.com (US) ======
 
 We were running a high bandwidth exit node in their US Datacenter from June 2010 till January 2011 for 200$/month [[http://www.torservers.net/status/softlayer.png]] but after repeated DMCA complains they terminated our contract because of their network provider Softlayer.
 
@@ -10,24 +10,22 @@ we got them to do it. They refused to add our abuse contact handle, so
 it didn't help much, but still.
 
 100tb.com did understand what service we provide (Tor exit node) and offered to provide a new server in their UK datacenter, but we didn't hear from them since dd/mm/yyyy. (Their UK datacenter is sold out.)
-.
-
 ====== EvoBoxes.net (NL) ======
 http://www.evoboxes.net/
 
 After contacting them regarding a custom build offer for an exit node they provided us with an unmetered 10MBit/s VPS for free. After a week they upgraded [[http://torstatus.blutmagie.de/router_detail.php?FP=08a4074ffc993a50aabe787bf78161df2243cd41|the node]] to 160MBit/s unmetered! This node was donated to us on 11/02/2011 and is maintained and managed by us (torservers.net).
 
-Seems to be doing well, up to about 13MB/s - already done 3.4TB traffic this month :)
--- Nathan - EvoBoxes.net
+Seems to be doing well, about 1TB per day. Might be able to increase the bandwidth shortly. 
+ -- Nathan, EvoBoxes.net
 
 ======FDCservers (CZ)======
 http://www.fdcservers.net/
  
-  * [[http://www.freelists.org/post/torservers/FDCServers-Fwd-Re-1Gbit-Hosting-in-EU,17|28/02/2011]] We ordered a 1GBit/s unmetered server for 300$/months in their Czech datacenter. 
+  * [[http://www.freelists.org/post/torservers/FDCServers-Fwd-Re-1Gbit-Hosting-in-EU,17|28/02/2011]] We ordered a 1Gbit/s unmetered server for 300$/months in their Czech datacenter. 
   * [[http://www.freelists.org/post/torservers/FDC-1-GBIT-exit-online|02/03/2011]] Node is up and running (6 Tor instances)
   * We haven't had any problems with the ISP so far (as of 05/03/2011). 
 
 ======T-N Media (RO)======
 http://www.t-n-media.de/
 
-  * 07/03/2011 Thanks to [[https://www.accessnow.org/|Access Now!]] we are running a 1GBit/s unmetered exit node there.
+  * 07/03/2011 Thanks to [[https://www.accessnow.org/|Access Now!]] we are running a 1Gbit/s unmetered exit node there.
