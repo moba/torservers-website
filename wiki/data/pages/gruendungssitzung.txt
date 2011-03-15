@@ -101,5 +101,6 @@ Unterschrift Versammlungsleiter Unterschrift 1. Vorsitzender Unterschrift Protok
     * Blutmagie: Was passiert mit der Infrastruktur?
     * Untersektionen vom Verein für getrennte Admingruppen um mehrere kleine Families haben zu können? Anwalt fragen
     * Ungenutzte Resourcen für freenet/gnunet/i2p/... nutzen? -> Wie Traffic trennen fürs Monitoring?
+      * Torrents seeden, z.B. Chaosradio, Tor etc.
     * ...
  
