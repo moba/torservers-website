@@ -5,6 +5,8 @@ Exit names will shows up in [[https://torstatus.blutmagie.de|Torstatus]], the Vi
   * [[https://secure.wikimedia.org/wikipedia/en/wiki/Rainbow_Warrior_%281955%29|Rainbow Warrior]], [[https://secure.wikimedia.org/wikipedia/en/wiki/Legend_of_Rainbow_Warriors|Legend of Rainbow Warriors]]
   * Bradley Manning
   * Alan Gross -> http://globalvoicesonline.org/2011/03/14/cuba-u-s-a-gross-sentence/
+  * Andre Gorz
+  * Code Talkers -> http://en.wikipedia.org/wiki/Code_talker
   * tibet -> names of events/persons? not dalai lama, too well-known imho...
   * datalove -> :)
   * freebox -> huh?
