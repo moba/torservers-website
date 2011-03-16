@@ -16,5 +16,6 @@ Exit names will shows up in [[https://torstatus.blutmagie.de|Torstatus]], the Vi
   * Goethe -> He loved making fun of the political system of the time using and abusing that little freedom he had as an artist
   * John Milton
   * John Locke
+  * rōnin -> http://en.wikipedia.org/wiki/Ronin
 
 To understand where we are heading, see our current names -> [[https://www.torservers.net/services.html#servers]]. We prefer unknown and non-violent activists/events.
