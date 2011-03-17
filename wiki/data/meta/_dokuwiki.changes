@@ -75,3 +75,6 @@
 1300376935	127.0.0.1	E	hoster:index		[Hosters -> Tor explicitly not allowed] 	
 1300376959	127.0.0.1	E	partners		[Sponsors] 	
 1300377164	127.0.0.1	E	hoster:experience		[EvoBoxes.net (NL)] 	
+1300377920	127.0.0.1	E	exitnames		Correcting Typos	
+1300379133	127.0.0.1	E	setup:zabbix		[Zabbix Walkthrough -> Advanced] 	
+1300379168	127.0.0.1	E	setup:zabbix		[Zabbix Walkthrough -> Custom Scripts for Monitoring] 	

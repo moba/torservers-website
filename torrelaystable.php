@@ -31,12 +31,6 @@
   </p></td>
  </tr>
  <tr> 
-  <td class="nl" title="Netherlands"><a href="http://evoboxes.torservers.net/">evoboxes</a></td><td>160 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=08a4074ffc993a50aabe787bf78161df2243cd41" rel="external">08A4 074F FC99 3A50 AABE 787B F781 61DF 2243 CD41</a></td><td>many</td>
- </tr>
- <tr>
-  <td colspan="4">A relay in the Netherlands donated by <a href="http://www.evoboxes.net/" rel="external">Evoboxes</a>.
- </tr>
- <tr> 
   <td class="us" title="USA"><a href="http://wau.torservers.net/" class="thumbnail">wau</a></td><td>100 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=C67622A01D8D3B742A14506CD446342993C20FE3" rel="external">C676 22A0 1D8D 3B74 2A14 506C D446 3429 93C2 0FE3</a></td><td>some</td>
  </tr>
  <tr>

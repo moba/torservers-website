@@ -80,6 +80,10 @@ Now start zabbix-agent
 
 ==== Firewall ====
 
-In case you use iptables you need to open port 10050 on the client side and 10050 and 10051 on the server side (or any other port of course if you configured Zabbix to use non-standard ports).
+In case you use iptables you need to open port 10050 on the client side and 10050 and 10051 on the server side (or any other port of course if you configured Zabbix to use non-standard ports). As an alternative you can also use Active Checks which don't require open Ports on the Nodes that are to be monitored and also help to reduce load on the Server side, since the Client does all the work itself in this case
 
 ==== Advanced ====
+
+=== stunnel ===
+
+=== Custom Scripts for Monitoring ===
