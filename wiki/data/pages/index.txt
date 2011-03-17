@@ -24,7 +24,7 @@
   * [[setup:server|Torservers Exit Server Setup]]
   * [[setup:bridge|Tor Bridge Setup]]
   * [[setup:mailserver|Secure Mailserver Setup]]
-  * [[Monitoring]]
+  * [[setup:zabbix|Zabbix Guide]]
 
 ====== Zwiebelfreunde ======
 
