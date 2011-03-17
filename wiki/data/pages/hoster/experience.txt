@@ -10,13 +10,6 @@ we got them to do it. They refused to add our abuse contact handle, so
 it didn't help much, but still.
 
 100tb.com did understand what service we provide (Tor exit node) and offered to provide a new server in their UK datacenter, but we didn't hear from them since dd/mm/yyyy. (Their UK datacenter is sold out.)
-====== EvoBoxes.net (NL) ======
-http://www.evoboxes.net/
-
-After contacting them regarding a custom build offer for an exit node they provided us with an unmetered 10MBit/s VPS for free. After a week they upgraded [[http://torstatus.blutmagie.de/router_detail.php?FP=08a4074ffc993a50aabe787bf78161df2243cd41|the node]] to 160MBit/s unmetered! This node was donated to us on 11/02/2011 and is maintained and managed by us (torservers.net).
-
-Seems to be doing well, about 1TB per day. Might be able to increase the bandwidth shortly. 
- -- Nathan, EvoBoxes.net
 
 ======FDCservers (CZ)======
 http://www.fdcservers.net/
