@@ -1,15 +1,3 @@
-1299660957	127.0.0.1	E	hoster:evoboxes.net		[EvoBoxes.net] 	
-1299667480	127.0.0.1	E	hoster:bridges	moritz		
-1299669464	127.0.0.1	D	hoster:100tb.com	tagnaq	moved to https://www.torservers.net/wiki/hoster/experience	
-1299669496	127.0.0.1	E	hoster:evoboxes.net	tagnaq	moved to https://www.torservers.net/wiki/hoster/experience	
-1299669571	127.0.0.1	D	hoster:evoboxes.net	tagnaq	removed	
-1299669592	127.0.0.1	D	hoster:fdcservers	tagnaq	moved to https://www.torservers.net/wiki/hoster/experience	
-1299669820	127.0.0.1	E	hoster:index	tagnaq	removed links to provider specific 'experience' sites (there is only one page for all of them)	
-1299670816	127.0.0.1	C	hoster:experience	tagnaq	created	
-1299671007	127.0.0.1	E	hoster:experience	tagnaq	[T-N Media (RO)] 	
-1299671164	127.0.0.1	E	hoster:index	tagnaq	[Hosters -> Tor explicitly not allowed] 	
-1299702060	127.0.0.1	e	hoster:bridges	moritz	newwebsite.com	
-1299706422	127.0.0.1	E	setup:server	moritz	vnstat MaxBandwidth	
 1299750176	127.0.0.1	E	setup:server	moritz	init.d script for multiple installations (more details)	
 1299752424	127.0.0.1	E	index	moritz	added hidden service URL of torservers.net	
 1299756383	127.0.0.1	e	guides	moritz	[Advanced] 	
