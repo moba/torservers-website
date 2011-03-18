@@ -11,7 +11,8 @@
   * [[press|Press Releases]]
   * [[TODO]]
   * [[FAQ]] (please fill)
-  * [[hoster:|Hoster List]] - [[hoster:inquiry|Inquiry Templates]]
+  * [[hoster:|Hoster List]] - [[hoster:experience| our experience with Hoster]]
+  * [[hoster:inquiry|Inquiry Templates]]
   * [[hoster:bridges|Bridge Hosters]]
   * [[Abuse Handling]]
   * [[exitnames|Suggest names for our Exit Nodes]]
