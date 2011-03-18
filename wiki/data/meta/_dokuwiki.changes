@@ -1,10 +1,3 @@
-1299750176	127.0.0.1	E	setup:server	moritz	init.d script for multiple installations (more details)	
-1299752424	127.0.0.1	E	index	moritz	added hidden service URL of torservers.net	
-1299756383	127.0.0.1	e	guides	moritz	[Advanced] 	
-1299756521	127.0.0.1	C	setup:allowonlytor	moritz	created	
-1299756617	127.0.0.1	e	setup:allowonlytor	moritz	[Only allow Tor traffic] 	
-1299766587	127.0.0.1	E	mirrors	moritz	our own tpo mirror	
-1299788090	127.0.0.1	e	setup:server	moritz	vnstat restart instead of reload	
 1299848298	127.0.0.1	e	todo	moritz	APC	
 1299863721	127.0.0.1	e	index	moritz	not only quick guides any more...	
 1299863757	127.0.0.1	e	guides	moritz	updateFamily linked	
