@@ -80,10 +80,41 @@ Now start zabbix-agent
 
 ==== Firewall ====
 
-In case you use iptables you need to open port 10050 on the client side and 10050 and 10051 on the server side (or any other port of course if you configured Zabbix to use non-standard ports). As an alternative you can also use Active Checks which don't require open Ports on the Nodes that are to be monitored and also help to reduce load on the Server side, since the Client does all the work itself in this case
+In case you use iptables you need to open port 10050 on the client side and 10050 and 10051 on the server side (or any other port of course if you configured Zabbix to use non-standard ports). As an alternative you can also use Active Checks which don't require open Ports on the Nodes that are to be monitored and also help to reduce load on the Server side, since the Client does all the work itself in this case.
 
-==== Advanced ====
+===== Advanced =====
 
-=== stunnel ===
+==== stunnel ====
 
-=== Custom Scripts for Monitoring ===
+==== Custom Scripts ====
+
+=== md ===
+
+Here is a small script for monitoring md. It can only monitor Raid1 systems so far, since we don't have the need to monitor Raid5 or anything else. Feel free to expand this in case you need it.
+
+<code>
+#!/bin/bash
+if [ $# -ne 1 ];
+then
+echo "Usage: $0 "
+exit
+fi
+var_mdnum="$1"
+if [[ "$var_mdnum" != md* ]]
+then
+var_mdnum=`echo $var_mdnum | sed 's/\/[a-z]*\/md*/md/'`
+fi
+if [ `cat /proc/mdstat | grep -C 1 $var_mdnum | grep -o UU` == "UU" ]
+then
+echo 0
+exit
+else
+echo 1
+exit
+fi
+</code>
+
+Put something like
+
+<code>UserParameter=raid.md0.status, /etc/zabbix/scripts/get_md_status.sh md0</code>
+in your zabbix_agentd.conf to use this and configure an Item for it on the Zabbix Server for the node you wish to use this for or in its underlying template.
