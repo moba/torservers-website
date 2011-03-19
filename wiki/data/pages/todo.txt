@@ -44,6 +44,8 @@ One of our goals is to offer press contacts and organize local hackfests and wor
   * enable website translations (move everything to dokuwiki? or use gettext on our simple website code?)
   * contact form with gpg encryption
   * move mailinglist; offer secure mailinglists. [[http://www.sympa.org/|sympa]] (used by riseup) or mailman?
+  * ticketing system for abuse
+  * bugtracker
 
 ===== Member Services =====
 
@@ -56,6 +58,7 @@ Other useful services might be Jabber, StatusNet, hidden services hosting etc.
 ===== Other =====
 
   * t-shirts
+  * need a german document to proactively contact BKA, LKA and local Dresden police. please write one!
 
 ===== Organizations to contact about Partnership/Sponsoring =====
 
