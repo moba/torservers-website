@@ -14,7 +14,7 @@ FIXME: Insert static image of world map with nice markers
 ===== Germany =====
 
   * Dresden: [[users:moritz|Moritz]] (press contact, user groups, workshops; anything really)
-  * Bremen: ask on IRC
+  * Bremen: flaushy
   * München: Poldi (for contact information look up node NamiTemp2)
   * Berlin: Juris (user groups, sponsor meetings, workshops, ...) Contact: juris AT torservers.net
 
