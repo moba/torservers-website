@@ -199,6 +199,41 @@ wget http://www.torservers.net/misc/config/named.conf.options
 vi /etc/resolv.conf # insert top: nameserver 127.0.0.1
 </code>
 
+===== Apparmor profile =====
+
+  * This profile has been tested to work with multiple Tor processes as described here: http://archives.seul.org/or/relays/Sep-2010/msg00004.html
+  * The profile should be disabled while Tor is installed for the first time, since different permissions are required for setup and normal operation.
+
+<code># Last Modified: Sat Mar 19 00:38:15 2011
+# Apparmor profile for Tor with multiple processes on:
+# Ubuntu 10.04
+
+#include <tunables/global>
+
+/usr/sbin/tor {
+  #include <abstractions/base>
+  #include <abstractions/nameservice>
+
+  capability setgid,
+  capability setuid,
+
+  /etc/passwd mr,
+  /etc/tor/* r,
+  /usr/share/tor/* r,
+  owner /var/lib/tor*/cached* rw,
+  owner /var/lib/tor*/cached-descriptors mrw,
+  /var/lib/tor*/cached-status/ r,
+  owner /var/lib/tor*/cached-status/* rw,
+  owner /var/lib/tor*/fingerprint r,
+  owner /var/lib/tor*/keys/secret_id_key r,
+  owner /var/lib/tor*/keys/secret_onion_key r,
+  owner /var/lib/tor*/lock rwk,
+  owner /var/lib/tor*/state* rw,
+  owner /var/log/tor*/* rw,
+  /var/run/tor*/tor*.pid rw,
+
+}
+</code>
 ======  High Bandwidth Tweaks (>100 mbps?)  ======
 
 You might also be interested in this or-relay thread regarding high speed relay tweaks:
