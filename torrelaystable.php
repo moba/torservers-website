@@ -68,12 +68,6 @@
  <tr>
   <td colspan="4">A relay in Germany donated by <a href="http://psilo.fr/" rel="external">Psilo.fr - L'esprit libre sur internet VPN service</a>.</td>
  </tr>
- <tr> 
-  <td class="de" title="Germany"><a href="http://anonymizer1.torservers.net/">torserversNet1</a></td><td>512 kbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=9B41B9B3D4661566C660096B715BC647FBD72A72" rel="external">9B41 B9B3 D466 1566 C660 096B 715B C647 FBD7 2A72</a></td><td>22,53,443</td>
- </tr>
- <tr>
-  <td colspan="4">A relay in Germany courtesy of <a href="http://www.wiredwings.com/" rel="external">Moritz Bartl</a>.</td>
- </tr>
 </table>
 
 EOD;
