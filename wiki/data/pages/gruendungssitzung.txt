@@ -68,7 +68,7 @@ Es wurde um Vorschläge für die Vorstandsmitglieder gebeten. Folgende Mitgliede
 
 Vorsitzender: ... Stellvertretender Vorsitzender: ... Schatzmeister: ...
 
-Der Vorsitzende wurde mit .... Ja-Stimmen, .... Nein-Stimmen und .... Enthaltungen gewählt. Der stellvertretende Vorsitzende wurde mit .... Ja-Stimmen, .... Nein-Stimmen und .... Enthaltungen gewählt. Der Schatzmeister wurde mit .... Ja-Stimmen, .... Nein-Stimmen und .... Enthaltungen gewählt.
+Der Vorsitzende wurde mit .... Ja-Stimmen, .... Nein-Stimmen und .... Enthaltungen gewählt. Der stellvertretende Vorsitzende wurde mit .... Ja-Stimmen, .... Nein-Stimmen und .... Enthaltungen gewählt. Der Schatzmeister wurde mit .... Ja-Stimmen, .... Nein-Stimmen und .... Enthaltungen gewählt. Der Vorstand nahm die Wahl an.
 
 **Wahl der Rechnungsprüfer**
 
@@ -76,7 +76,7 @@ Die Versammlung schlug ... und ... als Rechnungsprüfer vor. Sie wurden per Hand
 
 **Beschlussfassung über die Mitgliedsbeiträge**
 
-Es wurden folgende Beiträge beschlossen: Regulärer Beitrag: 60 Euro Ermäßigter Beitrag: 25 Euro Der Beitrag wird einmal im Jahr erhoben.
+Es wurden folgende Beiträge beschlossen: Regulärer Beitrag: 60 Euro Ermäßigter Beitrag: 25 Euro Der Beitrag wird einmal im Jahr erhoben. Für Mitglieder im Förderverein Zwiebelfreunde entfällt der Beitrag.
 
 **Sonstiges**
 
