@@ -30,7 +30,8 @@
 ====== Zwiebelfreunde ======
 
   * [[presse|Pressemitteilungen]]
-  * [[Satzung]]
+  * [[Satzung:Torservers|Satzung Torservers]]
+  * [[Satzung:Zwiebelfreunde|Satzung Zwiebelfreunde]]
   * [[gruendungssitzung|Gründungssitzung]]
 ====== Wiki: Recent Changes ======
 
