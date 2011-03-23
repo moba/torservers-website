@@ -28,7 +28,8 @@ Contact us to discuss details before beginning. If you can get a non-profit stat
 
 ==== Finding the right ISP ====
 
-  * [[hoster:|Hoster List]] - [[hoster:experience| our experience with Hoster]]
+  * [[hoster:|Hoster List]]
+  * [[hoster:experience| our experiences with ISPs]]
   * [[hoster:inquiry|Inquiry Templates]]
   * [[hoster:bridges|Bridge Hosters]]
   * [[Abuse Handling]]
