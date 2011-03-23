@@ -24,7 +24,7 @@ FIXME This section is a stub.
 
 Tor relays should be run by as many distinct operators as possible. We aim to collect all information required to start your own Torservers.
 
-Contact us to discuss details before beginning. If you can get a non-profit status in your country, we should be able to provide funds for your exits. "Gemeinnütziger Verein" works perfect in Germany. 
+Contact us to discuss details before beginning. If you can get a non-profit status in your country, we should be able to provide funds for your exits. "Gemeinnütziger Verein" works perfectly in Germany. 
 
 ==== Finding the right ISP ====
 
