@@ -17,7 +17,8 @@
   <td colspan="4"><font color="green"><b>Community funded exit relay</b></font> with FDCServers in Czech Republic.
   <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=7326be7d3262f2fe813bc8e38613c80d0132d81d">katari</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=c5ea3b664af656e5794ecee4935c3e84da86d661">katari2</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/T%C3%BApac_Katari">Túpac Katari</a>.
   <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=0e651cacd51bc95300b41f47c82ba0f07686b450">bouazizi</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=94b4e563fc3d756cae9d28316751449653c48e05">bouazizi2</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Mohamed_Bouazizi">Mohamed Bouazizi</a>.
-  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=ab9710104a6d0d7457079ca8ca5d494af6332e92">bolivar</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=308a86d470c851c4944f455f8f2b11a4275bce6b">bolivar2</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar">Simón Bolívar</a>.
+  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=ab9710104a6d0d7457079ca8ca5d494af6332e92">bolivar</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar">Simón Bolívar</a>.
+  <p/> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=308a86d470c851c4944f455f8f2b11a4275bce6b">rockhall</a>: courtesy of <a href="http://www.rockhall.co.uk/" rel="external">Rock Hall Ltd</a>.
   </p></td>
  </tr>
  <tr> 
