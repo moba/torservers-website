@@ -1,49 +1,29 @@
-s:8695:"<?xml version="1.0" encoding="UTF-8"?>
+s:7766:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=50863505984864256" rel="refresh"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=50873883502456832" rel="refresh"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
-  <updated>2011-03-24T10:16:19Z</updated>
+  <updated>2011-03-24T10:57:33Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=50863505984864256&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=50873883502456832&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
   <entry>
-    <id>tag:search.twitter.com,2005:50863505984864256</id>
-    <published>2011-03-24T10:16:19Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/50863505984864256" rel="alternate"/>
-    <title>RT @morphium86: Die StA hat Rechtsm. gg. meinen #Tor &amp; #wikileaks Freispruch eingelegt, also wirds ein LG-Freispruch (in 1 Jahr?)</title>
-    <content type="html">RT &lt;a href=&quot;http://twitter.com/morphium86&quot;&gt;@morphium86&lt;/a&gt;: Die StA hat Rechtsm. gg. meinen &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://search.twitter.com/search?q=%23wikileaks&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#wikileaks');&quot;&gt;#wikileaks&lt;/a&gt; Freispruch eingelegt, also wirds ein LG-Freispruch (in 1 Jahr?)</content>
-    <updated>2011-03-24T10:16:19Z</updated>
+    <id>tag:search.twitter.com,2005:50873883502456832</id>
+    <published>2011-03-24T10:57:33Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/50873883502456832" rel="alternate"/>
+    <title>RT @SqnLdrPCarter: #tor Freedom and security should be as much the concern of business communities as it is any other part of society, sadly i think it is not.</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/SqnLdrPCarter&quot;&gt;@SqnLdrPCarter&lt;/a&gt;: &lt;a href=&quot;http://search.twitter.com/search?q=%23tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#tor');&quot;&gt;#tor&lt;/a&gt; Freedom and security should be as much the concern of business communities as it is any other part of society, sadly i think it is not.</content>
+    <updated>2011-03-24T10:57:33Z</updated>
     <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
       <twitter:result_type>recent</twitter:result_type>
     </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://identi.ca&quot; rel=&quot;nofollow&quot;&gt;identica&lt;/a&gt;</twitter:source>
-    <twitter:lang>de</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:50664630699311104</id>
-    <published>2011-03-23T21:06:03Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/50664630699311104" rel="alternate"/>
-    <title>RT @liberationtech: Pls use #TOR. Beware of weak proxies. #TOR will slow down your connection, but it's worth it. www.torproject.org v @bsyria @jilliancyork</title>
-    <content type="html">RT &lt;a href=&quot;http://twitter.com/liberationtech&quot;&gt;@liberationtech&lt;/a&gt;: Pls use &lt;a href=&quot;http://search.twitter.com/search?q=%23TOR&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#TOR');&quot;&gt;#TOR&lt;/a&gt;. Beware of weak proxies. &lt;a href=&quot;http://search.twitter.com/search?q=%23TOR&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#TOR');&quot;&gt;#TOR&lt;/a&gt; will slow down your connection, but it&amp;apos;s worth it. &lt;a href=&quot;http://www.torproject.org&quot;&gt;www.torproject.org&lt;/a&gt; v &lt;a href=&quot;http://twitter.com/bsyria&quot;&gt;@bsyria&lt;/a&gt; &lt;a href=&quot;http://twitter.com/jilliancyork&quot;&gt;@jilliancyork&lt;/a&gt;</content>
-    <updated>2011-03-23T21:06:03Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</twitter:source>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
     <twitter:lang>en</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
@@ -51,19 +31,19 @@ s:8695:"<?xml version="1.0" encoding="UTF-8"?>
     </author>
   </entry>
   <entry>
-    <id>tag:search.twitter.com,2005:50656215813988352</id>
-    <published>2011-03-23T20:32:37Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/50656215813988352" rel="alternate"/>
-    <title>RT @liberationtech: How We Killed The Net &amp; Nobody Noticed http://ow.ly/4kokP &amp; Resources on How to Revive It http://ow.ly/4koli</title>
-    <content type="html">RT &lt;a href=&quot;http://twitter.com/liberationtech&quot;&gt;@liberationtech&lt;/a&gt;: How We Killed The Net &amp;amp; Nobody Noticed &lt;a href=&quot;http://ow.ly/4kokP&quot;&gt;http://ow.ly/4kokP&lt;/a&gt; &amp;amp; Resources on How to Revive It &lt;a href=&quot;http://ow.ly/4koli&quot;&gt;http://ow.ly/4koli&lt;/a&gt;</content>
-    <updated>2011-03-23T20:32:37Z</updated>
+    <id>tag:search.twitter.com,2005:50873483462324224</id>
+    <published>2011-03-24T10:55:58Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/50873483462324224" rel="alternate"/>
+    <title>@PGPBOARD Our sponsors are listed on our website at https://www.torservers.net/donate.html#donations</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/PGPBOARD&quot;&gt;@PGPBOARD&lt;/a&gt; Our sponsors are listed on our website at &lt;a href=&quot;https://www.torservers.net/donate.html#donations&quot;&gt;https://www.torservers.net/donate.html#donations&lt;/a&gt;</content>
+    <updated>2011-03-24T10:55:58Z</updated>
     <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
       <twitter:result_type>recent</twitter:result_type>
     </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</twitter:source>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
     <twitter:lang>en</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
@@ -71,12 +51,32 @@ s:8695:"<?xml version="1.0" encoding="UTF-8"?>
     </author>
   </entry>
   <entry>
-    <id>tag:search.twitter.com,2005:50562808479354880</id>
-    <published>2011-03-23T14:21:27Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/50562808479354880" rel="alternate"/>
-    <title>DEA rejects FOIA for 38 pages of docs related to Sprint's digital surveilance API http://bit.ly/gmdAQ7</title>
-    <content type="html">DEA rejects FOIA for 38 pages of docs related to Sprint&amp;apos;s digital surveilance API &lt;a href=&quot;http://bit.ly/gmdAQ7&quot;&gt;http://bit.ly/gmdAQ7&lt;/a&gt;</content>
-    <updated>2011-03-23T14:21:27Z</updated>
+    <id>tag:search.twitter.com,2005:50872484869840896</id>
+    <published>2011-03-24T10:52:00Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/50872484869840896" rel="alternate"/>
+    <title>@gurifunu I think it will be dropped by the Landgericht. Tor is not the problem here, it's the wikileaks.de domain indirectly linking to CP.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/gurifunu&quot;&gt;@gurifunu&lt;/a&gt; I think it will be dropped by the Landgericht. Tor is not the problem here, it&amp;apos;s the wikileaks.de domain indirectly linking to CP.</content>
+    <updated>2011-03-24T10:52:00Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:50872037958365185</id>
+    <published>2011-03-24T10:50:13Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/50872037958365185" rel="alternate"/>
+    <title>German exit operator &quot;morphium&quot;: acquittal  appealed by district attorney. Next stop: Landgericht.</title>
+    <content type="html">German exit operator &amp;quot;morphium&amp;quot;: acquittal  appealed by district attorney. Next stop: Landgericht.</content>
+    <updated>2011-03-24T10:50:13Z</updated>
     <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
     <twitter:geo>
     </twitter:geo>
@@ -91,19 +91,19 @@ s:8695:"<?xml version="1.0" encoding="UTF-8"?>
     </author>
   </entry>
   <entry>
-    <id>tag:search.twitter.com,2005:50429473442635776</id>
-    <published>2011-03-23T05:31:38Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/50429473442635776" rel="alternate"/>
-    <title>People don't seem to know that @torproject is looking for a lot more volunteers (not only coding). http://bit.ly/fKWjcq #Tor</title>
-    <content type="html">People don&amp;apos;t seem to know that &lt;a href=&quot;http://twitter.com/torproject&quot;&gt;@torproject&lt;/a&gt; is looking for a lot more volunteers (not only coding). &lt;a href=&quot;http://bit.ly/fKWjcq&quot;&gt;http://bit.ly/fKWjcq&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt;</content>
-    <updated>2011-03-23T05:31:38Z</updated>
+    <id>tag:search.twitter.com,2005:50871423102758912</id>
+    <published>2011-03-24T10:47:47Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/50871423102758912" rel="alternate"/>
+    <title>RT @SqnLdrPCarter: Very proud to have a #tor exit node sponsored by my business @torservers http://bit.ly/ezXWNI</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/SqnLdrPCarter&quot;&gt;@SqnLdrPCarter&lt;/a&gt;: Very proud to have a &lt;a href=&quot;http://search.twitter.com/search?q=%23tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#tor');&quot;&gt;#tor&lt;/a&gt; exit node sponsored by my business &lt;a href=&quot;http://twitter.com/torservers&quot;&gt;@torservers&lt;/a&gt; &lt;a href=&quot;http://bit.ly/ezXWNI&quot;&gt;http://bit.ly/ezXWNI&lt;/a&gt;</content>
+    <updated>2011-03-24T10:47:47Z</updated>
     <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
     <twitter:geo>
     </twitter:geo>
     <twitter:metadata>
       <twitter:result_type>recent</twitter:result_type>
     </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
     <twitter:lang>en</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
