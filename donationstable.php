@@ -10,14 +10,14 @@
   </thead>
   <tbody>
   <tr>
+    <td>2x100mbps nodes</td>
+	<td>24/7</td>
+    <td><a href="http://www.defaultroute.net/" rel="external">DefaultRoute</a></td>  
+  </tr>
+  <tr>
     <td><a href="https://torstatus.all.de/router_detail.php?FP=c67622a01d8d3b742a14506cd446342993c20fe3">a 100mbps node</a></td>
 	<td>24/7</td>
     <td><a href="http://www.codero.com/" rel="external">Codero Hosting USA</a></td>
-  </tr>
-  <tr>
-    <td>2x20mbps nodes</td>
-	<td>24/7</td>
-    <td><a href="http://www.defaultroute.net/" rel="external">DefaultRoute</a></td>  
   </tr>
   <tr>
     <td><a href="https://torstatus.all.de/router_detail.php?FP=17aa942e9eb1c631450c1bef77c158168054881e">a 10mbps node</a></td>
@@ -28,11 +28,6 @@
     <td>€100</td>
 	<td>monthly</td>
     <td><a href="http://www.rockhall.co.uk" rel="external">rockhall.co.uk</a></td>
-  </tr>  
-  <tr>
-    <td>€50</td>
-	<td>monthly</td>
-    <td>[not published]</td>
   </tr>  
   <tr>
     <td>€40</td>
@@ -97,7 +92,7 @@
   <tr>
     <td>€5</td>
 	<td>monthly</td>
-    <td>[not published]</td>
+    <td>Martin Lobe</td>
   </tr>
   <tr>
     <td>$5</td>
