@@ -1,0 +1,4 @@
+==== Konferenzen auf denen wir Talks/Workshops anpeilen könnten ====
+
+  * Froscon
+  * GUUG
