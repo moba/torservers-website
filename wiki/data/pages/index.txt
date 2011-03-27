@@ -16,41 +16,24 @@
 \\
   * Torservers.net Onion Address: http://hbpvnydyyjbmhx6b.onion/
 
-===== Franchising Torservers =====
-
-FIXME This section is a stub.
-
-==== Goal ====
-
-Tor relays should be run by as many distinct operators as possible. We aim to collect all information required to start your own Torservers.
-
-Contact us to discuss details before beginning. If you can get a non-profit status in your country, we should be able to provide funds for your exits. "Gemeinnütziger Verein" works perfectly in Germany. 
-
-==== Finding the right ISP ====
-
   * [[hoster:|Hoster List]]
-  * [[hoster:experience| our experiences with ISPs]]
+  * [[hoster:experience|Our experiences with ISPs]]
   * [[hoster:inquiry|Inquiry Templates]]
-  * [[hoster:bridges|Bridge Hosters]]
+  * [[hoster:bridges|Bridge Hosting]]
   * [[Abuse Handling]]
-
-==== Technical =====
 
   * [[setup:server|Torservers Exit Server Setup]]
   * [[setup:bridge|Tor Bridge Setup]]
   * [[setup:mailserver|Secure Mailserver Setup]]
   * [[setup:zabbix|Zabbix Guide]]
 
-==== Legal ====
-
-  * German statute that got us charitable status: [[Satzung:Torservers|Satzung Torservers]]
-
 ====== Zwiebelfreunde ======
 
   * [[presse|Pressemitteilungen]]
-  * [[Satzung:Zwiebelfreunde|Satzung Zwiebelfreunde]]
+  * [[Satzung|Satzung Zwiebelfreunde]]
   * [[gruendungssitzung|Gründungssitzung]]
   * [[conferences|Konferenzen und Talks]]
+
 ====== Wiki: Recent Changes ======
 
 Use "Edit summary" when editing.
