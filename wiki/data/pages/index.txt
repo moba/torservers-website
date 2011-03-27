@@ -30,8 +30,8 @@
 ====== Zwiebelfreunde ======
 
   * [[presse|Pressemitteilungen]]
-  * [[Satzung|Satzung Zwiebelfreunde]]
-  * [[gruendungssitzung|Gründungssitzung]]
+  * [[verein:Satzung|Satzung Zwiebelfreunde]]
+  * [[verein:Protokolle:Gruendungssitzung|Gründungssitzung]]
   * [[conferences|Konferenzen und Talks]]
 
 ====== Wiki: Recent Changes ======

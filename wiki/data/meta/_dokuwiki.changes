@@ -35,3 +35,9 @@
 1301248726	127.0.0.1	E	index	moritz		
 1301248764	127.0.0.1	e	index	moritz		
 1301248789	127.0.0.1	D	satzung:torservers	moritz	removed	
+1301248921	127.0.0.1	C	verein:satzung	moritz	created	
+1301248946	127.0.0.1	e	index	moritz		
+1301249552	127.0.0.1	C	verein:protokolle:gruendungssitzung	moritz	created	
+1301249565	127.0.0.1	D	satzung	moritz	removed	
+1301249569	127.0.0.1	D	gruendungssitzung	moritz	removed	
+1301249619	127.0.0.1	e	index	moritz		
