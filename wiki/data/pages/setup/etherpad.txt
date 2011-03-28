@@ -1,0 +1,73 @@
+====== Etherpad ======
+
+We run an Etherpad server on https://pad.torservers.net/ . Hidden service address is http://cyoiywe4ujv4rhe7.onion/ , but due to a bug in Etherpad it uses https links and pads can only be reached using their direct URL.
+
+===== Setup =====
+
+<code>echo "deb http://apt.etherpad.org all ." >> /etc/apt/sources.list
+# make sure non-free debian repo is being used for sun's java
+
+apt-get update && apt-get install etherpad python-uno
+
+# Exchange /usr/local/etherpad to the working path /usr/share/etherpad (bug #195 and bug #205)
+sed -i -e "s:/usr/local/etherpad:/usr/share/etherpad:g" /etc/init.d/etherpad
+
+# apply patch for proper https support: https://github.com/ether/pad/pull/193
+# plus: remove base href element from etherpad/src/themes/default/templates/html.ejs
+</code>
+
+==== /etc/etherpad/etherpad.local.properties ====
+
+<code>
+alwaysHttps = true
+ajstdlibHome = ../infrastructure/framework-src/modules
+appjetHome = ./data/appjet
+devMode = false
+etherpad.adminPass = INSERTADMINPASSWORDHERE
+etherpad.fakeProduction = false
+etherpad.isProduction = true
+etherpad.proAccounts = true
+etherpad.SQL_JDBC_DRIVER = com.mysql.jdbc.Driver
+etherpad.SQL_JDBC_URL = jdbc:mysql://localhost:3306/etherpad
+etherpad.SQL_PASSWORD = MYSQLPASSWORD
+etherpad.SQL_USERNAME = etherpad
+hidePorts = true
+listen = 127.0.0.1:9000
+logDir = /var/log/etherpad
+modulePath = ./src
+motdPage = /ep/pad/view/ro.3PfHCD0ApLc/latest?fullScreen=1&slider=0&sidebar=0
+topdomains = pad.torservers.net,cyoiywe4ujv4rhe7.onion,localhost,localhost.localdomain
+transportPrefix = /comet
+transportUseWildcardSubdomains = true
+useHttpsUrls = true
+useVirtualFileRoot = ./src
+theme = default
+etherpad.soffice = /usr/bin/soffice
+customBrandingName = Zwiebelpad v1.1
+customEmailAddress = support@torservers.net
+showLinkandLicense = true
+defaultAccess = none
+</code>
+
+==== SSL cert (CAcert) ====
+
+<code>cd /etc/lighttpd/ssl
+openssl req -nodes -new -keyout pad.torservers.net.key -out pad.torservers.net.csr
+# cacert.org -> add domain -> paste in .csr -> store cert in pad.torservers.net.crt
+cat pad.torservers.net.crt pad.torservers.net.key > pad.torservers.net.pem</code>
+
+==== /etc/lighttpd/conf.d/etherpad.conf ====
+
+<code>server.modules   += ( "mod_proxy" )
+
+$HTTP["host"] =~ "^(.+\.)?pad.torservers.net" {
+        ssl.engine = "enable"
+        ssl.pemfile = "/etc/lighttpd/ssl/pad.torservers.net.pem"
+        proxy.server = ( "" => ( ( "host" => "127.0.0.1",
+         "port" => 9000, "fix-redirects" => 1 ) ) )
+}</code>
+
+==== Hidden Service (add to /etc/tor/torrc) ====
+
+<code>HiddenServiceDir /var/lib/tor/hidden_pad/
+HiddenServicePort 80 127.0.0.1:9000</code>

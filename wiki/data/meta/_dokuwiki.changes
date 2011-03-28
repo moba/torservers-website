@@ -38,3 +38,6 @@
 1301249619	127.0.0.1	e	index	moritz		
 1301252832	127.0.0.1	C	verein:index	moritz	created	
 1301252878	127.0.0.1	e	verein:index	moritz	[Ziele des Vereins] 	
+1301334447	127.0.0.1	C	setup:etherpad	moritz	created	
+1301334550	127.0.0.1	E	guides	moritz	etherpad, fixed headlines	
+1301334568	127.0.0.1	e	guides	moritz	fixed link	
