@@ -2,6 +2,8 @@
 
 We run an Etherpad server on https://pad.torservers.net/ . Hidden service address is http://cyoiywe4ujv4rhe7.onion/ , but due to a bug in Etherpad it uses https links and pads can only be reached using their direct URL.
 
+FIXME For some reason, you cannot create new pads with FF4. What is wrong?
+
 ===== Setup =====
 
 <code>echo "deb http://apt.etherpad.org all ." >> /etc/apt/sources.list

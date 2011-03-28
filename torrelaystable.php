@@ -58,7 +58,7 @@
   <td colspan="4">A relay in Switzerland donated and maintained by <i>raidz</i>.
  </tr>
  <tr> 
-  <td class="au" title="Australia"><a href="http://pfitz.torservers.net/">pfitz</a></td><td>10 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=17AA942E9EB1C631450C1BEF77C158168054881E" rel="external">17AA 942E 9EB1 C631 450C 1BEF 77C1 5816 8054 881E</a></td><td>all</td>
+  <td class="au" title="Australia"><a href="http://pfitz.torservers.net/">pfitz</a></td><td>20 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=17AA942E9EB1C631450C1BEF77C158168054881E" rel="external">17AA 942E 9EB1 C631 450C 1BEF 77C1 5816 8054 881E</a></td><td>all</td>
  </tr>
  <tr>
   <td colspan="4">A relay in Australia donated by <a href="http://www.networkpresence.com.au/" rel="external">Network Presence Australian Hosting</a>. Allows almost all ports to exit. Named in memoriam of <a href="http://www.identityblog.com/?p=1159">Andreas Pfitzmann</a>, security &amp; anonymity professor and Dean of TU Dresden.</td>
