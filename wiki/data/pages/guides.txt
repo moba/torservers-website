@@ -27,3 +27,4 @@ Explain Vidalia, Browser Bundle, why everyone should use Tor with Torbutton and 
   * [[setup:mailserver|Secure Mailserver]]
   * [[setup:zabbix|Zabbix Monitoring]]
   * [[setup:etherpad|Etherpad]]
+  * [[setup:webserver|Webserver]]
