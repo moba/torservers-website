@@ -280,7 +280,6 @@ Set MaxBandwidth to line maximum, eg. for GBit:
 ===== TXQueueLen, MTU "Jumbo Frames" =====
 
 <code>
-<code>
 # remove "exit" from rc.local, then
 echo 'ifconfig eth0 txqueuelen 20000' >> /etc/rc.local
 
