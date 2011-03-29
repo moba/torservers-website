@@ -310,3 +310,6 @@ modulepath
 fullscreen
 topdomains
 zwiebelpad
+extensions
+exitpolicy
+structures

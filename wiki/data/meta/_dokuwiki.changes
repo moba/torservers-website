@@ -44,3 +44,7 @@
 1301335512	127.0.0.1	e	setup:etherpad	moritz	[Etherpad -> Hidden Service (add to /etc/tor/torrc)] 	
 1301340269	127.0.0.1	E	conferences	moritz	sbsmcamp	
 1301374192	127.0.0.1	e	guides	moritz	[Other] 	
+1301375184	127.0.0.1	C	setup:webserver	moritz	created	
+1301376243	127.0.0.1	E	verein:index	moritz	mission statement	
+1301376323	127.0.0.1	e	verein:index	moritz	changed headline	
+1301376356	127.0.0.1	e	verein:index	moritz	[Mission Statement] 	

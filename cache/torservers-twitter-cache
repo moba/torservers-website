@@ -1,15 +1,55 @@
-s:7572:"<?xml version="1.0" encoding="UTF-8"?>
+s:8413:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=52565640606785536" rel="refresh"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=52602758536237056" rel="refresh"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
-  <updated>2011-03-28T18:50:26Z</updated>
+  <updated>2011-03-29T05:27:29Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=52565640606785536&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=52602758536237056&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:52602758536237056</id>
+    <published>2011-03-29T05:27:29Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/52602758536237056" rel="alternate"/>
+    <title>Zwiebelfreunde - Mission Statement https://www.torservers.net/wiki/verein/ #Tor</title>
+    <content type="html">Zwiebelfreunde - Mission Statement &lt;a href=&quot;https://www.torservers.net/wiki/verein/&quot;&gt;https://www.torservers.net/wiki/verein/&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt;</content>
+    <updated>2011-03-29T05:27:29Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
+    <twitter:lang>de</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:52597997585969152</id>
+    <published>2011-03-29T05:08:34Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/52597997585969152" rel="alternate"/>
+    <title>New webserver config snippets published https://www.torservers.net/wiki/setup/webserver  #STS #XCSP #Tor</title>
+    <content type="html">New webserver config snippets published &lt;a href=&quot;https://www.torservers.net/wiki/setup/webserver&quot;&gt;https://www.torservers.net/wiki/setup/webserver&lt;/a&gt;  &lt;a href=&quot;http://search.twitter.com/search?q=%23STS&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#STS');&quot;&gt;#STS&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23XCSP&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#XCSP');&quot;&gt;#XCSP&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt;</content>
+    <updated>2011-03-29T05:08:34Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
   <entry>
     <id>tag:search.twitter.com,2005:52442439654453248</id>
     <published>2011-03-28T18:50:26Z</published>
@@ -64,46 +104,6 @@ s:7572:"<?xml version="1.0" encoding="UTF-8"?>
       <twitter:result_type>recent</twitter:result_type>
     </twitter:metadata>
     <twitter:source>&lt;a href=&quot;http://www.hootsuite.com&quot; rel=&quot;nofollow&quot;&gt;HootSuite&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:51713515609796608</id>
-    <published>2011-03-26T18:33:57Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/51713515609796608" rel="alternate"/>
-    <title>@torservers is an officially registered non-profit organization now. Thanks for your support!</title>
-    <content type="html">&lt;a href=&quot;http://twitter.com/torservers&quot;&gt;@torservers&lt;/a&gt; is an officially registered non-profit organization now. Thanks for your support!</content>
-    <updated>2011-03-26T18:33:57Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:51620833470328832</id>
-    <published>2011-03-26T12:25:40Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/51620833470328832" rel="alternate"/>
-    <title>Australian Tor exit upgraded to 20mbps - Thanks Network Presence! http://networkpresence.com.au/</title>
-    <content type="html">Australian Tor exit upgraded to 20mbps - Thanks Network Presence! &lt;a href=&quot;http://networkpresence.com.au/&quot;&gt;http://networkpresence.com.au/&lt;/a&gt;</content>
-    <updated>2011-03-26T12:25:40Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
     <twitter:lang>en</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>

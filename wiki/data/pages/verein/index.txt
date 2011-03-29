@@ -1,12 +1,24 @@
-====== Zwiebelfreunde ======
+====== Zwiebelfreunde ("Friends of the Onion") ======
+  * [[verein:satzung|Satzung]]
+
+===== Mission Statement =====
+
+Cryptography, security, privacy and anonymity are public goods. They must not be a secret limited to experts and criminals. Members of Zwiebelfreunde ("Friends of the Onion") educate the public on how to professionally use and offer privacy related services.
+
+Torservers.net is the first instance of our vision of a large network of separate, independent entities running Tor exits. Our goal is to "franchise" the Torservers concept by providing a complete set of guides ranging from legal advice to technical details. We especially want to foster [[:usergroups|local user groups]] to discuss decentralized structures and privacy.
+
+If you want to help, we have a lot of open positions and [[:todo|todos]]. Don't be shy, find us on IRC.
+
+This is just the beginning.
 
 ===== Ziele des Vereins =====
 
-    * verlässliche Partner für Tor Exits ausfindig machen; diese Informationen allen Interessenten zugänglich machen
-    * eigene Server betreiben
-    * Ansprechpartner für Medien und sonstige Interessenten bieten
-    * Tor Nutzergruppen/"Freunde" zusammenbringen (lokale Gruppen, globale Vernetzung)
-    * Torservers replizierbar machen -> mehr Dezentralität
+  * verlässliche Partner für Tor Exits ausfindig machen; diese Informationen allen Interessenten zugänglich machen
+  * eigene Server betreiben
+  * Ansprechpartner für Medien und sonstige Interessenten bieten
+  * Tor Nutzergruppen/"Freunde" zusammenbringen (lokale Gruppen, globale Vernetzung)
+  * Torservers replizierbar machen -> mehr Dezentralität
+
 ===== Protokolle =====
 
   * 26.03.2011: [[verein:protokolle:gruendungssitzung|Gründungssitzung]]

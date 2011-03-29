@@ -1,0 +1,94 @@
+====== Webserver ======
+
+We use Lighttpd and Dokuwiki for our website. You can use Git for backups and redundant hosting. We plan to release a guide that explains this in detail. For now, here are some snippets from our configuration. Base server setup is similar to [[setup:server|our exit setup]].
+
+===== Lighttpd =====
+
+Base config: https://github.com/moba/lighttpd-config
+
+==== /etc/lighttpd/conf.d/torservers.conf ====
+
+<code>
+$HTTP["host"] =~ "^torservers\.net$" {
+        url.redirect = ( "^/(.*)" => "https://www.torservers.net/$1" )
+}
+
+# no check for host www.torservers.net
+# because this is the default for .onion and localhost too
+
+fastcgi.map-extensions = ( ".html" => ".php" )
+
+# suggest SSL, new FF4 x-content-security-policy forbids external content
+server.modules += ("mod_setenv")
+setenv.add-response-header = (
+ "Strict-Transport-Security" => "max-age=31556926;includeSubDomains",
+ "X-Content-Security-Policy" => "allow 'self'" )
+
+## dokuwiki
+var.dokudir = "/wiki"
+
+$HTTP["url"] =~ "/(\.|_)ht" { url.access-deny = ( "" ) }
+$HTTP["url"] =~ "^" + var.dokudir + "/(bin|data|inc|conf)/"  { url.access-deny = ( "" ) }
+# rewrites for dokuwiki
+$HTTP["url"] =~ "^" + var.dokudir { index-file.names = ("doku.php") }
+url.rewrite = (
+      "^" + var.dokudir + "/lib/.*$"              => "$0",
+      "^" + var.dokudir + "/_media/(.*)?\?(.*)$"  => var.dokudir + "/lib/exe/fetch.php?media=$1&$2",
+      "^" + var.dokudir + "/_media/(.*)$"         => var.dokudir + "/lib/exe/fetch.php?media=$1",
+      "^" + var.dokudir + "/_detail/(.*)?\?(.*)$" => var.dokudir + "/lib/exe/detail.php?media=$1&$2",
+      "^" + var.dokudir + "/_detail/(.*)?$"       => var.dokudir + "/lib/exe/detail.php?media=$1",
+      "^" + var.dokudir + "/_export/([^/]+)/(.*)\?(.*)$" => var.dokudir + "/doku.php?do=export_$1&id=$2&$3",
+      "^" + var.dokudir + "/_export/([^/]+)/(.*)" => var.dokudir + "/doku.php?do=export_$1&id=$2",
+      "^" + var.dokudir + "/doku.php.*"           => "$0",
+      "^" + var.dokudir + "/feed.php.*"           => "$0",
+      "^" + var.dokudir + "/(.*)\?(.*)"           => var.dokudir + "/doku.php?id=$1&$2",
+      "^" + var.dokudir + "/(.*)"                 => var.dokudir + "/doku.php?id=$1"
+)
+</code>
+
+===== Hidden Service =====
+
+Our website is also available as a Tor hidden service at http://hbpvnydyyjbmhx6b.onion/
+
+
+==== /etc/tor/torrc ====
+
+<code>
+HiddenServiceDir /var/lib/tor/hidden_web/
+HiddenServicePort 80 127.0.0.1:80
+
+SocksPort 0
+SocksListenAddress 127.0.0.1
+Log notice file /var/log/tor/notices.log
+RunAsDaemon 1
+DataDirectory /var/lib/tor
+Nickname TorserversEnclave
+Address 213.218.162.244
+ContactInfo Torservers.net <support .AT. torservers .DOT. net>
+ORPort 9001
+MyFamily $....
+
+# "exit enclave"
+ExitPolicyRejectPrivate 0
+ExitPolicy accept 213.218.162.244:80
+ExitPolicy accept 213.218.162.244:443
+ExitPolicy reject *:*
+RelayBandwidthRate 50KB
+RelayBandwidthBurst 1MB
+</code>
+
+===== Backup to GitHub =====
+
+create a new user on github. 
+ 
+<code>su www-data
+ssh-keygen -t rsa -C "your_email@youremail.com"
+git config --global user.name "Your backup bot name"
+git config --global user.email "your_email@youremail.com"
+</code>
+
+crontab -e -u www-data
+
+<code>
+*/30 * * * * cd /var/www/torservers/ && /usr/bin/git add . && /usr/bin/git commit -am 'Automatic backup' && /usr/bin/git push -u origin master >/dev/null 2>&1 ;fi
+</code>

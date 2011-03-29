@@ -15,3 +15,5 @@ usevirtualfileroot
 custombrandingname
 customemailaddress
 showlinkandlicense
+sockslistenaddress
+relaybandwidthrate
