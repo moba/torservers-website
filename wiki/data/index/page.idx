@@ -57,3 +57,5 @@ verein:protokolle:gruendungssitzung
 verein:index
 setup:etherpad
 setup:webserver
+setup:jabber
+setup:statusnet

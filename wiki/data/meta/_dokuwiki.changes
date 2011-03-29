@@ -48,3 +48,7 @@
 1301376243	127.0.0.1	E	verein:index	moritz	mission statement	
 1301376323	127.0.0.1	e	verein:index	moritz	changed headline	
 1301376356	127.0.0.1	e	verein:index	moritz	[Mission Statement] 	
+1301376846	127.0.0.1	C	setup:jabber	moritz	created	
+1301377255	127.0.0.1	e	setup:jabber	moritz		
+1301377375	127.0.0.1	C	setup:statusnet	moritz	created	
+1301377425	127.0.0.1	e	guides	moritz	jabber, statusnet	

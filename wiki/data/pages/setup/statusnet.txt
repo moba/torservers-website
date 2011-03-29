@@ -1,0 +1,5 @@
+====== StatusNet ======
+
+Running an own microblogging server has several advantages over using Twitter directly. Many applications support Status.net as an open source implementation, and your tweets can conveniently be pushed to your Twitter account.
+
+  * http://moblog.wiredwings.com/archives/20110110/Decentralizing-Twitter-status.net-Installation-Howto.html

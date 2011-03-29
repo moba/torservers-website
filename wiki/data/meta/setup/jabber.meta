@@ -1,0 +1,6 @@
+a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1301376846;s:8:"modified";i:1301377255;}s:7:"creator";s:12:"Moritz Bartl";s:11:"last_change";a:7:{s:4:"date";i:1301377255;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"e";s:2:"id";s:12:"setup:jabber";s:4:"user";s:6:"moritz";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}s:5:"title";s:1:" ";s:11:"description";a:2:{s:15:"tableofcontents";a:1:{i:0;a:4:{s:3:"hid";s:13:"jabber_server";s:5:"title";s:13:"Jabber Server";s:4:"type";s:2:"ul";s:5:"level";i:1;}}s:8:"abstract";s:269:"We run our own Jabber server. 
+
+
+	*  <http://jerakeen.org/blog/2007/10/running-a-jabber-server-with-ejabberd/>
+	*  <http://library.linode.com/communications/xmpp/ejabberd/debian-5-lenny>
+	*  <http://sysmonblog.co.uk/2008/06/ot-installing-ejabberd-on-debian-ubuntu.html>";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1301376846;}s:7:"creator";s:12:"Moritz Bartl";s:11:"last_change";a:7:{s:4:"date";i:1301377255;s:2:"ip";s:9:"127.0.0.1";s:4:"type";s:1:"e";s:2:"id";s:12:"setup:jabber";s:4:"user";s:6:"moritz";s:3:"sum";s:0:"";s:5:"extra";s:0:"";}}}
