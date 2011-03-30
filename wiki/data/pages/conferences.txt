@@ -1,6 +1,6 @@
 ==== Konferenzen auf denen wir Talks/Workshops anpeilen könnten ====
 
-  * Froscon
-  * GUUG
+  * [[http://www.froscon.de/|Froscon]] 6 - 20./21. August 2011
+  * [[http://www.guug.de/|GUUG]]
   * [[http://www.sozialebewegungen.org/blog/2011/03/17/ausblick-auf-ein-sbsmcamp-im-herbst/|sbsmcamp]] 19-20.10. Donaumarina, Wien
   * [[http://www.ena2011.eu/|ENA]]
