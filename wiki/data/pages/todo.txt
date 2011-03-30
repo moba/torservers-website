@@ -46,6 +46,7 @@ One of our goals is to offer press contacts and organize local hackfests and wor
   * move mailinglist; offer secure mailinglists. [[http://www.sympa.org/|sympa]] (used by riseup) or mailman?
   * ticketing system for abuse
   * bugtracker
+  * extra accounting for tor traffic  http://www.cyberciti.biz/faq/linux-configuring-ip-traffic-accounting/
 
 ===== Member Services =====
 
