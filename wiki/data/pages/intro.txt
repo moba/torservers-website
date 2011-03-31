@@ -7,6 +7,7 @@ For setup and configuration, see [[guides|Tor Guides]].
 <sortable 1>
 ^Language^Title^Author^
 |en|[[https://svn.torproject.org/svn/projects/articles/circumvention-features.html|Ten things to look for in a circumvention tool]]|Roger Dingledine|
+|en|[[http://www.library.idsc.gov.eg/GUI/Globals/Upload/BULLETIN_ATTACHMENT/35/July2007/e-files/communications%20and%20computers/Therightplace.pdf|The Right Place At The Right Time]]|Goodell/Syverson|
 |en|[[http://open.salon.com/blog/kent_pitman/2011/02/12/using_real_names_has_real_consequences|Using Real Names has Real Consequences]]|Kent Pitman|
 |en|[[http://arstechnica.com/tech-policy/news/2010/11/google-net-censorship-amounts-to-undeclared-trade-war.ars|Google: 'Net censorship amounts to undeclared trade war]]|Nate Anderson|
 </sortable>
