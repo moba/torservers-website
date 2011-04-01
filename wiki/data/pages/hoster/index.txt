@@ -16,7 +16,6 @@ Suggest hosters and I will contact them. If you want to read more about our expe
 
 ===== no custom WHOIS =====
 ^ ISP ^ Location ^ custom whois ^ offer/orientation ^ comment ^
-| [[http://fdcservers.net|FDCservers]] | US/CZ | Y, CZ:N | 300$/month 1GBit unmeterd | 24h response time to abuse; also complained about massive amount of DMCA spam. |
 | [[http://www.t-n-media.de/|t-n media]] | RO | N | 250€ 1Gbit dedicated Intel Core i7, 6GB RAM, 2x 1,5TB | tor ok, will forward abuse |
 | [[http://www.net100tb.com|Net100TB]] | NL | N | 219€: 100TB in+out, Quad, 8GB RAM | |
 | [[http://www.yazuhost.com/|Yazuhost]] | NL | N | 150€ 100TB up 100TB down Xeon 3210, 4GB RAM, 500GB | tor ok, Leaseweb reseller, can forward DMCA complaints |
@@ -24,7 +23,6 @@ Suggest hosters and I will contact them. If you want to read more about our expe
 ===== currently contacting =====
 ^ ISP ^ Location ^ custom whois ^ offer/orientation ^ comment ^
 | [[http://RapidSpeeds.com|RapidSpeeds]] |  | | 140GBP 1Gbit unmetered | Not going to host you. no custom WHOIS| 
-| [[http://Securedservers.com|Securedservers]] |  | | | |
 | [[http://thordc.is|thordc]]  |  | | |  [[thordc.is|HW prices]] |
 | [[http://rokabear.com/|Rokabear]] |  | | | |
 
@@ -48,7 +46,10 @@ Suggest hosters and I will contact them. If you want to read more about our expe
 
 ===== Tor explicitly not allowed =====
 ^ ISP ^ reference ^
+| [[http://fdcservers.net|FDCservers]] | [[http://www.freelists.org/post/torservers/FDC-cancelled-our-server-FDC-history|kicked us within a month]] |
 | [[http://www.Incero.com|Incero]] | [[http://www.freelists.org/post/torservers/Fwd-Re-Tor-Server-w-ARIN-reassignment|"We don't allow TOR"]] |
+| MakoSolutions | "Open proxies are forbidden." |
+| [[http://Securedservers.com|Securedservers]] | likes Tor, but carrier does not |
 
 
 ====== Provider Independent IP Space ======
