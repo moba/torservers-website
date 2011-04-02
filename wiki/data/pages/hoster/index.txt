@@ -46,8 +46,10 @@ Suggest hosters and I will contact them.
 | [[http://directspace.net|DirectSpace]]  | US | ? | Xeon 5110 , 4GB RAM, 2x500GB, 100TB up 100TB down, $10/TB | custom notice should be no problem, very poor communication. no reply about custom whois. |
 | [[http://www.caratnetworks.com|Carat]]  | CA | ? | 300€ 10TB | known privacy hoster |
 
-===== Tor explicitly not allowed =====
+===== avoid these ISP's =====
 ^ ISP ^ reference ^
+| [[http://fdcservers.net|FDCservers]] | [[http://www.freelists.org/post/torservers/FDC-cancelled-our-server-FDC-history|kicked us within a month]] |
+| [[http://evoboxes.net|EvoBoxes]] | http://www.freelists.org/post/torservers/evoboxes-node,1 |
 | [[http://www.Incero.com|Incero]] | [[http://www.freelists.org/post/torservers/Fwd-Re-Tor-Server-w-ARIN-reassignment|"We don't allow TOR"]] |
 | MakoSolutions | "Open proxies are forbidden." |
 | [[http://Securedservers.com|Securedservers]] | likes Tor, but carrier does not |
