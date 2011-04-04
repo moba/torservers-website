@@ -13,7 +13,7 @@ We're a slowly, but healthily growing family of Tor friends. Anyone is welcome t
 
   * monitoring
   * graphs. I want combined graphs that for example show bandwidth usage across all nodes, and "our bandwidth" in comparison to all exit relay bandwidth (and some usage stats, see bridges)
-  * myFamily setting: currently, we have to log into EACH machine and update MyFamily if we add or remove a node. We need that centralized, but safe (signed). also, we need to be able to sync (some) exit rules.
+  * myFamily setting: currently, we have to log into EACH machine and update MyFamily if we add or remove a node. We need that centralized, but safe (signed). also, we need to be able to sync (some) exit rules. -- 04/04/11 I'm working on it (tagnaq)
 
 ==== Tor Distribution ====
 
