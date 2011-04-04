@@ -82,7 +82,7 @@ dpkg-reconfigure exim4-config
 =====  Tor  =====
 
   * https://blog.torproject.org/blog/tips-running-exit-node-minimal-harassment
-  * currently testing SNMPv3 and OpenNMS for monitoring
+  * currently testing [[setup:zabbix]] for monitoring
   * anonymizing relay monitor (arm) [[http://www.atagar.com/arm/]] for direct Tor node observation
   * [[http://humdi.net/vnstat/|vnstat]] for bandwidth stats
 
