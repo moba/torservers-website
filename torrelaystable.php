@@ -11,17 +11,6 @@
  </thead>
 
  <tr> 
-  <td class="cz" title="Czech Republic"><a href="http://fdc1.torservers.net/">fdc1</a></td><td><font color="green">1000 mbit/s</font></td><td>&nbsp;</td><td>many</td>
- </tr>
- <tr>
-  <td colspan="4"><font color="green"><b>Community funded exit relay</b></font> with FDCServers in Czech Republic.
-  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=7326be7d3262f2fe813bc8e38613c80d0132d81d">katari</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=c5ea3b664af656e5794ecee4935c3e84da86d661">katari2</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/T%C3%BApac_Katari">Túpac Katari</a>.
-  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=0e651cacd51bc95300b41f47c82ba0f07686b450">bouazizi</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=94b4e563fc3d756cae9d28316751449653c48e05">bouazizi2</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Mohamed_Bouazizi">Mohamed Bouazizi</a>.
-  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=ab9710104a6d0d7457079ca8ca5d494af6332e92">bolivar</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar">Simón Bolívar</a>.
-  <p/> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=308a86d470c851c4944f455f8f2b11a4275bce6b">rockhall</a>: courtesy of <a href="http://www.rockhall.co.uk/" rel="external">Rock Hall Ltd</a>.
-  </p></td>
- </tr>
- <tr> 
   <td class="ro" title="Romania"><a href="http://maumau.torservers.net/">maumau</a></td><td>1000 mbit/s</td><td>&nbsp;</td><td>many</td>
  </tr>
  <tr>
@@ -30,6 +19,15 @@
   <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=D2601A8D161302CB7DE3A0814FA2214E00797322">kato</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=D35989E89C452265FF0FC3D15F6F82DF7AC26F47">kato2</a>: in memoriam of <a href="http://www.huffingtonpost.com/2011/01/27/david-kato-uganda-gay-act_n_814775.html">David Kato</a>.
   <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=91D5E1B074C83CCB6DF2428E1C164377787C09A0">morales</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=8F24D07907A94E1E255A7AF3D89C193CDA610414">morales2</a>: dedicated to the ongoing works of <a href="http://en.wikipedia.org/wiki/Evo_Morales">Evo Morales</a>, the "World Hero of Mother Earth".
   </p></td>
+ </tr>
+ <tr> 
+  <td class="nl" title="Netherlands"><a href="https://www.torservers.net/wiki/hoster/experience#axigy_us">manning</a></td><td>313 mbit/s</td><td>&nbsp;</td><td>many</td>
+ </tr>
+ <tr>
+  <td colspan="4">
+  <a href="https://torstatus.blutmagie.de/router_detail.php?FP=413681532DCD4598E96E31ADDC9812EC08DA9990">manning</a>: in support of <a href="http://www.salon.com/news/opinion/glenn_greenwald/2010/12/14/manning/">Bradley Manning</a>.
+  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=ED0CE506E6D487738E257E1ADCB8B92FF530DAFB">saeed</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Death_of_Khaled_Mohamed_Saeed">Khaled Mohamed Saeed</a>.
+  </td>
  </tr>
  <tr> 
   <td class="us" title="USA"><a href="http://wau.torservers.net/" class="thumbnail">wau</a></td><td>100 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=C67622A01D8D3B742A14506CD446342993C20FE3" rel="external">C676 22A0 1D8D 3B74 2A14 506C D446 3429 93C2 0FE3</a></td><td>some</td>
@@ -52,7 +50,7 @@
   <td colspan="4">A relay in Seattle, courtesy of <a href="http://www.defaultroute.net/" rel="external">Mike Sawicki at DefaultRoute</a>. Named in memoriam of <a href="http://en.wikipedia.org/wiki/Bill_Zeller">Bill Zeller</a>, a young security researcher at Princeton.</td>
  </tr>
  <tr> 
-  <td class="ch" title="Switzerland""><a href="http://raidz.torservers.net/">raidz</a></td><td>31 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=A925A0355A4776D5404FF862961BE4F9E4DA70F1" rel="external">A925 A035 5A47 76D5 404F F862 961B E4F9 E4DA 70F1</a></td><td>many</td>
+  <td class="ch" title="Switzerland"><a href="http://raidz.torservers.net/">raidz</a></td><td>31 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=A925A0355A4776D5404FF862961BE4F9E4DA70F1" rel="external">A925 A035 5A47 76D5 404F F862 961B E4F9 E4DA 70F1</a></td><td>many</td>
  </tr>
  <tr>
   <td colspan="4">A relay in Switzerland donated and maintained by <i>raidz</i>.
@@ -68,6 +66,28 @@
  </tr>
  <tr>
   <td colspan="4">A relay in Germany donated by <a href="http://psilo.fr/" rel="external">Psilo.fr - L'esprit libre sur internet VPN service</a>.</td>
+ </tr>
+</table>
+
+<p/>
+<h3>Deceased servers</h3>
+
+<table summary="This table lists deceased Tor exits." id="deceased">
+ <thead>
+  <tr>
+   <th scope="col">Name</th>  
+   <th scope="col">Bandwidth</th>  
+   <th scope="col">Lifetime</th>  
+  </tr>
+ </thead>
+ <tr> 
+  <td class="cz" title="Czech Republic"><a href="https://www.torservers.net/wiki/hoster/experience#fdcservers_cz">fdc servers</a></td><td>1000 mbit/s<td>28.02. - 01.04.2011</td>
+ </tr>
+ <tr>
+  <td class="nl" title="Netherlands"><a href="https://www.torservers.net/wiki/hoster/experience#evoboxesnet_nl">evoboxes</a></td><td>160 mbit/s</td><td>11.02. - 17.03.2011</td>
+ </tr>
+ <tr>
+  <td class="us" title="USA"><a href="https://www.torservers.net/wiki/hoster/experience#tbcom_us">100tb.com</a></td><td>313 mbit/s</td><td>Jun 2010 - Jan 2011</td>
  </tr>
 </table>
 

@@ -4,7 +4,29 @@ We are running and did run Tor exit nodes at different Providers and Datacenters
 ======T-N Media (RO)======
 http://www.t-n-media.de/
 
-  * 07/03/2011 Thanks to [[https://www.accessnow.org/|Access Now!]] we are running a 1Gbit/s unmetered exit node there.
+<code>Intel Core i7 (3.06 GHz)
+6144 MB RAM
+2x 1500 GB (software RAID)
+
+199 Euro/mnth
+</code>
+
+  * 07/03/2011 ordered 
+  * slow - bad peering?
+
+====== Axigy (US) ======
+http://www.axigy.com/
+
+<code>
+Intel Xeon X3470 - 4x 2.93 GHz
+8 GB DDR3 RAM
+1 TB Enterprise SATA
+100 TB Premium Bandwidth on gigE (Free Incoming)
+4 IP Addresses with 24/7 KVM
+
+$199.00/mo ( $139 + 60)</code>
+
+  * 03.04.2011: very friendly and understanding, ordered ("Great, I like what you're doing to help those countries with respective governments. In response to Abuse, we are very understanding, complaints are actually forwarded automatically in the event we receive any from your range.")
 
 ====== FAIL ======
 =====100tb.com (US) =====
@@ -22,7 +44,7 @@ http://www.evoboxes.net/
 
 After contacting them regarding a custom build offer for an exit node they provided us with an unmetered 10MBit/s VPS for free. After a week they upgraded the node to 160MBit/s unmetered! This node was donated to us on 11/02/2011 and is maintained and managed by us (torservers.net).
 
-  * 17/03/2011 - The hoster freaked out about a policy inquiry and removed everything. We will get the VPS back, but won't be able to keep it as exit. Was to be expected from the beginning. http://www.freelists.org/post/torservers/evoboxes-node,1
+  * 17/03/2011 - Evoboxes is a Rapidspeeds reseller. Rapidspeeds does not allow Tor exits, and they forced Evo to turn it off.
 
 
 =====FDCservers (CZ)=====
@@ -33,3 +55,6 @@ http://www.fdcservers.net/
   * We haven't had any problems with the ISP so far (as of 05/03/2011).
   * 01/04/2011 [[http://www.freelists.org/post/torservers/FDC-cancelled-our-server-FDC-history|server cancelled]]
 
+  * Bandwidth history:
+    * https://www.torservers.net/status/fdc1_vnstat_d.png
+    * https://www.torservers.net/status/fdc1_vnstat_m.png
