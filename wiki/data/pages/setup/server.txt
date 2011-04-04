@@ -59,7 +59,7 @@ vi /etc/hostname # also use brizzle.torservers.net
 vi /etc/hosts # update to brizzle.torservers.net brizzle
 /etc/init.d/sysklogd reload
 
-# disable stupid debian default that pulls in recommended packages:
+# disable debian default that pulls in recommended packages:
 cd /etc/apt/apt.conf.d
 wget http://www.torservers.net/misc/config/06norecommends
 
