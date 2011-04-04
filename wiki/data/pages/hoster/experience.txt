@@ -28,6 +28,19 @@ $199.00/mo ( $139 + 60)</code>
 
   * 03.04.2011: very friendly and understanding, ordered ("Great, I like what you're doing to help those countries with respective governments. In response to Abuse, we are very understanding, complaints are actually forwarded automatically in the event we receive any from your range.")
 
+====== EUserv (DE) ======
+https://ssl.euserv.de/produkte/specials/spring-server2008.php
+
+<file>
+Intel(R) Pentium(R) Dual  CPU  E2180  @ 2.00GHz
+4GB RAM
+2x500GB
+100 mbit/s
+540€ per year (45 per month)
+</file>
+
+  * 04.04.2011: Old server signed over to us by another Tor community member. Thanks!
+
 ====== FAIL ======
 =====100tb.com (US) =====
 
