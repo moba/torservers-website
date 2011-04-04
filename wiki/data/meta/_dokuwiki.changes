@@ -1,21 +1,3 @@
-1301243115	127.0.0.1	E	index		[Zwiebelfreunde] 	
-1301243195	127.0.0.1	C	conferences		[This topic does not exist yet] 	
-1301243208	127.0.0.1	E	conferences			
-1301243234	127.0.0.1	E	conferences			
-1301243266	127.0.0.1	E	conferences			
-1301243296	127.0.0.1	E	conferences			
-1301243323	127.0.0.1	E	conferences			
-1301248726	127.0.0.1	E	index	moritz		
-1301248764	127.0.0.1	e	index	moritz		
-1301248789	127.0.0.1	D	satzung:torservers	moritz	removed	
-1301248921	127.0.0.1	C	verein:satzung	moritz	created	
-1301248946	127.0.0.1	e	index	moritz		
-1301249552	127.0.0.1	C	verein:protokolle:gruendungssitzung	moritz	created	
-1301249565	127.0.0.1	D	satzung	moritz	removed	
-1301249569	127.0.0.1	D	gruendungssitzung	moritz	removed	
-1301249619	127.0.0.1	e	index	moritz		
-1301252832	127.0.0.1	C	verein:index	moritz	created	
-1301252878	127.0.0.1	e	verein:index	moritz	[Ziele des Vereins] 	
 1301334447	127.0.0.1	C	setup:etherpad	moritz	created	
 1301334550	127.0.0.1	E	guides	moritz	etherpad, fixed headlines	
 1301334568	127.0.0.1	e	guides	moritz	fixed link	
