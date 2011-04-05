@@ -59,8 +59,7 @@ Other useful services might be Jabber, StatusNet, hidden services hosting etc.
 ===== Other =====
 
   * t-shirts
-  * need a german document to proactively contact BKA, LKA and local Dresden police. please write one!
-
+  * need a german document to proactively contact BKA, LKA and local Dresden police. please write one! --> what exactly should this be about / for what purpose?
 ===== Organizations to contact about Partnership/Sponsoring =====
 
 Add! Start writing contact letters.
