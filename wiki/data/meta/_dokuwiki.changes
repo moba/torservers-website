@@ -1,17 +1,3 @@
-1301334447	127.0.0.1	C	setup:etherpad	moritz	created	
-1301334550	127.0.0.1	E	guides	moritz	etherpad, fixed headlines	
-1301334568	127.0.0.1	e	guides	moritz	fixed link	
-1301335512	127.0.0.1	e	setup:etherpad	moritz	[Etherpad -> Hidden Service (add to /etc/tor/torrc)] 	
-1301340269	127.0.0.1	E	conferences	moritz	sbsmcamp	
-1301374192	127.0.0.1	e	guides	moritz	[Other] 	
-1301375184	127.0.0.1	C	setup:webserver	moritz	created	
-1301376243	127.0.0.1	E	verein:index	moritz	mission statement	
-1301376323	127.0.0.1	e	verein:index	moritz	changed headline	
-1301376356	127.0.0.1	e	verein:index	moritz	[Mission Statement] 	
-1301376846	127.0.0.1	C	setup:jabber	moritz	created	
-1301377255	127.0.0.1	e	setup:jabber	moritz		
-1301377375	127.0.0.1	C	setup:statusnet	moritz	created	
-1301377425	127.0.0.1	e	guides	moritz	jabber, statusnet	
 1301418269	127.0.0.1	e	setup:server	moritz	[TXQueueLen, MTU "Jumbo Frames"] 	
 1301480387	127.0.0.1	E	verein:protokolle:gruendungssitzung		[Gründungssitzung 26.03.2011 -> Wahl der Rechnungsprüfer] 	
 1301480560	127.0.0.1	E	conferences		[Konferenzen auf denen wir Talks/Workshops anpeilen könnten] 	
