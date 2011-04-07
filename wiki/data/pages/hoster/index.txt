@@ -10,7 +10,9 @@ Suggest hosters and I will contact them.
 
 
 ^ ISP ^ Location ^ custom whois ^ offer/orientation ^ comment ^
-| [[http://www.100tb.com/ |100tb.com]] | US/UK | US:Y;UK:? | $200: 100TB outbound, inbound free, 20ct/GB extra, Quad Xeon 3220, 8GB RAM, 2x500GB |  |
+| [[https://www.nforce.com/|nforce.com]] | NL | Y | 565,25 Euro: 100 TB outbound, inbound free | Processor(s) Intel 4-core 2.4 GHz (X3430), 8GB RAM |
+| [[http://www.axigy.com/|axigy.com]] | US | ? | 199$ Intel Xeon X3470 - 4x 2.93 GHz, 8GB RAM | 
+| [[http://www.100tb.com/ |100tb.com]] | US/UK | US:Y;UK:? | UK:$270: 100TB outbound, inbound free, 20ct/GB extra, Quad Xeon 3220, 8GB RAM, 2x500GB |  |
 | [[http://www.100tb.eu/|100tb.eu]] | NL | Y | 169€: 50TB in + 50TB out, Dual E2160, 4GB RAM; maybe we need the maxi duo HW for 200Euro | "As long as abuse complaints are solved swiftly this is not an issue. Yes we can swip a range of IPs to you." (([[http://www.freelists.org/post/torservers/100tbeu-was-Re-Re-FDCServers-Fwd-Re-1Gbit-Hosting-in-EU|100tb.eu reference]])) |
 | [[http://2host.com/|2Host]] | US | Y | $150: 100TB out, 100TB in, Quad Q9550, 4GB RAM, 2x500GB | custom whois no problem, abuse should be okay; cheap offers at [[http://www.webhostingtalk.com/showthread.php?t=971493|webhostingtalk]] |
 

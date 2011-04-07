@@ -42,6 +42,7 @@ Intel(R) Pentium(R) Dual  CPU  E2180  @ 2.00GHz
   * 04.04.2011: Old server signed over to us by another Tor community member. Thanks!
 
 ====== NForce (NL) ======
+https://www.nforce.com/
 
 <file>
 > I can do the following:
@@ -73,7 +74,7 @@ telling them for each and every single complaint that SWIP would help,
 we got them to do it. They refused to add our abuse contact handle, so
 it didn't help much, but still.
 
-100tb.com did understand what service we provide (Tor exit node) and offered to provide a new server in their UK datacenter, but we didn't hear from them since dd/mm/yyyy. (Their UK datacenter is sold out.)
+100tb.com did understand what service we provide (Tor exit node) and offered to provide a new server in their UK datacenter.
 ===== EvoBoxes.net (NL) =====
 http://www.evoboxes.net/
 
