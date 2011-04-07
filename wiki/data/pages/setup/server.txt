@@ -156,6 +156,7 @@ lighttpd-enable-mod proxy
 cd /etc/lighttpd/conf-enabled
 mv 10-proxy.conf 10-proxy.conf.dist
 wget http://www.torservers.net/misc/config/10-proxy.conf
+/etc/init.d/lighttpd reload
 </code>
 
 By default this will redirect requests for /tor/ to 127.0.0.1 port 9030; edit torrc and set DirPort to 80 and DirListenAddress to 127.0.0.1:9030.
