@@ -12,8 +12,11 @@ http://www.t-n-media.de/
 </code>
 
   * 07/03/2011 ordered 
-  * slow - bad peering?
+  * slow - bad peering? 3 Peerings: http://www.fixedorbit.com/AS/39/AS39743.htm http://www.fixedorbit.com/cgi-bin/cgirange.exe?ASN=39743
+  * http://maumau.torservers.net/vnstat_d.png
 
+
+  * http://www.freelists.org/post/torservers/maumau-low-throughput,4 (and following)
 ====== Axigy (US) ======
 http://www.axigy.com/
 
