@@ -21,7 +21,25 @@
   </p></td>
  </tr>
  <tr> 
-  <td class="nl" title="Netherlands"><a href="https://www.torservers.net/wiki/hoster/experience#axigy_us">manning</a></td><td>313 mbit/s</td><td>&nbsp;</td><td>many</td>
+  <td class="nl" title="Netherlands"><a href="https://www.torservers.net/wiki/hoster/experience#nforce_nl">nforce1</a></td><td>313 mbit/s</td><td>&nbsp;</td><td>all</td>
+ </tr>
+ <tr>
+  <td colspan="4"><font color="green"><b>Courtesy of <a href="http://www.nforce.com/" rel="external">NForce Entertainment</a></b></font> in the Netherlands.
+  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=253DFF1838A2B7782BE7735F74E50090D46CA1BC">chomsky</a>: dedicated to <a href="http://en.wikipedia.org/wiki/Noam_Chomsky">Noam Chomsky</a>.
+  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=DB8C6D8E0D51A42BDDA81A9B8A735B41B2CF95D1">rainbowwarrior</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Sinking_of_the_Rainbow_Warrior">the ship</a> and to honor <a href="http://en.wikipedia.org/wiki/Legend_of_Rainbow_Warriors">the legend</a>.
+  </p></td>
+ </tr>
+ <tr> 
+  <td class="nl" title="Netherlands"><a href="https://www.torservers.net/wiki/hoster/experience#nforce_nl">nforce2</a></td><td>313 mbit/s</td><td>&nbsp;</td><td>all</td>
+ </tr>
+ <tr>
+  <td colspan="4"><font color="green"><b>Partly funded for 6 months thanks to <a href="http://www.accessnow.org/" rel="external">Access Now</a></b></font> with NForce Entertainment in the Netherlands.
+  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=24B1F63F7DF9F85D711864811CC401BE5EB5FB9A">rockhall</a>: sponsored by <a href="http://rockhall.co.uk/">Rockhall Ltd</a>.
+  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=7DCB5313B9541DD29C94BFDE0ADF91DC91D2CFE9">politkovskaja</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Anna_Politkovskaja">Anna Politkovskaja</a>.
+  </p></td>
+ </tr>
+ <tr> 
+  <td class="us" title="USA"><a href="https://www.torservers.net/wiki/hoster/experience#axigy_us">manning</a></td><td>313 mbit/s</td><td>&nbsp;</td><td>many</td>
  </tr>
  <tr>
   <td colspan="4">

@@ -41,6 +41,28 @@ Intel(R) Pentium(R) Dual  CPU  E2180  @ 2.00GHz
 
   * 04.04.2011: Old server signed over to us by another Tor community member. Thanks!
 
+====== NForce (NL) ======
+
+<file>
+> I can do the following:
+> HP DL120 G6
+> Processor(s) Intel 4-core 2.4 GHz (X3430)
+> Memory 8 GB
+> Harddisk(s) 2x 250 GB
+> Uplink port 1 GBIT
+> Incoming bandwidth Unmetered
+> Outgoing bandwidth 100 TB
+> APC control Yes
+> KVM over IP Yes
+> Quarterly: 1425 euro excl 19% VAT --> 1695,75 euro incl 19% VAT
+> I will copy the same config for free for you as sponsership.
+</file>
+
+  * 02.04.2011: asked about Tor hosting and possible sponsorship
+  * 02.04.2011: ISP asked for details about abuse etc
+  * 04.04.2011: ISP confirmed possible sponsorship, donates a second box
+  * 07.04.2011: RIPE WHOIS reassigned, online!
+
 ====== FAIL ======
 =====100tb.com (US) =====
 
