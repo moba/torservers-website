@@ -71,7 +71,7 @@
   <td class="de" title="Germany"><a href="https://www.torservers.net/wiki/hoster/experience#euserv_de">ronin</a></td><td>100 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=2C7020E553214B4E1C9B02C176126EEE61CA19A2" rel="external">2C70 20E5 5321 4B4E 1C9B 02C1 7612 6EEE 61CA 19A2</a></td><td>many</td>
  </tr>
  <tr>
-  <td colspan="4">A relay in Germany. Named to honor <a href="http://en.wikipedia.org/wiki/R%C5%8Dnin">all Rōnins out there</a>.</td>
+  <td colspan="4">A relay in Germany. Named to honor <a href="http://en.wikipedia.org/wiki/R%C5%8Dnin">all Rōnins out there</a>. Also hosts <a href="https://torstatus.blutmagie.de/router_detail.php?FP=E822015771F09F44BFE8D28EF91A13BEEE8C9ADD">V</a>, thanks to the monthly contributions by "V".</td>
  </tr>
  <tr> 
   <td class="ch" title="Switzerland"><a href="http://raidz.torservers.net/">raidz</a></td><td>31 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=A925A0355A4776D5404FF862961BE4F9E4DA70F1" rel="external">A925 A035 5A47 76D5 404F F862 961B E4F9 E4DA 70F1</a></td><td>many</td>

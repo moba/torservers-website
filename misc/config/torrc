@@ -12,7 +12,7 @@ Log notice file /var/log/tor/notices.log
 RelayBandwidthRate 15 MBytes 
 RelayBandwidthBurst 16 MBytes
 
-MyFamily $17AA942E9EB1C631450C1BEF77C158168054881E,$C67622A01D8D3B742A14506CD446342993C20FE3,$9B41B9B3D4661566C660096B715BC647FBD72A72,$FEE83A80C09A710C5415F28A9658D5D459D8B45D,$4186509C707E96B77B51A76F8294D7E22FF52C61,$7326BE7D3262F2FE813BC8E38613C80D0132D81D,$C5EA3B664AF656E5794ECEE4935C3E84DA86D661,$0E651CACD51BC95300B41F47C82BA0F07686B450,$94B4E563FC3D756CAE9D28316751449653C48E05,$AB9710104A6D0D7457079CA8CA5D494AF6332E92,$308A86D470C851C4944F455F8F2B11A4275BCE6B,$CCBD25B1E52C6F2745083F0D5EA10F710FB793F8,$29A2201B19ADAEB10BA3F2CA074107816F747D34,$D2601A8D161302CB7DE3A0814FA2214E00797322,$D35989E89C452265FF0FC3D15F6F82DF7AC26F47,$91D5E1B074C83CCB6DF2428E1C164377787C09A0,$8F24D07907A94E1E255A7AF3D89C193CDA610414
+MyFamily $17AA942E9EB1C631450C1BEF77C158168054881E,$C67622A01D8D3B742A14506CD446342993C20FE3,$9B41B9B3D4661566C660096B715BC647FBD72A72,$FEE83A80C09A710C5415F28A9658D5D459D8B45D,$4186509C707E96B77B51A76F8294D7E22FF52C61,$CCBD25B1E52C6F2745083F0D5EA10F710FB793F8,$ED0CE506E6D487738E257E1ADCB8B92FF530DAFB,$253DFF1838A2B7782BE7735F74E50090D46CA1BC,$24B1F63F7DF9F85D711864811CC401BE5EB5FB9A,$DB8C6D8E0D51A42BDDA81A9B8A735B41B2CF95D1,$7DCB5313B9541DD29C94BFDE0ADF91DC91D2CFE9,$2C7020E553214B4E1C9B02C176126EEE61CA19A2,$E822015771F09F44BFE8D28EF91A13BEEE8C9ADD
 
 NumCPUs 2 
 ContactInfo Torservers.net <support .AT. torservers .DOT. net>
@@ -32,7 +32,7 @@ RefuseUnknownExits 1
 
 ExitPolicy accept *:8333    # Bitcoin
 # https://trac.torproject.org/projects/tor/wiki/TheOnionRouter/ReducedExitPolicy
-# last update 03.02.2011
+# 03.02.2011
 ExitPolicy accept *:20-23    # FTP, SSH, telnet
 ExitPolicy accept *:43       # WHOIS
 ExitPolicy accept *:53       # DNS
@@ -44,11 +44,11 @@ ExitPolicy accept *:194      # IRC
 ExitPolicy accept *:220      # IMAP3
 ExitPolicy accept *:443      # HTTPS
 ExitPolicy accept *:464-465  # kpasswd, SMTP over SSL
-ExitPolicy accept *:543-544
+ExitPolicy accept *:543-544   
 ExitPolicy accept *:563      # NNTP over SSL
 ExitPolicy accept *:587      # SMTP
-ExitPolicy accept *:706
-ExitPolicy accept *:749      # kerberos
+ExitPolicy accept *:706      
+ExitPolicy accept *:749      # kerberos 
 ExitPolicy accept *:873      # rsync
 ExitPolicy accept *:902-904
 ExitPolicy accept *:981
@@ -66,16 +66,16 @@ ExitPolicy accept *:3128     # SQUID
 ExitPolicy accept *:3389     # MS WBT
 ExitPolicy accept *:3690     # SVN
 ExitPolicy accept *:4321     # RWHOIS
-ExitPolicy accept *:4643
+ExitPolicy accept *:4643      
 ExitPolicy accept *:5050     # MMCC
 ExitPolicy accept *:5190     # ICQ
 ExitPolicy accept *:5222-5223 # XMPP, XMPP over SSL
 ExitPolicy accept *:5900     # VNC
 ExitPolicy accept *:6666-6667 # IRC
-ExitPolicy accept *:6679
-ExitPolicy accept *:6697
+ExitPolicy accept *:6679      
+ExitPolicy accept *:6697      
 ExitPolicy accept *:8000    # iRDMI
-ExitPolicy accept *:8008
+ExitPolicy accept *:8008    
 ExitPolicy accept *:8080    # HTTP Proxies
 ExitPolicy accept *:8087-8088 # Simplify Media SPP Protocol, Radan HTTP
 ExitPolicy accept *:8443    # PCsync HTTPS
@@ -83,5 +83,5 @@ ExitPolicy accept *:8888    # HTTP Proxies, NewsEDGE
 ExitPolicy accept *:9418    # git
 ExitPolicy accept *:9999    # distinct
 ExitPolicy accept *:10000   # Network Data Management Protocol
-ExitPolicy accept *:19638
+ExitPolicy accept *:19638   
 ExitPolicy reject *:*
