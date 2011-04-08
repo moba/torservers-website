@@ -20,5 +20,9 @@ Exit names will show up in [[https://torstatus.blutmagie.de|Torstatus]], the Vid
   * rōnin -> http://en.wikipedia.org/wiki/Ronin
   * Stéphane Hessel -> https://secure.wikimedia.org/wikipedia/en/wiki/St%C3%A9phane_Hessel Hessel was involved in drafting the Universal Declaration of Human Rights in 1948.
   * Stephen Biko  http://en.wikipedia.org/wiki/Steve_Biko
+  * Gene Sharp http://en.wikipedia.org/wiki/Gene_Sharp
+  * Aung San Suu Kyi http://en.wikipedia.org/wiki/Aung_San_Suu_Kyi
+  * César Chávez http://en.wikipedia.org/wiki/C%C3%A9sar_Ch%C3%A1vez
+  * Rosa Parks http://en.wikipedia.org/wiki/Rosa_Parks
 
 To understand where we are heading, see our current names -> [[https://www.torservers.net/services.html#servers]]. We prefer unknown and non-violent activists/events.
