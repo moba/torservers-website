@@ -19,5 +19,6 @@ Exit names will show up in [[https://torstatus.blutmagie.de|Torstatus]], the Vid
   * John Locke
   * rōnin -> http://en.wikipedia.org/wiki/Ronin
   * Stéphane Hessel -> https://secure.wikimedia.org/wikipedia/en/wiki/St%C3%A9phane_Hessel Hessel was involved in drafting the Universal Declaration of Human Rights in 1948.
+  * Stephen Biko  http://en.wikipedia.org/wiki/Steve_Biko
 
 To understand where we are heading, see our current names -> [[https://www.torservers.net/services.html#servers]]. We prefer unknown and non-violent activists/events.
