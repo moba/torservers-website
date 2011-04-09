@@ -227,12 +227,11 @@ vi /etc/resolv.conf # insert top: nameserver 127.0.0.1
   owner /var/lib/tor*/cached-status/* rw,
   owner /var/lib/tor*/fingerprint r,
   owner /var/lib/tor*/keys/secret_id_key r,
-  owner /var/lib/tor*/keys/secret_onion_key r,
+  owner /var/lib/tor*/keys/secret_onion_key* rw,
   owner /var/lib/tor*/lock rwk,
   owner /var/lib/tor*/state* rw,
   owner /var/log/tor*/* rw,
   /var/run/tor*/tor*.pid rw,
-
 }
 </code>
 ======  High Bandwidth Tweaks (>100 mbps?)  ======
