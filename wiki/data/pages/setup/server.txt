@@ -184,26 +184,21 @@ If you still run Debian Lenny, vnstati is not in the default repository. You can
 
 =====  Local DNS server  =====
 
-  * usually it is not recommended to directly poll the root DNS servers; you should set up Bind as a Caching DNS and use various upstream DNS servers
-  * OpenDNS filters DNS requests; do not use them
+  * we use unbound, a local caching DNS server
+  * for optimizations, see [[http://www.unbound.net/documentation/howto_optimise.html]]; we don't use any of them at the moment, it just works fine out of the box
 
 This sets up a DNS that uses root servers only (not recommended; please improve):
 
 <code>
-apt-get install bind9 dnsutils
-dig @e.root-servers.net . ns > /etc/bind/db.root
-cd /etc/bind/
-  -  change config: bind to localhost only, disable logging
-mv named.conf.options named.conf.options.dist
-wget http://www.torservers.net/misc/config/named.conf.options
-/etc/init.d/bind9 restart
+apt-get install unbound
 vi /etc/resolv.conf # insert top: nameserver 127.0.0.1
 </code>
 
-===== Apparmor profile =====
+===== Apparmor profile (unconfirmed!) =====
 
   * This profile has been tested to work with multiple Tor processes as described here: http://archives.seul.org/or/relays/Sep-2010/msg00004.html
   * The profile should be disabled while Tor is installed for the first time, since different permissions are required for setup and normal operation.
+  * We are not using this for Torservers.net. This does not work on our Debian.
 
 <code># Last Modified: Sat Mar 19 00:38:15 2011
 # Apparmor profile for Tor with multiple processes on:

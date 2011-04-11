@@ -24,3 +24,6 @@
 1301921834	127.0.0.1	e	setup:server	moritz	[Tor -> What Ports Should I Use?] 	
 1302175485	127.0.0.1	e	setup:server	moritz	[Webserver] 	
 1302306069	127.0.0.1	E	setup:server		[Apparmor profile] 	
+1302534577	127.0.0.1	e	setup:server	moritz	[Apparmor profile] 	
+1302534887	127.0.0.1	E	setup:server	moritz	unbound instead of bind	
+1302535062	127.0.0.1	e	setup:server	moritz	[Local DNS server] 	
