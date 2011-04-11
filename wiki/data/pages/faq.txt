@@ -35,3 +35,11 @@ A virtual machine with 256MB RAM might be enough, but we experienced some out of
 ?????? What are the minimal requirements for a high bandwidth relay? ??????
 
 Tor currently does not scale on multicores. You can however run multiple Tor processes. We have good experience with running one process per CPU core. One core should be good enough for 100 Mbps. See our setup guide for details.
+
+?????? [warn] Your computer is too slow to handle this many circuit creation requests! ??????
+
+Try setting NumCPU to the actual number of CPUs you have.
+
+?????? [warn] Failing because we have 15967 connections already. Please raise your ulimit -n. ??????
+
+Edit /etc/init.d/tor and raise ulimit. Run ulimit -n 65535.
