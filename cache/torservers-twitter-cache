@@ -1,4 +1,4 @@
-s:7935:"<?xml version="1.0" encoding="UTF-8"?>
+s:7701:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
@@ -6,10 +6,8 @@ s:7935:"<?xml version="1.0" encoding="UTF-8"?>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=57956160103387136" rel="refresh"/>
-  <twitter:warning>since_id removed for pagination.</twitter:warning>
   <updated>2011-04-11T23:52:42Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=57956160103387136&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
   <entry>
     <id>tag:search.twitter.com,2005:57591938949455872</id>
     <published>2011-04-11T23:52:42Z</published>
