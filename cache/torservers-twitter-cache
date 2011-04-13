@@ -1,13 +1,55 @@
-s:7701:"<?xml version="1.0" encoding="UTF-8"?>
+s:7645:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=58092055565574144" rel="refresh"/>
-  <updated>2011-04-11T23:52:42Z</updated>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=58125564560670720" rel="refresh"/>
+  <twitter:warning>since_id removed for pagination.</twitter:warning>
+  <updated>2011-04-13T11:13:09Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=58125564560670720&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:58125564560670720</id>
+    <published>2011-04-13T11:13:09Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/58125564560670720" rel="alternate"/>
+    <title>RT @torproject: Roger Dingledine will talk about Tor and the censorship arms race: http://www.ischool.berkeley.edu/newsandevents/events/20110418dingledine</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/torproject&quot;&gt;@torproject&lt;/a&gt;: Roger Dingledine will talk about Tor and the censorship arms race: &lt;a href=&quot;http://www.ischool.berkeley.edu/newsandevents/events/20110418dingledine&quot;&gt;http://www.ischool.berkeley.edu/newsandevents/events/20110418dingledine&lt;/a&gt;</content>
+    <updated>2011-04-13T11:13:09Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://identi.ca&quot; rel=&quot;nofollow&quot;&gt;identica&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:58125509929869312</id>
+    <published>2011-04-13T11:12:56Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/58125509929869312" rel="alternate"/>
+    <title>RT @feamster: Rebel's hijack Gadhafi's cell network - http://on.wsj.com/eOAWRb</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/feamster&quot;&gt;@feamster&lt;/a&gt;: Rebel&amp;apos;s hijack Gadhafi&amp;apos;s cell network - &lt;a href=&quot;http://on.wsj.com/eOAWRb&quot;&gt;http://on.wsj.com/eOAWRb&lt;/a&gt;</content>
+    <updated>2011-04-13T11:12:56Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;https://chrome.google.com/extensions/detail/encaiiljifbdbjlphpgpiimidegddhic&quot; rel=&quot;nofollow&quot;&gt;Chromed Bird&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
   <entry>
     <id>tag:search.twitter.com,2005:57591938949455872</id>
     <published>2011-04-11T23:52:42Z</published>
@@ -63,46 +105,6 @@ s:7701:"<?xml version="1.0" encoding="UTF-8"?>
     </twitter:metadata>
     <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
     <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:57200858718412801</id>
-    <published>2011-04-10T21:58:42Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/57200858718412801" rel="alternate"/>
-    <title>Tahrir aims to be a distributed, decentralized, scalable, and anonymous &quot;workalike&quot; for Twitter https://github.com/sanity/tahrir/wiki</title>
-    <content type="html">Tahrir aims to be a distributed, decentralized, scalable, and anonymous &amp;quot;workalike&amp;quot; for Twitter &lt;a href=&quot;https://github.com/sanity/tahrir/wiki&quot;&gt;https://github.com/sanity/tahrir/wiki&lt;/a&gt;</content>
-    <updated>2011-04-10T21:58:42Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:57180492423888896</id>
-    <published>2011-04-10T20:37:46Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/57180492423888896" rel="alternate"/>
-    <title>Franchising Torservers.net - Wie betreibt man eigentlich am geschicktesten Tor Exits? http://bit.ly/h5xAUz 24.4. #eh11 #Hamburg</title>
-    <content type="html">Franchising Torservers.net - Wie betreibt man eigentlich am geschicktesten Tor Exits? &lt;a href=&quot;http://bit.ly/h5xAUz&quot;&gt;http://bit.ly/h5xAUz&lt;/a&gt; 24.4. &lt;a href=&quot;http://search.twitter.com/search?q=%23eh11&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#eh11');&quot;&gt;#eh11&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23Hamburg&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Hamburg');&quot;&gt;#Hamburg&lt;/a&gt;</content>
-    <updated>2011-04-10T20:37:46Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>de</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
       <uri>http://twitter.com/torservers</uri>
