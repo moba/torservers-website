@@ -1,0 +1,7 @@
+====== Ideas ======
+
+What could the non-profit Zwiebelfreunde (and its project Torservers.net) do? Add your ideas.
+
+  * give away Tor USB sticks and CDs
+    * TAILS?
+
