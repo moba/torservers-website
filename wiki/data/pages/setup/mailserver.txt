@@ -4,7 +4,7 @@
 
 ( http://moblog.wiredwings.com/archives/20100501/Remove-IPs-from-Outgoing-Mail-Postfix-SMTP.html )
 
-By default, every email includes your personal IP and hostname - many mailserver installations even pass on internal IPs. As there is no need for the outside world to know your IP (being able to track your location etc), a properly configured mailserver should remove IP headers from outgoing mail. 
+By default, every email includes your personal IP and hostname - many mailserver installations even pass on internal IPs. As there is no need for the outside world to know your IP (being able to track your location etc), a properly configured mailserver should remove IP headers from outgoing mail. Please make sure though, that you only remove the IP in the X-Originating field, as other IPs in there might actually be important. 
 
 This does not have to mean that IPs or authentication cannot be logged. Safely stored encrypted on the mailserver, regularly moved offsite.
 
@@ -97,4 +97,4 @@ Content-Disposition: inline; filename="msg.asc"
 
 ===== Encrypt user mailbox =====
 
-  * eCryptFS + PAM?
+  * eCryptFS + PAM? # This seems unpracticable because it would effectively prevent the Mailserver from relaying mail to your mailbox.

@@ -9,3 +9,6 @@
 1298349071	127.0.0.1	E	setup:mailserver	moritz	postfix howto remove IPs from emails	
 1298349112	127.0.0.1	e	setup:mailserver	moritz	moved sections	
 1298349286	127.0.0.1	e	setup:mailserver	moritz	small fix	
+1302742121	127.0.0.1	E	setup:mailserver		[Remove IP from Outgoing Mails in Postfix -> /etc/postfix/header_checks] 	
+1302742382	127.0.0.1	E	setup:mailserver		[Encrypt user mailbox] 	
+1302742441	127.0.0.1	E	setup:mailserver		[Encrypt user mailbox] 	

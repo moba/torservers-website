@@ -26,3 +26,6 @@
 1302692865	127.0.0.1	E	exitnames	moritz	anna hazare	
 1302692906	127.0.0.1	E	exitnames	moritz	especially those overlooked	
 1302696088	127.0.0.1	C	ideas	moritz	created	
+1302742121	127.0.0.1	E	setup:mailserver		[Remove IP from Outgoing Mails in Postfix -> /etc/postfix/header_checks] 	
+1302742382	127.0.0.1	E	setup:mailserver		[Encrypt user mailbox] 	
+1302742441	127.0.0.1	E	setup:mailserver		[Encrypt user mailbox] 	
