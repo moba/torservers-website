@@ -70,7 +70,7 @@ https://www.nforce.com/
 ====== FAIL ======
 =====100tb.com (US) =====
 
-We were running a high bandwidth exit node in their US Datacenter from June 2010 till January 2011 for 200$/month [[http://www.torservers.net/status/softlayer.png]] but after repeated DMCA complains they terminated our contract because of their network provider Softlayer.
+We were running a high bandwidth exit node in their US Datacenter from June 2010 till January 2011 for 200$/month [[http://www.torservers.net/status/softlayer.png]] but after repeated DMCA complaints they terminated our contract because of their network provider Softlayer.
 
 Over the first few months, they told us SWIP is not possible. After
 telling them for each and every single complaint that SWIP would help,
