@@ -1,5 +1,6 @@
 ====== Zabbix Walkthrough ======
 
+
 =====  Basic Setup  =====
 
   * Debian  Squeeze 64bit (so we don't have to go with backports)
@@ -85,7 +86,13 @@ In case you use iptables you need to open port 10050 on the client side and 1005
 ===== Advanced =====
 
 ==== stunnel ====
-
+UserParameter=hdd.sda.temperature,/etc/zabbix/scripts/get_smart_value.sh /dev/sda Temperature_Celsius
+UserParameter=hdd.sda.raw_read_error_rate,/etc/zabbix/scripts/get_smart_value.sh /dev/sda Raw_Read_Error_Rate
+UserParameter=hdd.sda.reallocated_sector_count,/etc/zabbix/scripts/get_smart_value.sh /dev/sda Reallocated_Sector_Ct
+ 
+UserParameter=hdd.sdb.temperature,/etc/zabbix/scripts/get_smart_value.sh /dev/sdb Temperature_Celsius
+UserParameter=hdd.sdb.raw_read_error_rate,/etc/zabbix/scripts/get_smart_value.sh /dev/sdb Raw_Read_Error_Rate
+UserParameter=hdd.sdb.reallocated_sector_count,/etc/zabbix/scripts/get_smart_value.sh /dev/sdb Reallocated_Sector_Ct
 ==== Custom Scripts ====
 
 === md ===
@@ -118,3 +125,39 @@ Put something like
 
 <code>UserParameter=raid.md0.status, /etc/zabbix/scripts/get_md_status.sh md0</code>
 in your zabbix_agentd.conf to use this and configure an Item for it on the Zabbix Server for the node you wish to use this for or in its underlying template.
+
+===Smart===
+
+<code>
+#!/bin/bash
+if [ $# -ne 2 ];
+then
+echo "Usage: $0 <device> <parameter>"
+exit
+fi
+ 
+sudo smartctl -A $1 | grep $2 | tr -s ' ' | sed "s/^[[:space:]]*\(.*\)[[:space:]]*$/\1/" | cut -d " " -f 10
+</code>
+
+Make sure smartmontools are installed and accessible for Zabbix.
+You might need something like 
+<code>
+%zabbix ALL= NOPASSWD: /usr/sbin/smartctl
+</code>
+in your sudoers file.
+
+Here are my UserParameters:
+<code>
+UserParameter=hdd.sda.temperature,/etc/zabbix/scripts/get_smart_value.sh /dev/sda Temperature_Celsius
+UserParameter=hdd.sda.raw_read_error_rate,/etc/zabbix/scripts/get_smart_value.sh /dev/sda Raw_Read_Error_Rate
+UserParameter=hdd.sda.reallocated_sector_count,/etc/zabbix/scripts/get_smart_value.sh /dev/sda Reallocated_Sector_Ct
+ 
+UserParameter=hdd.sdb.temperature,/etc/zabbix/scripts/get_smart_value.sh /dev/sdb Temperature_Celsius
+UserParameter=hdd.sdb.raw_read_error_rate,/etc/zabbix/scripts/get_smart_value.sh /dev/sdb Raw_Read_Error_Rate
+UserParameter=hdd.sdb.reallocated_sector_count,/etc/zabbix/scripts/get_smart_value.sh /dev/sdb Reallocated_Sector_Ct
+</code>
+
+====FPing====
+
+When using Active Checks you might still want to Monitor a hosts uptime. For this you need to install fping on the Server and do a chown root:zabbix on its binary for zabbix to be able to use it.
+
