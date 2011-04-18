@@ -34,4 +34,5 @@ Exit names will show up in [[https://torstatus.blutmagie.de|Torstatus]], the Vid
   * Socrates
   * Mohamed Bouazizi->http://en.wikipedia.org/wiki/2010%E2%80%932011_Tunisian_revolution
   * Zouhair Yahyaoui->http://en.wikipedia.org/wiki/Zouhair_Yahyaoui
+  * [[https://secure.wikimedia.org/wikipedia/en/wiki/Vittorio_Arrigoni|Vittorio Arrigoni]] (4 February 1975 – 15 April 2011) was an Italian reporter, writer and activist. He worked with the pro-Palestinian International Solidarity Movement (ISM) in the Gaza Strip from 2008 until his death.
 To understand where we are heading, see our current names -> [[https://www.torservers.net/services.html#servers]]. We prefer unknown and non-violent activists/events.
