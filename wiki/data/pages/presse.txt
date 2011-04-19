@@ -1,7 +1,8 @@
 ====== Mit Zwiebeln gegen Diktatoren ======
 
-  * Als PDF: https://www.torservers.net/presse/Mit-Zwiebeln-gegen-Diktatoren.pdf (3. März 2011)
-  * Interview mit Gründer von Torservers.net bei Carta: [[http://carta.info/37973/wie-umgeht-man-zensur-moritz-bartl-momentan-findet-ein-wettruesten-statt/|"Momentan findet ein Wettrüsten statt"]] (7. Februar 2011)
+  * 07.02.2011: Interview mit Gründer von Torservers.net bei Carta: [[http://carta.info/37973/wie-umgeht-man-zensur-moritz-bartl-momentan-findet-ein-wettruesten-statt/|"Momentan findet ein Wettrüsten statt"]]
+  * 03.03.2011: als PDF: https://www.torservers.net/presse/Mit-Zwiebeln-gegen-Diktatoren.pdf
+  * 18.04.2011: Podcast [[https://www.c3d2.de/news/pentacast-31-tor-torservers-zwiebelfreunde.html|Pentacast 31: Tor, Torservers.net, Zwiebelfreunde]]
 
 ==== Torservers.net unterstützt Demokratiebewegung in der arabischen Welt ====
 
@@ -24,8 +25,8 @@ Am 26. März 2011 wird Moritz Bartl den gemeinnützigen Verein Zwiebelfreunde e.
 
 Moritz Bartl\\
 
-Torservers.net\\
-DID Dresdner Institut für Datenschutz\\
+Zwiebelfreunde e.V.\\
+c/o DID Dresdner Institut für Datenschutz\\
 Königstrasse 9\\
 01097 Dresden\\
 
