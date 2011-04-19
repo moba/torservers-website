@@ -1,0 +1,231 @@
+====== DMCA Complaints ======
+
+Unfortunately, the Tor network is sometimes being abused for file sharing. This hurts the network, and [[https://blog.torproject.org/blog/bittorrent-over-tor-isnt-good-idea|Bittorrent over Tor isn't a good idea]] anyway.
+
+If you run a Tor relay that allows arbitrary ports to exit, you sadly cannot stop this from happening. Many ISPs and data centers are scared over receiving automated notices by Bittorrent scanners like those run by [[wp>MediaSentry]] (now Peer Media Technologies). Because anyone can file a DMCA complaint and send takedown notices, this leads to the absurd situation that you can force the takedown of most servers online, even outside US jurisdiction.
+
+So far, we were out of luck about contacting MediaSentry about their reports. We reply to every single one of them, and we tried to get in contact with them over basically any email address we could find. For some funny reason, Peer Media Technologies still uses the name "MediaSentry" and the MX mediasentry.com.
+
+====== You can help ======
+
+This is an excerpt of files that have lead to notices. Please help us identify the trackers so we can play around with blocking certain IPs. This knowledge is especially useful if you as an exit node operator want to avoid being kicked off by your ISP.
+
+<file>Infringing Work: Blue Bloods
+Torrent InfoHash: 53DFFBEDBAA277478C0783926C5AAA2EC620C6C7
+Containing file(s):
+Blue.Bloods.S01E19.HDTV.XviD-LOL.avi.torrent (366,297,088 bytes)
+</file>
+
+<file>Infringing Work: CSI: NY
+Protocol: BitTorrent
+Torrent InfoHash: 94C67BDE088D948A746434F70645AD4C67D680AF
+Containing file(s):
+CSI.New.York.S07E19.HDTV.XviD-LOL.avi.torrent (366,407,626 bytes)
+</file>
+
+<file>Infringing Work: True Grit
+Protocol: BitTorrent
+Torrent InfoHash: 37EC13B10A204AB02DD8C8CD0ECBA339880F8998
+Containing file(s):
+True Grit (2010) SCR XviD By MegaPlay.torrent (738,182,017 bytes)
+</file>
+
+<file>Infringing Work: Navy: NCIS
+Protocol: BitTorrent
+Torrent InfoHash: 65B44A99B94C40A0B105569C1AACF3C028A247A0
+Containing file(s):
+NCIS.S08E20.HDTV.XviD-LOL.[VTV].avi.torrent (366,514,176 bytes)
+</file>
+
+<file>Infringing Work: The Fighter
+Protocol: BitTorrent
+Torrent InfoHash: 6424AA7E47D588B7754B1C3C879738A679CF9BD2
+Containing file(s):
+The Fighter[2010]DvDrip[Eng]-FXG.torrent (734,062,632 bytes)
+</file>
+
+<file>Infringing Work: Harry Potter and the Philosopher's Stone (Document)
+Protocol: BitTorrent
+Torrent InfoHash: D102865AFB456C7333740E3345737913FD7161C5
+Containing file(s):
+Harry Potter Ebooks.torrent (17,432,912 bytes)
+
+Infringing Work: Harry Potter and the Prisoner of Azkaban (Document)
+Protocol: BitTorrent
+Torrent InfoHash: D102865AFB456C7333740E3345737913FD7161C5
+Containing file(s):
+Harry Potter Ebooks.torrent (17,432,912 bytes)
+
+Infringing Work: Harry Potter and the Goblet of Fire (Document)
+Protocol: BitTorrent
+Torrent InfoHash: F4CF84B31BB30726B7D637117E065BB38F089DBE
+Containing file(s):
+Harry Potter ebooks - AZW, ePUB, RTF.torrent (16,313,828 bytes)
+
+Infringing Work: Harry Potter and the Goblet of Fire (Document)
+Protocol: BitTorrent
+Torrent InfoHash: D102865AFB456C7333740E3345737913FD7161C5
+Containing file(s):
+Harry Potter Ebooks.torrent (17,432,912 bytes)
+
+Infringing Work: Harry Potter and the Order of the Phoenix (Document)
+Protocol: BitTorrent
+Torrent InfoHash: F4CF84B31BB30726B7D637117E065BB38F089DBE
+Containing file(s):
+Harry Potter ebooks - AZW, ePUB, RTF.torrent (16,313,828 bytes)
+
+Infringing Work: Harry Potter and the Order of the Phoenix (Document)
+Protocol: BitTorrent
+Torrent InfoHash: D102865AFB456C7333740E3345737913FD7161C5
+Containing file(s):
+Harry Potter Ebooks.torrent (17,432,912 bytes)
+
+Infringing Work: Harry Potter and the Half-Blood Prince (Document)
+Protocol: BitTorrent
+Torrent InfoHash: F4CF84B31BB30726B7D637117E065BB38F089DBE
+Containing file(s):
+Harry Potter ebooks - AZW, ePUB, RTF.torrent (16,313,828 bytes)
+
+Infringing Work: Harry Potter and the Half-Blood Prince (Document)
+Protocol: BitTorrent
+Torrent InfoHash: D102865AFB456C7333740E3345737913FD7161C5
+Containing file(s):
+Harry Potter Ebooks.torrent (17,432,912 bytes)
+</file>
+
+<file>Infringing Work: Harry Potter and the Half-Blood Prince (Audio)
+Protocol: BitTorrent
+Torrent InfoHash: F84817BDB9C09206191984332948E3A7D91A70D4
+Containing file(s):
+Bookpusher.torrent (1,033,001,738 bytes)
+</file>
+
+<file>Infringing Work: The Green Hornet
+Protocol: BitTorrent
+Torrent InfoHash: 40531CDA26716557B274ABECFF49785F2F68A00B
+Containing file(s):
+The.Green.Hornet.2011.720p.BRRip.XviD.AC3-ViSiON.torrent (3,276,785,483 bytes)
+</file>
+
+<file>Infringing Work: The Green Hornet
+Protocol: BitTorrent
+Torrent InfoHash: C89FEB022EB9065C1A33F1E83580DBA9C6AD0DDE
+Containing file(s):
+The.Green.Hornet.2011.BR2DVD.DD5.1.NLSubs-DMT.torrent (4,626,067,781 bytes)
+</file>
+
+====== Example Full Report ======
+
+<file>Return-Path: <CBSCopyright@mc.mediasentry.com>
+Received: from relay01.mediasentry.com (relay01.mediasentry.com [66.192.117.41])
+	by xxxxx (Postfix) with ESMTP id 1143813EC138
+	for <abuse@xxxxx>; Tue, 19 Apr 2011 04:11:41 +0200 (CEST)
+Received: from KET086 (CASEAGENT [74.203.235.115])
+	by relay01.mediasentry.com (Mailer) with ESMTP id 8BE5C3D1735
+	for <abuse@xxxxx>; Mon, 18 Apr 2011 22:11:38 -0400 (EDT)
+From: MediaSentry Copyright Infringement <CBSCopyright@mc.mediasentry.com>
+Subject: Case ID 13322xxxxx - Notice of Claimed Infringement
+MIME-Version: 1.0
+Content-Type: multipart/mixed; Boundary="--PTCP_0000528202563b07db"
+Message-ID: <0000528302563c07db@[74.203.235.115]>
+Date: Mon, 18 Apr 2011 22:04:41 -0400
+
+----PTCP_0000528202563b07db
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+﻿Monday, April 18, 2011
+
+
+
+
+RE:  Unauthorized Distribution of the Copyrighted Television Series Entitled
+       Navy: NCIS
+
+
+Dear xxxxxx:
+
+We are writing this letter on behalf of the relevant subsidiaries of CBS Corporation.
+
+We have received information that an individual has utilized the below-referenced IP address at the noted date and time to offer downloads of copyrighted television programs through a "peer-to-peer" service, including such title(s) as:
+
+	Navy: NCIS
+
+The distribution of unauthorized copies of copyrighted television programs constitutes copyright infringement under the Copyright Act, Title 17 United States Code Section 106(3). This conduct may also violate the laws of other countries, international law, and/or treaty obligations.
+
+Since you own this IP address (77.247.181.163), we request that you immediately do the following:
+
+1) Remove or disable access to the individual who has engaged in the conduct described above; and
+
+2) Take appropriate action against the account holder under your Abuse Policy/Terms of Service Agreement.
+
+We also would request that you inform the individual who engaged in this conduct that legitimate copies of CBS content are widely available for viewing online, for example on www.cbs.com and many other sites that participate in the CBS Audience Network. 
+
+On behalf of CBS, owner of the exclusive rights in the copyrighted material at issue in this notice, we hereby state that we have a good faith belief that use of the material in the manner complained of is not authorized by CBS, its respective agents, or the law.
+
+Also, we hereby state, under penalty of perjury, that the information in this notification is accurate and that we are authorized to act on behalf of the owner of the exclusive rights being infringed as set forth in this notification.
+
+Please direct any end user queries to the following: 
+
+CopyrightQs@mediasentry.com
+
+
+Please include the Case ID 13322xxxxx, also noted above, in the subject line of all future correspondence regarding this matter.
+
+
+We appreciate your assistance and thank you for your cooperation in this matter. Your prompt response is requested.
+
+
+Respectfully,
+
+D. Brewer
+Enforcement Coordinator
+Peer Media Technologies, Inc.
+copyrightqs@mediasentry.com
+
+
+
+------------------------------
+
+INFRINGEMENT DETAIL
+--------------------
+
+Infringing Work: Navy: NCIS
+First Found: 18 Apr 2011 20:26:43 EDT (GMT -0400)
+Last Found: 18 Apr 2011 20:26:43 EDT (GMT -0400)
+IP Address: 77.247.181.163
+IP Port: 6881
+Protocol: BitTorrent
+Torrent InfoHash: 62E893EBC75376FEA8C5B19141F7D90019CB5CA6
+Containing file(s):
+NCIS.S08E17.HDTV.XviD-LOL.[VTV].avi.torrent (366,360,300 bytes)
+
+
+
+----PTCP_0000528202563b07db
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="1332288144.xml"
+Content-Type: application/octet-stream; name="1332288144.xml"
+
+PD94bWwgdmVyc2lvbj0iMS4wIj8+DQo8SW5mcmluZ2VtZW50IHhzaTpzY2hlbWFMb2NhdGlvbj0i
+aHR0cDovL3d3dy5tb3ZpZWxhYnMuY29tL0FDTlMgaHR0cDovL3d3dy5tb3ZpZWxhYnMuY29tL0FD
+TlMvQUNOUzJ2MS54c2QiIHhtbG5zPSJodHRwOi8vd3d3Lm1vdmllbGFicy5jb20vQUNOUyIgeG1s
+bnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSI+PENhc2U+
+PElEPjEzMzIyODgxNDQ8L0lEPjxTdGF0dXM+T3BlbjwvU3RhdHVzPjxTZXZlcml0eT5Ob3JtYWw8
+L1NldmVyaXR5PjwvQ2FzZT48Q29tcGxhaW5hbnQ+PEVudGl0eT5DQlM8L0VudGl0eT48Q29udGFj
+dD5NZWRpYVNlbnRyeSBDb3B5cmlnaHQgSW5mcmluZ2VtZW50PC9Db250YWN0PjxBZGRyZXNzPjwv
+QWRkcmVzcz48UGhvbmU+PC9QaG9uZT48RW1haWw+Q0JTQ29weXJpZ2h0QG1jLm1lZGlhc2VudHJ5
+LmNvbTwvRW1haWw+PC9Db21wbGFpbmFudD48U2VydmljZV9Qcm92aWRlcj48RW50aXR5PkN1c3Rv
+bWVyIDY5MiAvIFp3aWViZWxmcmV1bmRlIGUuVi4gaS5Hci48L0VudGl0eT48Q29udGFjdD5Nb3Jp
+dHogQmFydGw8L0NvbnRhY3Q+PEFkZHJlc3M+WndpZWJlbGZyZXVuZGUgZS5WLiBpLkdyLiBESUQg
+RHJlc2RuZXIgSW5zdGl0dXQgZsO8ciBEYXRlbnNjaHV0eg0KS29lbmlnc3RyYXNzZSA5IDAxMDk3
+IERyZXNkZW4NCkRFPC9BZGRyZXNzPjxQaG9uZT4rNDktMTc2LTk2MzYzNDg0PC9QaG9uZT48RW1h
+aWw+PC9FbWFpbD48L1NlcnZpY2VfUHJvdmlkZXI+PFNvdXJjZT48VGltZVN0YW1wPjIwMTEtMDQt
+MTlUMDA6MjY6NDNaPC9UaW1lU3RhbXA+PElQX0FkZHJlc3M+NzcuMjQ3LjE4MS4xNjM8L0lQX0Fk
+ZHJlc3M+PFR5cGU+Qml0VG9ycmVudDwvVHlwZT48VXNlck5hbWU+PC9Vc2VyTmFtZT48TnVtYmVy
+X0ZpbGVzPjE8L051bWJlcl9GaWxlcz48L1NvdXJjZT48Q29udGVudD48SXRlbT48VGl0bGU+TmF2
+eTogTkNJUzwvVGl0bGU+PEluZm9IYXNoPjYyRTg5M0VCQzc1Mzc2RkVBOEM1QjE5MTQxRjdEOTAw
+MTlDQjVDQTY8L0luZm9IYXNoPjwvSXRlbT48L0NvbnRlbnQ+PEhpc3RvcnkvPjxOb3Rlcy8+PC9J
+bmZyaW5nZW1lbnQ+DQo=
+----PTCP_0000528202563b07db--
+</file>
