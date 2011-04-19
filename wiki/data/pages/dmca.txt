@@ -2,7 +2,7 @@
 
 Unfortunately, the Tor network is sometimes being abused for file sharing. This hurts the network, and [[https://blog.torproject.org/blog/bittorrent-over-tor-isnt-good-idea|Bittorrent over Tor isn't a good idea]] anyway.
 
-If you run a Tor relay that allows arbitrary ports to exit, you sadly cannot stop this from happening. Many ISPs and data centers are scared over receiving automated notices by Bittorrent scanners like those run by [[wp>MediaSentry]] (now Peer Media Technologies). Because anyone can file a DMCA complaint and send takedown notices, this leads to the absurd situation that you can force the takedown of most servers online, even outside US jurisdiction.
+If you run a Tor relay that allows arbitrary ports to exit, you sadly cannot stop this from happening. Many ISPs and data centers are scared over receiving automated notices by Bittorrent scanners like those run by [[wp>MediaSentry]] (now Peer Media Technologies). Because anyone can file a DMCA complaint and send such notices, this leads to the absurd situation that you can force the takedown of almost any server, even outside US jurisdiction - and even though a Tor operator is perfectly protected thanks to [[http://www.copyright.gov/title17/92chap5.html#512|DMCA §512(a)]] (and similar laws outside of the USA).
 
 So far, we were out of luck about contacting MediaSentry about their reports. We reply to every single one of them, and we tried to get in contact with them over basically any email address we could find. For some funny reason, Peer Media Technologies still uses the name "MediaSentry" and the MX mediasentry.com.
 
