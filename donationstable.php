@@ -37,6 +37,11 @@
   <tr>
     <td>€20</td>
 	<td>monthly</td>
+    <td>V</td>
+  </tr>  
+  <tr>
+    <td>€20</td>
+	<td>monthly</td>
     <td>Joseph Hall</td>
   </tr>  
   <tr>
