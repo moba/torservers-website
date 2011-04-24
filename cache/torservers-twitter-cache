@@ -1,11 +1,11 @@
-s:3824:"<?xml version="1.0" encoding="UTF-8"?>
+s:2488:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=62244416512987136" rel="refresh"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=62259516007383040" rel="refresh"/>
   <updated>2011-04-24T16:55:39Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
   <entry>
@@ -23,26 +23,6 @@ s:3824:"<?xml version="1.0" encoding="UTF-8"?>
     </twitter:metadata>
     <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
     <twitter:lang>de</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:60760466372308992</id>
-    <published>2011-04-20T17:43:18Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/60760466372308992" rel="alternate"/>
-    <title>RT @n8fr8: My tips on less risky @Dropbox config w/ @TorProject + TrueCrypt - http://bit.ly/erwCEk</title>
-    <content type="html">RT &lt;a href=&quot;http://twitter.com/n8fr8&quot;&gt;@n8fr8&lt;/a&gt;: My tips on less risky &lt;a href=&quot;http://twitter.com/Dropbox&quot;&gt;@Dropbox&lt;/a&gt; config w/ &lt;a href=&quot;http://twitter.com/TorProject&quot;&gt;@TorProject&lt;/a&gt; + TrueCrypt - &lt;a href=&quot;http://bit.ly/erwCEk&quot;&gt;http://bit.ly/erwCEk&lt;/a&gt;</content>
-    <updated>2011-04-20T17:43:18Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
       <uri>http://twitter.com/torservers</uri>
