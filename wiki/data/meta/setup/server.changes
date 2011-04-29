@@ -27,3 +27,4 @@
 1302534577	127.0.0.1	e	setup:server	moritz	[Apparmor profile] 	
 1302534887	127.0.0.1	E	setup:server	moritz	unbound instead of bind	
 1302535062	127.0.0.1	e	setup:server	moritz	[Local DNS server] 	
+1304050865	127.0.0.1	e	setup:server	moritz	no backup of default initscript	

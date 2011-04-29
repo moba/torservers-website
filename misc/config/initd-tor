@@ -81,7 +81,7 @@ case $command in
 
         echo -n "Starting $DESC:"
 
-        if ulimit -n 16000; then
+        if ulimit -n 65535; then
                 echo "."
         else
                 echo ": needed ulimit but FAILED."

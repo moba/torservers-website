@@ -243,7 +243,6 @@ In general, as with all optimizations: you should only apply those that are nece
 Currently, Tor does not scale on multicore CPUs. One Tor process is able to handle around 100mbps of throughput. If your line supports more, you will need to run multiple Tor processes. There is a modified initscript that makes it easy to manage multiple Tor configurations on one machine: (thanks Teun! source: http://archives.seul.org/or/relays/Sep-2010/msg00004.html)
 
 <code>cd /etc/init.d
-mv tor tor.dist
 wget -O tor https://www.torservers.net/misc/config/initd-tor
 chmod +x tor
 
