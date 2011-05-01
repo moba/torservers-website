@@ -1,4 +1,4 @@
-s:4944:"<?xml version="1.0" encoding="UTF-8"?>
+s:3820:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
@@ -35,26 +35,6 @@ s:4944:"<?xml version="1.0" encoding="UTF-8"?>
     <title>Don't forget to flattr if you want us to stay fastest exit https://flattr.com/thing/5649 thx! :) My promise that money is only used for BW.</title>
     <content type="html">Don&amp;apos;t forget to flattr if you want us to stay fastest exit &lt;a href=&quot;https://flattr.com/thing/5649&quot;&gt;https://flattr.com/thing/5649&lt;/a&gt; thx! :) My promise that money is only used for BW.</content>
     <updated>2011-04-27T10:13:05Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:63100953078927360</id>
-    <published>2011-04-27T04:43:34Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/63100953078927360" rel="alternate"/>
-    <title>MAT - Metadata Anonymisation Toolkit GSoC Project Blog http://mat-tor.blogspot.com/</title>
-    <content type="html">MAT - Metadata Anonymisation Toolkit GSoC Project Blog &lt;a href=&quot;http://mat-tor.blogspot.com/&quot;&gt;http://mat-tor.blogspot.com/&lt;/a&gt;</content>
-    <updated>2011-04-27T04:43:34Z</updated>
     <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
     <twitter:geo>
     </twitter:geo>
