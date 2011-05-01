@@ -33,7 +33,7 @@
   * [[verein:Satzung|Satzung Zwiebelfreunde]]
   * [[verein:Protokolle:Gruendungssitzung|Gründungssitzung]]
   * [[conferences|Konferenzen und Talks]]
-
+  * [[verein:Foerdermitglieder|Vorschlag Fördermitgleiderregelung]]
 ====== Wiki: Recent Changes ======
 
 Use "Edit summary" when editing.
