@@ -1,11 +1,11 @@
 Vollmitgliedschaft:
   * Das Vollmitglied erfüllt eine offizielle Aufgabe für den Verein nach Vorgabe des Vorstandes.
-  * Die Anwesenheit bei Mitgliederversammlungen ist für Vollmitglieder verpflichtend.
+  * <del>Die Anwesenheit bei Mitgliederversammlungen ist für Vollmitglieder verpflichtend.</del>
   * Vollmitglieder sind auf der Mitgliederversammlung stimmberechtigt.
 Fördermitgliedschaft:
   * Das Fördermitglied geht keiner offiziellen Aufgabe im Auftrag des Vereins nach.
-  * Das Fördermitglied ist nicht auf der Mitgliederversammlung stimmberechtigt
-  * Das Fördermitglied kann jedoch zu jeder Mitgliederversammlung Vorschläge zur Abstimmung einreichen
+  * Das Fördermitglied ist nicht auf der Mitgliederversammlung stimmberechtigt.
+  * Das Fördermitglied kann jedoch zu jeder Mitgliederversammlung Vorschläge zur Abstimmung einreichen und teilnehmen.
 Ehrenmitgliedschaft:
   * Das Ehrenmitglied muss keiner offiziellen Aufgbabe für den Verein nachkommen
   * Das Ehrenmitglied ist auf der Mitgliederversammlung stimmberechtigt.
