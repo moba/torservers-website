@@ -56,6 +56,11 @@ I played with [[setup:mailserver|GPG encryption for incoming messages using Post
 
 Other useful services might be Jabber, StatusNet, hidden services hosting etc.
 
+Use extra bandwidth not used by Tor for
+
+  * Freenet
+  * I2P
+  * a Tor2web proxy
 ===== Other =====
 
   * t-shirts
