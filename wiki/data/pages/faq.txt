@@ -16,9 +16,13 @@ We also provide and distribute private bridge IPs to Tor users when regular Tor 
 Main FAQ: https://www.torproject.org/faq.html.en
 Main Wiki: https://trac.torproject.org/projects/tor/wiki
 
-===== User =====
+===== Hidden Services =====
 
-==== Relay Operator ====
+?????? What happens if I use the same key on two or more servers? ??????
+
+You get a simple form of failover. See https://lists.torproject.org/pipermail/tor-relays/2011-April/000736.html
+
+===== Relays =====
 
 ?????? Which Ports Should I Use? ??????
 
