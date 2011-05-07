@@ -1,4 +1,4 @@
-s:5995:"<?xml version="1.0" encoding="UTF-8"?>
+s:4800:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
@@ -62,26 +62,6 @@ s:5995:"<?xml version="1.0" encoding="UTF-8"?>
       <twitter:result_type>recent</twitter:result_type>
     </twitter:metadata>
     <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:65467377231462401</id>
-    <published>2011-05-03T17:26:53Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/65467377231462401" rel="alternate"/>
-    <title>@__sporkbomb I've been hosting a small limited exit node there for some years now. I did not specifically ask though.</title>
-    <content type="html">&lt;a href=&quot;http://twitter.com/__sporkbomb&quot;&gt;@__sporkbomb&lt;/a&gt; I&amp;apos;ve been hosting a small limited exit node there for some years now. I did not specifically ask though.</content>
-    <updated>2011-05-03T17:26:53Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
     <twitter:lang>en</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
