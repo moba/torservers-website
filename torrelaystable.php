@@ -43,8 +43,8 @@
  </tr>
  <tr>
   <td colspan="4">
-  <a href="https://torstatus.blutmagie.de/router_detail.php?FP=413681532DCD4598E96E31ADDC9812EC08DA9990">manning</a>: in support of <a href="http://www.salon.com/news/opinion/glenn_greenwald/2010/12/14/manning/">Bradley Manning</a>.
-  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=ED0CE506E6D487738E257E1ADCB8B92FF530DAFB">saeed</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Death_of_Khaled_Mohamed_Saeed">Khaled Mohamed Saeed</a>.
+  <a href="https://torstatus.blutmagie.de/router_detail.php?FP=BDBE3F4FBB1847089039A7624B5F9ECB50CD1FE0">manning</a>: in support of <a href="http://www.salon.com/news/opinion/glenn_greenwald/2010/12/14/manning/">Bradley Manning</a>.
+  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=8C0C1DDB6AA57A9368E9A8D34C661A4ED012D404">saeed</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Death_of_Khaled_Mohamed_Saeed">Khaled Mohamed Saeed</a>.
   </td>
  </tr>
  <tr> 

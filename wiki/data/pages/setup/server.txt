@@ -73,6 +73,7 @@ sudoedit /etc/resolv.conf # remove search line
 cd /etc
 mv aliases aliases.dist
 wget http://www.torservers.net/misc/config/aliases
+vi aliases # edit last lime and change to your email address
 newaliases
 dpkg-reconfigure exim4-config
 # "internet site; mail is sent and received directly using SMTP"
