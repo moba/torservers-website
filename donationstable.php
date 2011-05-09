@@ -50,6 +50,11 @@
     <td>[not published]</td>
   </tr>  
   <tr>
+    <td>20€</td>
+	<td>monthly</td>
+    <td>Ali-Reza Anghaie</td>
+  </tr>  
+  <tr>
     <td>$20</td>
 	<td>monthly</td>
     <td><a href="http://fejk.se/" rel="external">fejk.se</a></td>
