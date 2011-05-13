@@ -1,11 +1,32 @@
-s:908:"<?xml version="1.0" encoding="UTF-8"?>
+s:2448:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=68933492532187137" rel="refresh"/>
-  <updated>2011-05-13T08:36:49+00:00</updated>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=68966816575258624" rel="refresh"/>
+  <updated>2011-05-13T09:12:25Z</updated>
+  <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+  <entry>
+    <id>tag:search.twitter.com,2005:68966816575258624</id>
+    <published>2011-05-13T09:12:25Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/68966816575258624" rel="alternate"/>
+    <title>Jillian C. York: Africa's cascade of Internet censorship - #Tor getting more and more important http://bit.ly/kxCNyA (via @rakkhis)</title>
+    <content type="html">Jillian C. York: Africa&amp;apos;s cascade of Internet censorship - &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt; getting more and more important &lt;a href=&quot;http://bit.ly/kxCNyA&quot;&gt;http://bit.ly/kxCNyA&lt;/a&gt; (via &lt;a href=&quot;http://twitter.com/rakkhis&quot;&gt;@rakkhis&lt;/a&gt;)</content>
+    <updated>2011-05-13T09:12:25Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
 </feed>
 ";
