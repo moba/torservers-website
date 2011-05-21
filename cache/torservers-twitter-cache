@@ -1,15 +1,55 @@
-s:7901:"<?xml version="1.0" encoding="UTF-8"?>
+s:7843:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=71953391420579840" rel="refresh"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=71974021423575043" rel="refresh"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
-  <updated>2011-05-21T14:54:47Z</updated>
+  <updated>2011-05-21T16:21:58Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=71953391420579840&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=71974021423575043&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:71974021423575043</id>
+    <published>2011-05-21T16:21:58Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/71974021423575043" rel="alternate"/>
+    <title>#Myanmar bans use of CDs, USB sticks, floppy drives at internet cafes http://bit.ly/lE7BUs</title>
+    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23Myanmar&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Myanmar');&quot;&gt;#Myanmar&lt;/a&gt; bans use of CDs, USB sticks, floppy drives at internet cafes &lt;a href=&quot;http://bit.ly/lE7BUs&quot;&gt;http://bit.ly/lE7BUs&lt;/a&gt;</content>
+    <updated>2011-05-21T16:21:58Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:71973194734645248</id>
+    <published>2011-05-21T16:18:41Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/71973194734645248" rel="alternate"/>
+    <title>RT @MacLemon: @torservers @torproject @ioerror Tor Website blocked /w OpenDNS @ AppleStore Dresden. DNS Override NOT working. Tor/Vidalia DOES work.</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/MacLemon&quot;&gt;@MacLemon&lt;/a&gt;: &lt;a href=&quot;http://twitter.com/torservers&quot;&gt;@torservers&lt;/a&gt; &lt;a href=&quot;http://twitter.com/torproject&quot;&gt;@torproject&lt;/a&gt; &lt;a href=&quot;http://twitter.com/ioerror&quot;&gt;@ioerror&lt;/a&gt; Tor Website blocked /w OpenDNS @ AppleStore Dresden. DNS Override NOT working. Tor/Vidalia DOES work.</content>
+    <updated>2011-05-21T16:18:41Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/#!/download/iphone&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPhone&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
   <entry>
     <id>tag:search.twitter.com,2005:71952080578936833</id>
     <published>2011-05-21T14:54:47Z</published>
@@ -65,46 +105,6 @@ s:7901:"<?xml version="1.0" encoding="UTF-8"?>
     </twitter:metadata>
     <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
     <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:70981613214892033</id>
-    <published>2011-05-18T22:38:30Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/70981613214892033" rel="alternate"/>
-    <title>RT @CopyrightLaw: Techdirt: &#8220;The PROTECT IP Act Is About The Old Media Industry Going To War With The Internet&#8221; http://bit.ly/jcSknI</title>
-    <content type="html">RT &lt;a href=&quot;http://twitter.com/CopyrightLaw&quot;&gt;@CopyrightLaw&lt;/a&gt;: Techdirt: &#8220;The PROTECT IP Act Is About The Old Media Industry Going To War With The Internet&#8221; &lt;a href=&quot;http://bit.ly/jcSknI&quot;&gt;http://bit.ly/jcSknI&lt;/a&gt;</content>
-    <updated>2011-05-18T22:38:30Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://splitweet.com&quot; rel=&quot;nofollow&quot;&gt;Splitweet&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:70922929730371584</id>
-    <published>2011-05-18T18:45:18Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/70922929730371584" rel="alternate"/>
-    <title>RT @cyfreak: Im Pentaradio Podcast @Zwiebelfreunde geh&#246;rt. Gleich mal meinen MacMini Server auf den aktuellen Stand gebracht. 5MBit mehr @torservers #tor</title>
-    <content type="html">RT &lt;a href=&quot;http://twitter.com/cyfreak&quot;&gt;@cyfreak&lt;/a&gt;: Im Pentaradio Podcast &lt;a href=&quot;http://twitter.com/Zwiebelfreunde&quot;&gt;@Zwiebelfreunde&lt;/a&gt; geh&#246;rt. Gleich mal meinen MacMini Server auf den aktuellen Stand gebracht. 5MBit mehr &lt;a href=&quot;http://twitter.com/torservers&quot;&gt;@torservers&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#tor');&quot;&gt;#tor&lt;/a&gt;</content>
-    <updated>2011-05-18T18:45:18Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
-    <twitter:lang>de</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
       <uri>http://twitter.com/torservers</uri>
