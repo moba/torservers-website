@@ -3,7 +3,8 @@
 =====  Basic Setup  =====
 
   * Debian 64bit
-  * VMs are not used because it turned out that it is not feasible (to high overhead)
+  * VMs are not used because it turned out that it is not feasible (to high overhead for high bandwidth nodes)
+      * ESX is reported to work; we tried KVM, OpenVZ and XEN
 
 ====  SSH key authentication only  ====
 
