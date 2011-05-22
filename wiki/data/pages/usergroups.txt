@@ -20,6 +20,7 @@ FIXME: Insert static image of world map with nice markers
 
 ===== Washington, DC =====
   * The Doctor: Presentations, training, tutorials, user groups, code hacking. PGP key id: 0x807B17C1, ([[https://privacybox.de/cgi-bin/tram_msg.pl?sus=drwho|privacybox.de]])
-
+  
+  * Punkbob: Running Tor instances, general Tor related stuff, dealing with abuse complaints. Andrew at PDQVPN dot COM 
 ===== Bay Area, CA =====
   * raidz: (training, meetings) Contact: andrew AT torservers.net
