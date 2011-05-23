@@ -13,6 +13,7 @@ http://www.t-n-media.de/
 
   * 07/03/2011 ordered 
   * slow - bad peering? 3 Peerings: http://www.fixedorbit.com/AS/39/AS39743.htm http://www.fixedorbit.com/cgi-bin/cgirange.exe?ASN=39743
+  * See: http://bgp.he.net/AS39743#_graph4 <-- Only one real peer. Tiny bit to HE.net
   * http://maumau.torservers.net/vnstat_d.png
 
 
@@ -82,9 +83,10 @@ it didn't help much, but still.
 ===== EvoBoxes.net (NL) =====
 http://www.evoboxes.net/
 
-After contacting them regarding a custom build offer for an exit node they provided us with an unmetered 10MBit/s VPS for free. After a week they upgraded the node to 160MBit/s unmetered! This node was donated to us on 11/02/2011 and is maintained and managed by us (torservers.net).
+After contacting them regarding a custom build offer for an exit node they provided us with an unmetered 100Mbit/s VPS for free. After a week they upgraded the node to 200Mbit/s unmetered! This node was donated to us on 11/02/2011 and is maintained and managed by us (torservers.net).
 
-  * 17/03/2011 - Evoboxes is a Rapidspeeds reseller. Rapidspeeds does not allow Tor exits, and they forced Evo to turn it off.
+  * 17/03/2011 - Evoboxes was asked to shut down the exit node after police contacted their host. (and they did)
+  * Recommended NForce.nl which worked out really well! 
 
 
 =====FDCservers (CZ)=====
