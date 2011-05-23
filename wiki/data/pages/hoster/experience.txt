@@ -1,23 +1,5 @@
 We are running and did run Tor exit nodes at different Providers and Datacenters. This page documents our experience with them.
 
-
-======T-N Media (RO)======
-http://www.t-n-media.de/
-
-<code>Intel Core i7 (3.06 GHz)
-6144 MB RAM
-2x 1500 GB (software RAID)
-
-199 Euro/mnth
-</code>
-
-  * 07/03/2011 ordered 
-  * slow - bad peering? 3 Peerings: http://www.fixedorbit.com/AS/39/AS39743.htm http://www.fixedorbit.com/cgi-bin/cgirange.exe?ASN=39743
-  * See: http://bgp.he.net/AS39743#_graph4 <-- Only one real peer. Tiny bit to HE.net
-  * http://maumau.torservers.net/vnstat_d.png
-
-
-  * http://www.freelists.org/post/torservers/maumau-low-throughput,4 (and following)
 ====== Axigy (US) ======
 http://www.axigy.com/
 
@@ -69,7 +51,25 @@ https://www.nforce.com/
   * 04.04.2011: ISP confirmed possible sponsorship, donates a second box
   * 07.04.2011: RIPE WHOIS reassigned, online!
 
-====== FAIL ======
+====== Offline ======
+
+======T-N Media (RO)======
+http://www.t-n-media.de/
+
+<code>Intel Core i7 (3.06 GHz)
+6144 MB RAM
+2x 1500 GB (software RAID)
+
+199 Euro/mnth
+</code>
+
+  * 07/03/2011 ordered 
+  * slow - bad peering? 3 Peerings: http://www.fixedorbit.com/AS/39/AS39743.htm http://www.fixedorbit.com/cgi-bin/cgirange.exe?ASN=39743
+  * See: http://bgp.he.net/AS39743#_graph4 <-- Only one real peer. Tiny bit to HE.net
+  * http://www.freelists.org/post/torservers/maumau-low-throughput,4 (and following)
+
+While bandwidth improved a bit over time, we decided to cancel the server nevertheless. T-N offered to register a subnet for us for 150 setup and 150 per year, and 15/mnth for routing, but at that time speeds weren't improving so much and the data center didn't seem to be too interested in hosting Tor exits. T-N might still be a good choice for someone else to run an exit, and they told us they were upgrading capacity soon, so it is worth another look.
+
 =====100tb.com (US) =====
 
 We were running a high bandwidth exit node in their US Datacenter from June 2010 till January 2011 for 200$/month [[http://www.torservers.net/status/softlayer.png]] but after repeated DMCA complaints they terminated our contract because of their network provider Softlayer.
