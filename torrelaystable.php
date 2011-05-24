@@ -11,16 +11,6 @@
  </thead>
 
  <tr> 
-  <td class="ro" title="Romania"><a href="http://maumau.torservers.net/">maumau</a></td><td>1000 mbit/s</td><td>&nbsp;</td><td>many</td>
- </tr>
- <tr>
-  <td colspan="4"><font color="green"><b>Funded for 6 months thanks to <a href="http://www.accessnow.org/" rel="external">Access Now</a></b></font> with T-N Media in Romania.
-  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=CCBD25B1E52C6F2745083F0D5EA10F710FB793F8">maumau</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=29A2201B19ADAEB10BA3F2CA074107816F747D34">maumau2</a>: in dedication to all victims of <a href="http://en.wikipedia.org/wiki/Mau_Mau_Uprising">Mau Mau</a>.
-  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=D2601A8D161302CB7DE3A0814FA2214E00797322">kato</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=D35989E89C452265FF0FC3D15F6F82DF7AC26F47">kato2</a>: in memoriam of <a href="http://www.huffingtonpost.com/2011/01/27/david-kato-uganda-gay-act_n_814775.html">David Kato</a>.
-  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=91D5E1B074C83CCB6DF2428E1C164377787C09A0">morales</a> <a href="https://torstatus.blutmagie.de/router_detail.php?FP=8F24D07907A94E1E255A7AF3D89C193CDA610414">morales2</a>: dedicated to the ongoing works of <a href="http://en.wikipedia.org/wiki/Evo_Morales">Evo Morales</a>, the "World Hero of Mother Earth".
-  </p></td>
- </tr>
- <tr> 
   <td class="nl" title="Netherlands"><a href="https://www.torservers.net/wiki/hoster/experience#nforce_nl">nforce1</a></td><td>313 mbit/s</td><td>&nbsp;</td><td>all</td>
  </tr>
  <tr>
@@ -33,8 +23,8 @@
   <td class="nl" title="Netherlands"><a href="https://www.torservers.net/wiki/hoster/experience#nforce_nl">nforce2</a></td><td>313 mbit/s</td><td>&nbsp;</td><td>all</td>
  </tr>
  <tr>
-  <td colspan="4"><font color="green"><b>Partly funded for 6 months thanks to <a href="http://www.accessnow.org/" rel="external">Access Now</a></b></font> with NForce Entertainment in the Netherlands.
-  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=24B1F63F7DF9F85D711864811CC401BE5EB5FB9A">rockhall</a>: sponsored by <a href="http://rockhall.co.uk/">Rockhall Ltd</a>.
+  <td colspan="4"><font color="green"><b>Funded for 6 months thanks to <a href="http://www.accessnow.org/" rel="external">Access Now</a></b></font> with NForce Entertainment in the Netherlands.
+  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=24B1F63F7DF9F85D711864811CC401BE5EB5FB9A">rockhall</a>: thanks to our sponsor <a href="http://rockhall.co.uk/">Rockhall Ltd</a>!
   <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=7DCB5313B9541DD29C94BFDE0ADF91DC91D2CFE9">politkovskaja</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Anna_Politkovskaja">Anna Politkovskaja</a>.
   </p></td>
  </tr>
@@ -42,9 +32,9 @@
   <td class="us" title="USA"><a href="https://www.torservers.net/wiki/hoster/experience#axigy_us">manning</a></td><td>313 mbit/s</td><td>&nbsp;</td><td>many</td>
  </tr>
  <tr>
-  <td colspan="4">
-  <a href="https://torstatus.blutmagie.de/router_detail.php?FP=BDBE3F4FBB1847089039A7624B5F9ECB50CD1FE0">manning</a>: in support of <a href="http://www.salon.com/news/opinion/glenn_greenwald/2010/12/14/manning/">Bradley Manning</a>.
-  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=8C0C1DDB6AA57A9368E9A8D34C661A4ED012D404">saeed</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Death_of_Khaled_Mohamed_Saeed">Khaled Mohamed Saeed</a>.
+  <td colspan="4"><font color="green"><b>Funded for 6 months thanks to <a href="http://www.accessnow.org/" rel="external">Access Now</a></b></font> with Axigy in the US.
+  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=413681532DCD4598E96E31ADDC9812EC08DA9990">manning</a>: in support of <a href="http://www.salon.com/news/opinion/glenn_greenwald/2010/12/14/manning/">Bradley Manning</a>.
+  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=ED0CE506E6D487738E257E1ADCB8B92FF530DAFB">saeed</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Death_of_Khaled_Mohamed_Saeed">Khaled Mohamed Saeed</a>.
   </td>
  </tr>
  <tr> 
@@ -104,6 +94,9 @@
    <th scope="col">Lifetime</th>  
   </tr>
  </thead>
+ <tr> 
+  <td class="ro" title="Romania"><a href="https://www.torservers.net/wiki/hoster/experience#t-n_media_ro">T-N media</a></td><td>1000 mbit/s<td>06.03. - 15.05.2011</td>
+ </tr>
  <tr> 
   <td class="cz" title="Czech Republic"><a href="https://www.torservers.net/wiki/hoster/experience#fdcservers_cz">fdc servers</a></td><td>1000 mbit/s<td>28.02. - 01.04.2011</td>
  </tr>
