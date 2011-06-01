@@ -20,7 +20,7 @@ https://ssl.euserv.de/produkte/specials/spring-server2008.php
 
 <file>
 Intel(R) Pentium(R) Dual  CPU  E2180  @ 2.00GHz
-4GB RAM
+12GB RAM
 2x500GB
 100 mbit/s
 540€ per year (45 per month)
