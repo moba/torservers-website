@@ -1,15 +1,95 @@
-s:7514:"<?xml version="1.0" encoding="UTF-8"?>
+s:7451:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=79186049238183936" rel="refresh"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=79215151592648704" rel="refresh"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
-  <updated>2011-06-09T09:48:22Z</updated>
+  <updated>2011-06-10T15:55:38Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=79186049238183936&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=79215151592648704&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:79215151592648704</id>
+    <published>2011-06-10T15:55:38Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/79215151592648704" rel="alternate"/>
+    <title>@__sporkbomb had it in my personal wiki for quite some time: http://www.headstrong.de/projects#promote_tor</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/__sporkbomb&quot;&gt;@__sporkbomb&lt;/a&gt; had it in my personal wiki for quite some time: &lt;a href=&quot;http://www.headstrong.de/projects#promote_tor&quot;&gt;http://www.headstrong.de/projects#promote_tor&lt;/a&gt;</content>
+    <updated>2011-06-10T15:55:38Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:79214909228990464</id>
+    <published>2011-06-10T15:54:40Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/79214909228990464" rel="alternate"/>
+    <title>@__sporkbomb I also like the idea of enforcing secure protocols  *and* Tor for certain services, but not necessarily hidden services.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/__sporkbomb&quot;&gt;@__sporkbomb&lt;/a&gt; I also like the idea of enforcing secure protocols  *and* Tor for certain services, but not necessarily hidden services.</content>
+    <updated>2011-06-10T15:54:40Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:79212041017106432</id>
+    <published>2011-06-10T15:43:16Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/79212041017106432" rel="alternate"/>
+    <title>@__sporkbomb Or websites where you can log in only over Tor.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/__sporkbomb&quot;&gt;@__sporkbomb&lt;/a&gt; Or websites where you can log in only over Tor.</content>
+    <updated>2011-06-10T15:43:16Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:79211910716850177</id>
+    <published>2011-06-10T15:42:45Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/79211910716850177" rel="alternate"/>
+    <title>RT @__sporkbomb: What about a mailbox that rejects connections if you DON'T come from Tor? How's that for enforced security? (already forcing STARTTLS/IMAPS)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/__sporkbomb&quot;&gt;@__sporkbomb&lt;/a&gt;: What about a mailbox that rejects connections if you DON&amp;apos;T come from Tor? How&amp;apos;s that for enforced security? (already forcing STARTTLS/IMAPS)</content>
+    <updated>2011-06-10T15:42:45Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twidroyd.com&quot; rel=&quot;nofollow&quot;&gt;twidroyd&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
   <entry>
     <id>tag:search.twitter.com,2005:78760337779867648</id>
     <published>2011-06-09T09:48:22Z</published>
@@ -24,86 +104,6 @@ s:7514:"<?xml version="1.0" encoding="UTF-8"?>
       <twitter:result_type>recent</twitter:result_type>
     </twitter:metadata>
     <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:78547296672956417</id>
-    <published>2011-06-08T19:41:49Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/78547296672956417" rel="alternate"/>
-    <title>Whoohoo, I'm invited to PETS in #Waterloo, CA! Can I crash some place? All I need is some space on a floor. Pls RT :-)</title>
-    <content type="html">Whoohoo, I&amp;apos;m invited to PETS in &lt;a href=&quot;http://search.twitter.com/search?q=%23Waterloo&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Waterloo');&quot;&gt;#Waterloo&lt;/a&gt;, CA! Can I crash some place? All I need is some space on a floor. Pls RT :-)</content>
-    <updated>2011-06-08T19:41:49Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:78544223086981120</id>
-    <published>2011-06-08T19:29:36Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/78544223086981120" rel="alternate"/>
-    <title>@MagisterNavis We're mostly German too, happy to chat about Tor in German.</title>
-    <content type="html">&lt;a href=&quot;http://twitter.com/MagisterNavis&quot;&gt;@MagisterNavis&lt;/a&gt; We&amp;apos;re mostly German too, happy to chat about Tor in German.</content>
-    <updated>2011-06-08T19:29:36Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:78544015863185408</id>
-    <published>2011-06-08T19:28:47Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/78544015863185408" rel="alternate"/>
-    <title>@MagisterNavis You should join the Tor IRC and ask your questions there. We from @torservers are also available any time.</title>
-    <content type="html">&lt;a href=&quot;http://twitter.com/MagisterNavis&quot;&gt;@MagisterNavis&lt;/a&gt; You should join the Tor IRC and ask your questions there. We from &lt;a href=&quot;http://twitter.com/torservers&quot;&gt;@torservers&lt;/a&gt; are also available any time.</content>
-    <updated>2011-06-08T19:28:47Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:78543504510435328</id>
-    <published>2011-06-08T19:26:45Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/78543504510435328" rel="alternate"/>
-    <title>@ejhilbert Tor can be installed and uninstalled w/o problems. You can also try the portable version!</title>
-    <content type="html">&lt;a href=&quot;http://twitter.com/ejhilbert&quot;&gt;@ejhilbert&lt;/a&gt; Tor can be installed and uninstalled w/o problems. You can also try the portable version!</content>
-    <updated>2011-06-08T19:26:45Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
     <twitter:lang>en</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
