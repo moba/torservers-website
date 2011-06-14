@@ -1,15 +1,75 @@
-s:7901:"<?xml version="1.0" encoding="UTF-8"?>
+s:7336:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=80736638271111168" rel="refresh"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=80745677960912896" rel="refresh"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
-  <updated>2011-06-14T20:41:29Z</updated>
+  <updated>2011-06-14T21:17:24Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=80736638271111168&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=80745677960912896&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:80745677960912896</id>
+    <published>2011-06-14T21:17:24Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/80745677960912896" rel="alternate"/>
+    <title>bit.ly apologized for warning, fixed now. &quot;got caught in one of our filters&quot;, not telling me the source despite I asked explicitly.</title>
+    <content type="html">bit.ly apologized for warning, fixed now. &amp;quot;got caught in one of our filters&amp;quot;, not telling me the source despite I asked explicitly.</content>
+    <updated>2011-06-14T21:17:24Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:80739299338878976</id>
+    <published>2011-06-14T20:52:03Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/80739299338878976" rel="alternate"/>
+    <title>@MacLemon I am contacting bit.ly staff about it right now.</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/MacLemon&quot;&gt;@MacLemon&lt;/a&gt; I am contacting bit.ly staff about it right now.</content>
+    <updated>2011-06-14T20:52:03Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:80738467478376449</id>
+    <published>2011-06-14T20:48:45Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/80738467478376449" rel="alternate"/>
+    <title>RT @MacLemon: @torservers @ioerror @torproject WTF is wrong with bit.ly prepending short URLs to torproject.org with this warning? http://j.mp/inKXMe</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/MacLemon&quot;&gt;@MacLemon&lt;/a&gt;: &lt;a href=&quot;http://twitter.com/torservers&quot;&gt;@torservers&lt;/a&gt; &lt;a href=&quot;http://twitter.com/ioerror&quot;&gt;@ioerror&lt;/a&gt; &lt;a href=&quot;http://twitter.com/torproject&quot;&gt;@torproject&lt;/a&gt; WTF is wrong with bit.ly prepending short URLs to torproject.org with this warning? &lt;a href=&quot;http://j.mp/inKXMe&quot;&gt;http://j.mp/inKXMe&lt;/a&gt;</content>
+    <updated>2011-06-14T20:48:45Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.nambu.com/&quot; rel=&quot;nofollow&quot;&gt;Nambu&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
   <entry>
     <id>tag:search.twitter.com,2005:80736638271111168</id>
     <published>2011-06-14T20:41:29Z</published>
@@ -37,66 +97,6 @@ s:7901:"<?xml version="1.0" encoding="UTF-8"?>
     <title>Torproject looking for GFX designer to &quot;convert&quot; logo(s) to SVG. Join IRC if you're ready for the job!</title>
     <content type="html">Torproject looking for GFX designer to &amp;quot;convert&amp;quot; logo(s) to SVG. Join IRC if you&amp;apos;re ready for the job!</content>
     <updated>2011-06-14T20:31:07Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:80269895257960448</id>
-    <published>2011-06-13T13:46:49Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/80269895257960448" rel="alternate"/>
-    <title>@ferrouswheel @runasand We support Bitcoin, Flattr and other privacy-friendly donation options https://www.torservers.net/donate.html</title>
-    <content type="html">&lt;a href=&quot;http://twitter.com/ferrouswheel&quot;&gt;@ferrouswheel&lt;/a&gt; &lt;a href=&quot;http://twitter.com/runasand&quot;&gt;@runasand&lt;/a&gt; We support Bitcoin, Flattr and other privacy-friendly donation options &lt;a href=&quot;https://www.torservers.net/donate.html&quot;&gt;https://www.torservers.net/donate.html&lt;/a&gt;</content>
-    <updated>2011-06-13T13:46:49Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:80202479089881088</id>
-    <published>2011-06-13T09:18:55Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/80202479089881088" rel="alternate"/>
-    <title>RT @gurifunu: I wonder if individuals and groups like @EFF and @TorProject will ever get full credit in the media for fighting censorship and repression.</title>
-    <content type="html">RT &lt;a href=&quot;http://twitter.com/gurifunu&quot;&gt;@gurifunu&lt;/a&gt;: I wonder if individuals and groups like &lt;a href=&quot;http://twitter.com/EFF&quot;&gt;@EFF&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/TorProject&quot;&gt;@TorProject&lt;/a&gt; will ever get full credit in the media for fighting censorship and repression.</content>
-    <updated>2011-06-13T09:18:55Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:79972787489472512</id>
-    <published>2011-06-12T18:06:13Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/79972787489472512" rel="alternate"/>
-    <title>RT @5hreyans: set up a @torproject relay for free on AWS: http://t.co/tYEzDY1 and get involved: http://t.co/8WxvkM3 #letsmove</title>
-    <content type="html">RT &lt;a href=&quot;http://twitter.com/5hreyans&quot;&gt;@5hreyans&lt;/a&gt;: set up a &lt;a href=&quot;http://twitter.com/torproject&quot;&gt;@torproject&lt;/a&gt; relay for free on AWS: &lt;a href=&quot;http://t.co/tYEzDY1&quot;&gt;http://t.co/tYEzDY1&lt;/a&gt; and get involved: &lt;a href=&quot;http://t.co/8WxvkM3&quot;&gt;http://t.co/8WxvkM3&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23letsmove&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#letsmove');&quot;&gt;#letsmove&lt;/a&gt;</content>
-    <updated>2011-06-12T18:06:13Z</updated>
     <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
     <twitter:geo>
     </twitter:geo>
