@@ -33,8 +33,9 @@
  </tr>
  <tr>
   <td colspan="4"><font color="green"><b>Funded for 6 months thanks to <a href="http://www.accessnow.org/" rel="external">Access Now</a></b></font> with Axigy in the US.
-  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=413681532DCD4598E96E31ADDC9812EC08DA9990">manning</a>: in support of <a href="http://www.salon.com/news/opinion/glenn_greenwald/2010/12/14/manning/">Bradley Manning</a>.
-  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=ED0CE506E6D487738E257E1ADCB8B92FF530DAFB">saeed</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Death_of_Khaled_Mohamed_Saeed">Khaled Mohamed Saeed</a>.
+  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=bdbe3f4fbb1847089039a7624b5f9ecb50cd1fe0">manning</a>: in support of <a href="http://www.salon.com/news/opinion/glenn_greenwald/2010/12/14/manning/">Bradley Manning</a>.
+  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=8c0c1ddb6aa57a9368e9a8d34c661a4ed012d404">saeed</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Death_of_Khaled_Mohamed_Saeed">Khaled Mohamed Saeed</a>.
+  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=10c227ae40ef33a6b7d28ea8b3b8a76c317cb6eb">Packetknife</a>
   </td>
  </tr>
  <tr> 
