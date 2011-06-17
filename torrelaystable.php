@@ -47,10 +47,10 @@
   </td>
  </tr>
  <tr> 
-  <td class="us" title="USA"><a href="http://bouazizi.torservers.net/">bouazizi</a></td><td>100 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=4186509C707E96B77B51A76F8294D7E22FF52C61" rel="external">4186 509C 707E 96B7 7B51 A76F 8294 D7E2 2FF5 2C61</a></td><td>many</td>
+  <td class="us" title="USA"><a href="http://bouazizi.torservers.net/">bouazizi</a></td><td>100 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=67FD1D03F922975269F94EC7E4FD38C6D0E5E900" rel="external">67FD 1D03 F922 9752 69F9 4EC7 E4FD 38C6 D0E5 E900</a></td><td>many</td>
  </tr>
  <tr>
-  <td colspan="4">A relay in New York, courtesy of <a href="http://www.defaultroute.net/" rel="external">Mike Sawicki at DefaultRoute</a>. Named in memoriam of <a href="http://en.wikipedia.org/wiki/Jef_Raskin">Jef Raskin</a>, a Human-Computer Interface expert.</td>
+  <td colspan="4">A relay in New York, courtesy of <a href="http://www.defaultroute.net/" rel="external">Mike Sawicki at DefaultRoute</a>. Named in memoriam of <a href="http://en.wikipedia.org/wiki/Mohamed_Bouazizi">Mohamed Bouazizi</a>.</td>
  </tr>
  <tr> 
   <td class="us" title="USA"><a href="http://raskin.torservers.net/">raskin</a></td><td>100 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=4186509C707E96B77B51A76F8294D7E22FF52C61" rel="external">4186 509C 707E 96B7 7B51 A76F 8294 D7E2 2FF5 2C61</a></td><td>many</td>
