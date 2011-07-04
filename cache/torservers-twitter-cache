@@ -1,15 +1,35 @@
-s:7752:"<?xml version="1.0" encoding="UTF-8"?>
+s:7861:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=87853158671450113" rel="refresh"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=87885552275300354" rel="refresh"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
-  <updated>2011-07-02T00:22:28Z</updated>
+  <updated>2011-07-04T14:08:43Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=87853158671450113&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=87885552275300354&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:87885552275300354</id>
+    <published>2011-07-04T14:08:43Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/87885552275300354" rel="alternate"/>
+    <title>Updated: Tor relays on Google Maps http://bit.ly/iRmS1Q (see http://bit.ly/gsKbe2 for details &amp; script)</title>
+    <content type="html">Updated: Tor relays on Google Maps &lt;a href=&quot;http://bit.ly/iRmS1Q&quot;&gt;http://bit.ly/iRmS1Q&lt;/a&gt; (see &lt;a href=&quot;http://bit.ly/gsKbe2&quot;&gt;http://bit.ly/gsKbe2&lt;/a&gt; for details &amp;amp; script)</content>
+    <updated>2011-07-04T14:08:43Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
   <entry>
     <id>tag:search.twitter.com,2005:86952845911400448</id>
     <published>2011-07-02T00:22:28Z</published>
@@ -85,26 +105,6 @@ s:7752:"<?xml version="1.0" encoding="UTF-8"?>
     </twitter:metadata>
     <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
     <twitter:lang>nl</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:86762234931462144</id>
-    <published>2011-07-01T11:45:03Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/86762234931462144" rel="alternate"/>
-    <title>@PGPBOARD I guess I didn't get your comment then. Why not donate for Tor exits?</title>
-    <content type="html">&lt;a href=&quot;http://twitter.com/PGPBOARD&quot;&gt;@PGPBOARD&lt;/a&gt; I guess I didn&amp;apos;t get your comment then. Why not donate for Tor exits?</content>
-    <updated>2011-07-01T11:45:03Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
       <uri>http://twitter.com/torservers</uri>
