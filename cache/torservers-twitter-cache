@@ -1,15 +1,35 @@
-s:7463:"<?xml version="1.0" encoding="UTF-8"?>
+s:7561:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=88604229018726400" rel="refresh"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=88613595579027456" rel="refresh"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
-  <updated>2011-07-06T13:44:29Z</updated>
+  <updated>2011-07-06T14:21:42Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=88604229018726400&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=88613595579027456&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:88613595579027456</id>
+    <published>2011-07-06T14:21:42Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/88613595579027456" rel="alternate"/>
+    <title>Remember: If you decide to set up a monthly donation, we can run a #Tor exit w/ name of your chosing.</title>
+    <content type="html">Remember: If you decide to set up a monthly donation, we can run a &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt; exit w/ name of your chosing.</content>
+    <updated>2011-07-06T14:21:42Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
   <entry>
     <id>tag:search.twitter.com,2005:88604229018726400</id>
     <published>2011-07-06T13:44:29Z</published>
@@ -84,26 +104,6 @@ s:7463:"<?xml version="1.0" encoding="UTF-8"?>
       <twitter:result_type>recent</twitter:result_type>
     </twitter:metadata>
     <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:88582878920847360</id>
-    <published>2011-07-06T12:19:38Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/88582878920847360" rel="alternate"/>
-    <title>@virtadpt The problem is that many will want to use their real name amongst friends, but not necessarily for the public to see.</title>
-    <content type="html">&lt;a href=&quot;http://twitter.com/virtadpt&quot;&gt;@virtadpt&lt;/a&gt; The problem is that many will want to use their real name amongst friends, but not necessarily for the public to see.</content>
-    <updated>2011-07-06T12:19:38Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
     <twitter:lang>en</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
