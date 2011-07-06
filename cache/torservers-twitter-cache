@@ -1,15 +1,95 @@
-s:8648:"<?xml version="1.0" encoding="UTF-8"?>
+s:7463:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
   <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
   <title>from:torservers - Twitter Search</title>
   <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=88582878920847360" rel="refresh"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=88604229018726400" rel="refresh"/>
   <twitter:warning>since_id removed for pagination.</twitter:warning>
-  <updated>2011-07-06T12:19:38Z</updated>
+  <updated>2011-07-06T13:44:29Z</updated>
   <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
-  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=88582878920847360&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=88604229018726400&amp;page=2&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:88604229018726400</id>
+    <published>2011-07-06T13:44:29Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/88604229018726400" rel="alternate"/>
+    <title>@csoghoian Recent study by the German police says Data Retention not helping to fight crimes http://bit.ly/oByjYC</title>
+    <content type="html">&lt;a href=&quot;http://twitter.com/csoghoian&quot;&gt;@csoghoian&lt;/a&gt; Recent study by the German police says Data Retention not helping to fight crimes &lt;a href=&quot;http://bit.ly/oByjYC&quot;&gt;http://bit.ly/oByjYC&lt;/a&gt;</content>
+    <updated>2011-07-06T13:44:29Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:88603512921010177</id>
+    <published>2011-07-06T13:41:38Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/88603512921010177" rel="alternate"/>
+    <title>RT @csoghoian: House Republicans to hold data retention hearing next week. Based on name of bill, anyone not in favor is a pedophile. http://j.mp/oeNBow</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/csoghoian&quot;&gt;@csoghoian&lt;/a&gt;: House Republicans to hold data retention hearing next week. Based on name of bill, anyone not in favor is a pedophile. &lt;a href=&quot;http://j.mp/oeNBow&quot;&gt;http://j.mp/oeNBow&lt;/a&gt;</content>
+    <updated>2011-07-06T13:41:38Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:88603413180452864</id>
+    <published>2011-07-06T13:41:14Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/88603413180452864" rel="alternate"/>
+    <title>RT @csoghoian: Data retention bill (http://j.mp/pG3ga9) requires ISPs keep IP address records for 18 months. Wireless carriers + WiFi networks are exempt.</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/csoghoian&quot;&gt;@csoghoian&lt;/a&gt;: Data retention bill (&lt;a href=&quot;http://j.mp/pG3ga9&quot;&gt;http://j.mp/pG3ga9&lt;/a&gt;) requires ISPs keep IP address records for 18 months. Wireless carriers + WiFi networks are exempt.</content>
+    <updated>2011-07-06T13:41:14Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:88599080514764800</id>
+    <published>2011-07-06T13:24:01Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/88599080514764800" rel="alternate"/>
+    <title>RT @textfiles: Len Sassaman's widow has asked Archive Team to archive our first person. If you want to help us gather his works/history, ping me.</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/textfiles&quot;&gt;@textfiles&lt;/a&gt;: Len Sassaman&amp;apos;s widow has asked Archive Team to archive our first person. If you want to help us gather his works/history, ping me.</content>
+    <updated>2011-07-06T13:24:01Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
   <entry>
     <id>tag:search.twitter.com,2005:88582878920847360</id>
     <published>2011-07-06T12:19:38Z</published>
@@ -24,86 +104,6 @@ s:8648:"<?xml version="1.0" encoding="UTF-8"?>
       <twitter:result_type>recent</twitter:result_type>
     </twitter:metadata>
     <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:88563329286676480</id>
-    <published>2011-07-06T11:01:57Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/88563329286676480" rel="alternate"/>
-    <title>RT @SamGregory: #Burma: How 2 protect id + info while using new tech? New @info_activism resources in #burmese http://mm.onorobot.org + www.survival-mm.org</title>
-    <content type="html">RT &lt;a href=&quot;http://twitter.com/SamGregory&quot;&gt;@SamGregory&lt;/a&gt;: &lt;a href=&quot;http://search.twitter.com/search?q=%23Burma&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Burma');&quot;&gt;#Burma&lt;/a&gt;: How 2 protect id + info while using new tech? New &lt;a href=&quot;http://twitter.com/info_activism&quot;&gt;@info_activism&lt;/a&gt; resources in &lt;a href=&quot;http://search.twitter.com/search?q=%23burmese&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#burmese');&quot;&gt;#burmese&lt;/a&gt; &lt;a href=&quot;http://mm.onorobot.org&quot;&gt;http://mm.onorobot.org&lt;/a&gt; + &lt;a href=&quot;http://www.survival-mm.org&quot;&gt;www.survival-mm.org&lt;/a&gt;</content>
-    <updated>2011-07-06T11:01:57Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:88551272583663617</id>
-    <published>2011-07-06T10:14:03Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/88551272583663617" rel="alternate"/>
-    <title>RT @blutmagie: blutmagie interface counter made the Pebibyte (PiB) #Tor http://yfrog.com/h3uu6brj</title>
-    <content type="html">RT &lt;a href=&quot;http://twitter.com/blutmagie&quot;&gt;@blutmagie&lt;/a&gt;: blutmagie interface counter made the Pebibyte (PiB) &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt; &lt;a href=&quot;http://yfrog.com/h3uu6brj&quot;&gt;http://yfrog.com/h3uu6brj&lt;/a&gt;</content>
-    <updated>2011-07-06T10:14:03Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:88530070590853120</id>
-    <published>2011-07-06T08:49:48Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/88530070590853120" rel="alternate"/>
-    <title>#Google+ will require publicly shown full name and gender after July 31st http://selnd.com/pCTvLi</title>
-    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23Google&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Google');&quot;&gt;#Google&lt;/a&gt;+ will require publicly shown full name and gender after July 31st &lt;a href=&quot;http://selnd.com/pCTvLi&quot;&gt;http://selnd.com/pCTvLi&lt;/a&gt;</content>
-    <updated>2011-07-06T08:49:48Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:88190299653947392</id>
-    <published>2011-07-05T10:19:40Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/88190299653947392" rel="alternate"/>
-    <title>#Cisco and others helping to build one of the largest video surveillance projects in #China http://on.wsj.com/jyLAtD</title>
-    <content type="html">&lt;a href=&quot;http://search.twitter.com/search?q=%23Cisco&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Cisco');&quot;&gt;#Cisco&lt;/a&gt; and others helping to build one of the largest video surveillance projects in &lt;a href=&quot;http://search.twitter.com/search?q=%23China&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#China');&quot;&gt;#China&lt;/a&gt; &lt;a href=&quot;http://on.wsj.com/jyLAtD&quot;&gt;http://on.wsj.com/jyLAtD&lt;/a&gt;</content>
-    <updated>2011-07-05T10:19:40Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
     <twitter:lang>en</twitter:lang>
     <author>
       <name>torservers (Mo @ torservers.net)</name>
