@@ -155,3 +155,28 @@ legal situation at http://www.torservers.net/abuse.html
 
 Thanks for your understanding. If you have further questions, feel free
 to contact us again.</file>
+
+====== Procmail Rules ======
+
+<file>:0 c
+* ^To:.*abuse@torserversspam.net
+* ^From:.*mediasentry.com
+{
+  REPLYTO = `formail -xFrom:`
+  SUBJECT = `formail -xSubject:`
+
+  :0 fhb
+  | (/usr/bin/formail -r                    \
+   -I"To: $REPLYTO"     \
+   -I"CC: abuse@torserversspam.net" \
+   -I"From: Moritz Bartl <abuse@torserversspam.net>" \
+   -I"Subject: Re: $SUBJECT" ;    \
+   /bin/cat /home/user/mediasentry-autoreply.msg) \
+  | /usr/sbin/sendmail -oi -t
+}
+
+:0
+* ^To:.*abuse@torserversspam.net
+* ^From:.*mediasentry.com
+.Torservers.Abuse.Mediasentry/
+</file>
