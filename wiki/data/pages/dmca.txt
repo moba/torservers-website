@@ -6,12 +6,9 @@ If you run a Tor relay that allows arbitrary ports to exit, you sadly cannot sto
 
 So far, we were out of luck about contacting MediaSentry about their reports. We reply to every single one of them, and we tried to get in contact with them over basically any email address we could find. For some funny reason, Peer Media Technologies still uses the name "MediaSentry" and the MX mediasentry.com.
 
-====== You can help ======
+====== DMCA Complaint Archive ======
 
-Help us identify the trackers so we can play around with blocking certain IPs. This knowledge is especially useful if you as an exit node operator want to avoid being kicked off by your ISP.
-
-DMCA Complaints 2011.04.07 - 2011.04.26: {{:dmca20110407-20110426.zip|}}
-
+DMCA Complaints 2011.04.07 - 2011.07.06: {{:dmca20110407-20110706.zip|}}
 ====== Example Full Report ======
 
 <file>Return-Path: <CBSCopyright@mc.mediasentry.com>
