@@ -51,7 +51,7 @@ https://www.nforce.com/
   * 04.04.2011: ISP confirmed possible sponsorship, donates a second box
   * 07.04.2011: RIPE WHOIS reassigned, online!
 
-====== Offline ======
+====== Online ======
 
 ======T-N Media (RO)======
 http://www.t-n-media.de/
