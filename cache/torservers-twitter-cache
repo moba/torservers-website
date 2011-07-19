@@ -1,4 +1,4 @@
-s:4636:"<?xml version="1.0" encoding="UTF-8"?>
+s:3477:"<?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
   <id>tag:search.twitter.com,2005:search/from:torservers</id>
   <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
@@ -35,26 +35,6 @@ s:4636:"<?xml version="1.0" encoding="UTF-8"?>
     <title>Telex - Deep Packet Inspection to deploy at &quot;friendly ISPs&quot; for censorship circumvention http://bit.ly/owMljn (+discussion)</title>
     <content type="html">Telex - Deep Packet Inspection to deploy at &amp;quot;friendly ISPs&amp;quot; for censorship circumvention &lt;a href=&quot;http://bit.ly/owMljn&quot;&gt;http://bit.ly/owMljn&lt;/a&gt; (+discussion)</content>
     <updated>2011-07-18T15:32:24Z</updated>
-    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:metadata>
-      <twitter:result_type>recent</twitter:result_type>
-    </twitter:metadata>
-    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
-    <twitter:lang>en</twitter:lang>
-    <author>
-      <name>torservers (Mo @ torservers.net)</name>
-      <uri>http://twitter.com/torservers</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:search.twitter.com,2005:92194387173453827</id>
-    <published>2011-07-16T11:30:29Z</published>
-    <link type="text/html" href="http://twitter.com/torservers/statuses/92194387173453827" rel="alternate"/>
-    <title>RT @metalabasia: Rise of a Cybered Westphalian Age http://bit.ly/qsVYsH</title>
-    <content type="html">RT &lt;a href=&quot;http://twitter.com/metalabasia&quot;&gt;@metalabasia&lt;/a&gt;: Rise of a Cybered Westphalian Age &lt;a href=&quot;http://bit.ly/qsVYsH&quot;&gt;http://bit.ly/qsVYsH&lt;/a&gt;</content>
-    <updated>2011-07-16T11:30:29Z</updated>
     <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
     <twitter:geo>
     </twitter:geo>
