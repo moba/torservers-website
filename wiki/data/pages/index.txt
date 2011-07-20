@@ -20,7 +20,7 @@
   * [[hoster:experience|Our experiences with ISPs]]
   * [[hoster:inquiry|Inquiry Templates]]
   * [[hoster:bridges|Bridge Hosting]]
-  * [[Abuse Handling]]
+  * [[abuse:templates|Abuse Handling Templates]]
 
   * [[setup:server|Torservers Exit Server Setup]]
   * [[setup:bridge|Tor Bridge Setup]]

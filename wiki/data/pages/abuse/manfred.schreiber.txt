@@ -1,0 +1,62 @@
+====== Strange Case of Manfred Schreiber ======
+
+Recently, one of our ISPs received a request allegedly by an Austria regional court, signed with "Manfred Schreiber". Usually, official inquiries come by phone or fax. No fax or phone number given, mail sent via a popular German freemailer, GMX. I called the court and they told me they didn't know any Manfred Schreiber.
+
+<file>Return-Path: mediareport@gmx.net
+Received: from gambadilegno.noc.crismani.eu (LHLO gambadilegno.noc.crismani.eu)
+(192.168.1.11) by gambadilegno.noc.crismani.eu with LMTP; Sun, 17 Jul 2011
+11:53:17 -0700 (PDT)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+by gambadilegno.noc.crismani.eu (Postfix) with ESMTP id D88CCBD818D
+for <abuse@axigy.net>; Sun, 17 Jul 2011 11:53:17 -0700 (PDT)
+X-Virus-Scanned: amavisd-new at gambadilegno.noc.crismani.eu
+X-Spam-Flag: NO
+X-Spam-Score: 4.461
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.461 tagged_above=-10 required=6.6
+tests=[BAYES_95=3, FREEMAIL_FROM=0.001, RCVD_IN_BRBL_LASTEXT=1.449,
+T_TO_NO_BRKTS_FREEMAIL=0.01, UNPARSEABLE_RELAY=0.001] autolearn=no
+Received: from gambadilegno.noc.crismani.eu ([127.0.0.1])
+by localhost (gambadilegno.noc.crismani.eu [127.0.0.1]) (amavisd-new, port 10024)
+with ESMTP id UMAkzfUznlAv for <abuse@axigy.net>;
+Sun, 17 Jul 2011 11:53:17 -0700 (PDT)
+Received: from mf2.corp-gw.seabone.it (mf2.corp-gw.seabone.it [10.0.72.99])
+by gambadilegno.noc.crismani.eu (Postfix) with ESMTP id 46134BD8179
+for <abuse@axigy.net>; Sun, 17 Jul 2011 11:53:17 -0700 (PDT)
+X-Envelope-From: mediareport@gmx.net
+X-Envelope-To: abuse@axigy.net
+Received: From mailout-de.gmx.net (213.165.64.23) by mf2.corp-gw.seabone.it (MAILFOUNDRY) id B5YfyLCmEeCh4gAw for abuse@axigy.net; Sun, 17 Jul 2011 18:53:16 -0000 (GMT)
+Received: (qmail 3322 invoked by uid 0); 17 Jul 2011 18:53:12 -0000
+Received: from 77.220.112.193 by www014.gmx.net with HTTP;
+Sun, 17 Jul 2011 20:53:12 +0200 (CEST)
+Content-Type: text/plain; charset="utf-8"
+Date: Sun, 17 Jul 2011 20:53:12 +0200
+From: mediareport@gmx.net
+Message-ID: <20110717185312.64340@gmx.net>
+MIME-Version: 1.0
+Subject: Notice of abuse
+To: abuse@axigy.net
+X-Authenticated: #34171136
+X-Flags: 0001
+X-Mailer: WWW-Mail 6100 (Global Message Exchange)
+X-Priority: 3
+X-Provags-ID: V01U2FsdGVkX18QcrRQV24Q+p/xVKj9zLAXzK4v/AZlVl4++D/l5m
+ETY31wkXNpyuqE0/8G3uMeNKlOoOGPXiR1TQ== 
+Content-Transfer-Encoding: 8bit
+X-GMX-UID: qR0FZgu+Li50PyhNY2lpg/xrZml1ZFj7
+
+Your IP number 72.46.129.45
+
+has been used for criminal purposes,
+on 2011/07/17 at 3:40 PM
+
+Please refer any pertinent data to the prosecutor at the Steyr Regional court, by address:
+Staatsanwaltschaft, 4400 Steyr, Spitalskystrasse 1, Austria
+
+Thank you for your cooperation,
+Manfred Schreiber
+
+-- 
+Empfehlen Sie GMX DSL Ihren Freunden und Bekannten und wir
+belohnen Sie mit bis zu 50,- Euro! https://freundschaftswerbung.gmx.de
+</file>
