@@ -1,1 +1,92 @@
-s:7921:"<?xml version="1.0" encoding="UTF-8"?><feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/" xmlns:georss="http://www.georss.org/georss"><id>tag:search.twitter.com,2005:search/from:torservers</id><link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/><link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers" rel="self"/><title>from:torservers - Twitter Search</title><link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/><link type="application/atom+xml" href="http://search.twitter.com/search.atom?since_id=94717499651784704&amp;q=from%3Atorservers" rel="refresh"/><updated>2011-07-23T10:36:26Z</updated><openSearch:itemsPerPage>5</openSearch:itemsPerPage><link type="application/atom+xml" href="http://search.twitter.com/search.atom?page=2&amp;max_id=94717499651784704&amp;q=from%3Atorservers&amp;rpp=5" rel="next"/><entry><id>tag:search.twitter.com,2005:94717499651784704</id><published>2011-07-23T10:36:26Z</published><link type="text/html" href="http://twitter.com/torservers/statuses/94717499651784704" rel="alternate"/><title>RT @mrkoot: Fun hostnames below k.ripe.net: {sniffer,router,console}.{ams-ix,denic,linx,nap,tokyo}.k.ripe.net: http://t.co/5mHbPmI #RIPE #DNS #mapping</title><content type="html">RT @&lt;a class=" " href="http://twitter.com/mrkoot"&gt;mrkoot&lt;/a&gt;: Fun hostnames below k.ripe.net: {sniffer,router,console}.{ams-ix,denic,linx,nap,tokyo}.k.ripe.net: &lt;a href="http://t.co/5mHbPmI"&gt;http://t.co/5mHbPmI&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23RIPE" title="#RIPE" class=" "&gt;#RIPE&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23DNS" title="#DNS" class=" "&gt;#DNS&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23mapping" title="#mapping" class=" "&gt;#mapping&lt;/a&gt;</content><updated>2011-07-23T10:36:26Z</updated><link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/><twitter:geo><georss:point>52.373812 4.890951</georss:point></twitter:geo><twitter:metadata><twitter:result_type>recent</twitter:result_type></twitter:metadata><twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source><twitter:lang>en</twitter:lang><author><name>torservers (Mo @ torservers.net)</name><uri>http://twitter.com/torservers</uri></author></entry><entry><id>tag:search.twitter.com,2005:94478951728156672</id><published>2011-07-22T18:48:32Z</published><link type="text/html" href="http://twitter.com/torservers/statuses/94478951728156672" rel="alternate"/><title>RT @ThePunkbob: @mrkoot @torservers @ioerror @telecomix Heard mixed reports, including that users are still connected as of 4 hours ago. All Unconfirmed</title><content type="html">RT @&lt;a class=" " href="http://twitter.com/ThePunkbob"&gt;ThePunkbob&lt;/a&gt;: @&lt;a class=" " href="http://twitter.com/mrkoot"&gt;mrkoot&lt;/a&gt; @&lt;a class=" " href="http://twitter.com/torservers"&gt;torservers&lt;/a&gt; @&lt;a class=" " href="http://twitter.com/ioerror"&gt;ioerror&lt;/a&gt; @&lt;a class=" " href="http://twitter.com/telecomix"&gt;telecomix&lt;/a&gt; Heard mixed reports, including that users are still connected as of 4 hours ago. All Unconfirmed</content><updated>2011-07-22T18:48:32Z</updated><link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/><twitter:geo><georss:point>38.892091 -77.024055</georss:point></twitter:geo><twitter:metadata><twitter:result_type>recent</twitter:result_type></twitter:metadata><twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source><twitter:lang>en</twitter:lang><author><name>torservers (Mo @ torservers.net)</name><uri>http://twitter.com/torservers</uri></author></entry><entry><id>tag:search.twitter.com,2005:94477344336642048</id><published>2011-07-22T18:42:08Z</published><link type="text/html" href="http://twitter.com/torservers/statuses/94477344336642048" rel="alternate"/><title>RT @mrkoot: @torservers @ioerror Can this be confirmed? MT @telecomix: #Syria gets major censorship upgrade. SSL TOR VPNs blocked. (...)</title><content type="html">RT @&lt;a class=" " href="http://twitter.com/mrkoot"&gt;mrkoot&lt;/a&gt;: @&lt;a class=" " href="http://twitter.com/torservers"&gt;torservers&lt;/a&gt; @&lt;a class=" " href="http://twitter.com/ioerror"&gt;ioerror&lt;/a&gt; Can this be confirmed? MT @&lt;a class=" " href="http://twitter.com/telecomix"&gt;telecomix&lt;/a&gt;: &lt;a href="http://search.twitter.com/search?q=%23Syria" title="#Syria" class=" "&gt;#Syria&lt;/a&gt; gets major censorship upgrade. SSL TOR VPNs blocked. (...)</content><updated>2011-07-22T18:42:08Z</updated><link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/><twitter:geo><georss:point>52.373812 4.890951</georss:point></twitter:geo><twitter:metadata><twitter:result_type>recent</twitter:result_type></twitter:metadata><twitter:source>&lt;a href="http://twitter.com/#!/download/ipad" rel="nofollow"&gt;Twitter for iPad&lt;/a&gt;</twitter:source><twitter:lang>en</twitter:lang><author><name>torservers (Mo @ torservers.net)</name><uri>http://twitter.com/torservers</uri></author></entry><entry><id>tag:search.twitter.com,2005:93990176447139840</id><published>2011-07-21T10:26:18Z</published><link type="text/html" href="http://twitter.com/torservers/statuses/93990176447139840" rel="alternate"/><title>RT @e1m1sk: EFF Campaign Increases the Number of Tor Relays by 13.4% : http://t.co/9XMe1S2 @EFF #Tor</title><content type="html">RT @&lt;a class=" " href="http://twitter.com/e1m1sk"&gt;e1m1sk&lt;/a&gt;: EFF Campaign Increases the Number of Tor Relays by 13.4% : &lt;a href="http://t.co/9XMe1S2"&gt;http://t.co/9XMe1S2&lt;/a&gt; @&lt;a class=" " href="http://twitter.com/EFF"&gt;EFF&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23Tor" title="#Tor" class=" "&gt;#Tor&lt;/a&gt;</content><updated>2011-07-21T10:26:18Z</updated><link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/><twitter:geo><georss:point>51.165691 10.451526</georss:point></twitter:geo><twitter:metadata><twitter:result_type>recent</twitter:result_type></twitter:metadata><twitter:source>&lt;a href="http://status.headstrong.de/" rel="nofollow"&gt;headstrong.de&lt;/a&gt;</twitter:source><twitter:lang>en</twitter:lang><author><name>torservers (Mo @ torservers.net)</name><uri>http://twitter.com/torservers</uri></author></entry><entry><id>tag:search.twitter.com,2005:93727905502330881</id><published>2011-07-20T17:04:08Z</published><link type="text/html" href="http://twitter.com/torservers/statuses/93727905502330881" rel="alternate"/><title>The Strange Case of Manfred Schreiber https://www.torservers.net/wiki/abuse/manfred.schreiber  #Tor</title><content type="html">The Strange Case of Manfred Schreiber &lt;a href="https://www.torservers.net/wiki/abuse/manfred.schreiber"&gt;https://www.torservers.net/wiki/abuse/manfred.schreiber&lt;/a&gt;  &lt;a href="http://search.twitter.com/search?q=%23Tor" title="#Tor" class=" "&gt;#Tor&lt;/a&gt;</content><updated>2011-07-20T17:04:08Z</updated><link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/><twitter:geo><georss:point>51.165691 10.451526</georss:point></twitter:geo><twitter:metadata><twitter:result_type>recent</twitter:result_type></twitter:metadata><twitter:source>&lt;a href="http://status.headstrong.de/" rel="nofollow"&gt;headstrong.de&lt;/a&gt;</twitter:source><twitter:lang>en</twitter:lang><author><name>torservers (Mo @ torservers.net)</name><uri>http://twitter.com/torservers</uri></author></entry></feed>";
+s:7445:"<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xml:lang="en-US" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/">
+  <id>tag:search.twitter.com,2005:search/from:torservers</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=from%3Atorservers" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5" rel="self"/>
+  <title>from:torservers - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=from%3Atorservers&amp;rpp=5&amp;since_id=95100916293844993" rel="refresh"/>
+  <updated>2011-07-23T10:36:26Z</updated>
+  <openSearch:itemsPerPage>5</openSearch:itemsPerPage>
+  <entry>
+    <id>tag:search.twitter.com,2005:94717499651784704</id>
+    <published>2011-07-23T10:36:26Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/94717499651784704" rel="alternate"/>
+    <title>RT @mrkoot: Fun hostnames below k.ripe.net: {sniffer,router,console}.{ams-ix,denic,linx,nap,tokyo}.k.ripe.net: http://t.co/5mHbPmI #RIPE #DNS #mapping</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/mrkoot&quot;&gt;@mrkoot&lt;/a&gt;: Fun hostnames below k.ripe.net: {sniffer,router,console}.{ams-ix,denic,linx,nap,tokyo}.k.ripe.net: &lt;a href=&quot;http://t.co/5mHbPmI&quot;&gt;http://t.co/5mHbPmI&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23RIPE&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#RIPE');&quot;&gt;#RIPE&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23DNS&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#DNS');&quot;&gt;#DNS&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23mapping&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#mapping');&quot;&gt;#mapping&lt;/a&gt;</content>
+    <updated>2011-07-23T10:36:26Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:94478951728156672</id>
+    <published>2011-07-22T18:48:32Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/94478951728156672" rel="alternate"/>
+    <title>RT @ThePunkbob: @mrkoot @torservers @ioerror @telecomix Heard mixed reports, including that users are still connected as of 4 hours ago. All Unconfirmed</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/ThePunkbob&quot;&gt;@ThePunkbob&lt;/a&gt;: &lt;a href=&quot;http://twitter.com/mrkoot&quot;&gt;@mrkoot&lt;/a&gt; &lt;a href=&quot;http://twitter.com/torservers&quot;&gt;@torservers&lt;/a&gt; &lt;a href=&quot;http://twitter.com/ioerror&quot;&gt;@ioerror&lt;/a&gt; &lt;a href=&quot;http://twitter.com/telecomix&quot;&gt;@telecomix&lt;/a&gt; Heard mixed reports, including that users are still connected as of 4 hours ago. All Unconfirmed</content>
+    <updated>2011-07-22T18:48:32Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:94477344336642048</id>
+    <published>2011-07-22T18:42:08Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/94477344336642048" rel="alternate"/>
+    <title>RT @mrkoot: @torservers @ioerror Can this be confirmed? MT @telecomix: #Syria gets major censorship upgrade. SSL TOR VPNs blocked. (...)</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/mrkoot&quot;&gt;@mrkoot&lt;/a&gt;: &lt;a href=&quot;http://twitter.com/torservers&quot;&gt;@torservers&lt;/a&gt; &lt;a href=&quot;http://twitter.com/ioerror&quot;&gt;@ioerror&lt;/a&gt; Can this be confirmed? MT &lt;a href=&quot;http://twitter.com/telecomix&quot;&gt;@telecomix&lt;/a&gt;: &lt;a href=&quot;http://search.twitter.com/search?q=%23Syria&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Syria');&quot;&gt;#Syria&lt;/a&gt; gets major censorship upgrade. SSL TOR VPNs blocked. (...)</content>
+    <updated>2011-07-22T18:42:08Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://twitter.com/#!/download/ipad&quot; rel=&quot;nofollow&quot;&gt;Twitter for iPad&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:93990176447139840</id>
+    <published>2011-07-21T10:26:18Z</published>
+    <link type="text/html" href="http://twitter.com/torservers/statuses/93990176447139840" rel="alternate"/>
+    <title>RT @e1m1sk: EFF Campaign Increases the Number of Tor Relays by 13.4% : http://t.co/9XMe1S2 @EFF #Tor</title>
+    <content type="html">RT &lt;a href=&quot;http://twitter.com/e1m1sk&quot;&gt;@e1m1sk&lt;/a&gt;: EFF Campaign Increases the Number of Tor Relays by 13.4% : &lt;a href=&quot;http://t.co/9XMe1S2&quot;&gt;http://t.co/9XMe1S2&lt;/a&gt; &lt;a href=&quot;http://twitter.com/EFF&quot;&gt;@EFF&lt;/a&gt; &lt;a href=&quot;http://search.twitter.com/search?q=%23Tor&quot; onclick=&quot;pageTracker._setCustomVar(2, 'result_type', 'recent', 3);pageTracker._trackPageview('/intra/hashtag/#Tor');&quot;&gt;#Tor&lt;/a&gt;</content>
+    <updated>2011-07-21T10:26:18Z</updated>
+    <link type="image/png" href="http://a2.twimg.com/profile_images/1179159796/twitter_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:metadata>
+      <twitter:result_type>recent</twitter:result_type>
+    </twitter:metadata>
+    <twitter:source>&lt;a href=&quot;http://status.headstrong.de/&quot; rel=&quot;nofollow&quot;&gt;headstrong.de&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>torservers (Mo @ torservers.net)</name>
+      <uri>http://twitter.com/torservers</uri>
+    </author>
+  </entry>
+</feed>
+";
