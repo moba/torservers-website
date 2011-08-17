@@ -278,7 +278,7 @@ Set MaxBandwidth to line maximum, eg. for GBit:
 <code>
 # remove "exit" from rc.local, then
 echo 'ifconfig eth0 txqueuelen 20000' >> /etc/rc.local
-
+[has this been tested?  see "bufferbloat" at http://www.cyberciti.biz/faq/gentoo-centos-rhel-debian-fedora-increasing-txqueuelen/]
 ifconfig eth0 mtu 9000
 # to make permanent, add "mtu 9000" to /etc/network/interfaces
 </code>
