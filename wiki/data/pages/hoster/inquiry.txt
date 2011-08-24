@@ -3,11 +3,11 @@
 
 Hi,
 
-I am interested in your dedicated Gbit specials for hosting a Tor
-exit. Can you give me a quote for a Dual Xeon E5620 2.4Ghz with 8GB RAM,
-2x500GB RAID1 (or as small as you can get in terms of hard drives, does
-not matter) and ARIN/RIPE reassignment for a subnet (/29 is enough) towards
-our organization?
+I am interested in your dedicated Gbit specials for hosting a Tor exit. 
+Can you give me a quote for a Dual Xeon E5620 2.4Ghz with 8GB RAM, 
+2x500GB RAID1 (or as small as you can get in terms of hard drives, 
+does not matter) and ARIN/RIPE IP reassignment for a small subnet 
+towards our organization?
 
 Thank you,
 </file>
@@ -30,10 +30,33 @@ software blocks unprotected ports such as SMTP automatically, so Tor IPs
 rarely make it to blacklists.
 
 If you like to know more about the project, feel free to contact me on
-Jabber/XMPP moritz@torservers.net or visit our website at
-http://www.torservers.net/
+Jabber/XMPP bla@domain.example or visit our website at https://www.torservers.net/
 </file>
 
-  * before final order make sure they will really give you proper WHOIS reassignment; examples: http://www.db.ripe.net/whois?searchtext=79.140.39.227 (RIPE), http://whois.arin.net/rest/net/NET-74-120-15-144-1/ (ARIN)
-  * RIPE Documentation: http://www.ripe.net/lir-services/resource-management/faq/internet-resources#faq_22 , http://www.ripe.net/ripe/docs/ripe-489
-  * ARIN Reassignment Form: https://www.arin.net/resources/templates/reassign-simple.txt (prefilled for Torservers.net: http://www.torservers.net/misc/arin-torservers.txt - ISP only needs to edit Network Section, 20-23)
+Before you finally order make sure they will really give you proper WHOIS reassignment. Many promise to do so, but then don't want to change admin-c/tech-c/abuse records, which is crucial. Read RIPE/ARIN guidelines.
+
+====== ARIN ======
+
+  * ARIN Reassignment Form: https://www.arin.net/resources/templates/reassign-simple.txt 
+  * (prefilled for Torservers.net: http://www.torservers.net/misc/arin-torservers.txt - ISP only needs to edit Network Section, 20-23)
+
+====== RIPE ======
+
+With RIPE, it works even better than with ARIN as most people respect the WHOIS entry there without going directly for the upstream record. In our experience, this happens a lot with ARIN. But - my guess is due to some stricter regulations by RIPE - less ISPs are willing to reassign RIPE IPs.
+Some reports, like Shadowserver reports, get sent to the AS, so WHOIS does not help against those. With luck you can get your ISP to ignore or auto-forward them to you.
+
+If you don't have ''mtner'' and ''person'' handles for your Tor exits, use the helpful wizard at https://apps.db.ripe.net/startup/ or manually create them at https://apps.db.ripe.net/webupdates/select-type.html . You can update those records any time.
+
+You need at least one ''mtner'' and one ''person'' handle. Tell your ISP to create an ''inetnum'' record linking those handles (mtner, admin-c, tech-c). You should suggest apprioriate ''desc'', ''remarks'' and ''country'' entries (see examples below). RIPE does not require ''country'' to be the location of your server, nor your own location. Your ISP nevertheless might want either your location or the servers location in there. I am not a fan of confusing GeoIP (and users), but you could specify any country. It is even possible to list more than one country, but be aware that it takes several months for GeoIP services to pick up changes (if they ever do) and that you won't be able to update the ''inetnum'' record yourself later.
+
+===== example records =====
+
+  * mtner: http://apps.db.ripe.net/whois/lookup/ripe/mntner/ZWIEBELFREUNDE.html
+  * person: http://apps.db.ripe.net/whois/lookup/ripe/person-role/MB22990-RIPE.html
+  * inetnum: https://apps.db.ripe.net/dbweb/search/query.html?searchtext=77.247.181.160
+
+===== documentation =====
+
+Additional RIPE Documentation for ISPs (it sometimes helps to pass that on in case they don't know how to do reassignments): 
+  * http://www.ripe.net/lir-services/resource-management/faq/internet-resources#faq_22
+  * http://www.ripe.net/ripe/docs/ripe-489
