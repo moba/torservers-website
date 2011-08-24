@@ -18,7 +18,7 @@ $HTTP["host"] =~ "^torservers\.net$" {
 
 fastcgi.map-extensions = ( ".html" => ".php" )
 
-# suggest SSL, new FF4 x-content-security-policy forbids external content
+# https://developer.mozilla.org/en/Introducing_Content_Security_Policy
 server.modules += ("mod_setenv")
 setenv.add-response-header = (
  "Strict-Transport-Security" => "max-age=31556926;includeSubDomains",
