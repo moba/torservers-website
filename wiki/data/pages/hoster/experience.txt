@@ -51,6 +51,7 @@ https://www.nforce.com/
   * 02.04.2011: ISP asked for details about abuse etc
   * 04.04.2011: ISP confirmed possible sponsorship, donates a second box
   * 07.04.2011: RIPE WHOIS reassigned, online!
+  * 27.08.2011: price lowered to 1125 per quarter
 
 ====== Offline ======
 
