@@ -18,8 +18,7 @@ With the free software Tor, Internet traffic is securely passed through relay st
 
 ===== Foundation of Zwiebelfreunde e.V. ("Friends of the Onion") =====
 
-Zwiebelfreunde is a non-profit association that manages the successful Torservers.net   platform. In addition, the organisation acts as a user group mediator for security and tech professionals. It organises various meetings and [[http://mycaal.com|loan modification]] workshops within Germany and around  Europe together with international partners such as German Whistleblower-Netzwerk e.V., Open Data e.V., the Swedish activist group Telecomix, Privacy International, the Belgian Pirate Party and others to "ensure that Internet censorship has no chance".
-
+Zwiebelfreunde is a non-profit association that manages the successful Torservers.net platform. In addition, the organization acts as a user group mediator for security and tech professionals. It organizes various meetings and workshops within Germany and around  Europe together with international partners such as German Whistleblower-Netzwerk e.V., Open Data e.V., the Swedish activist group Telecomix, Privacy International, the Belgian Pirate Party, the Free Network Foundation and others to "ensure that Internet censorship has no chance".
 ===== Contact =====
 
 Moritz Bartl\\

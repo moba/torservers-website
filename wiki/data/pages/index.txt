@@ -20,7 +20,6 @@
   * [[hoster:experience|Our experiences with ISPs]]
   * [[hoster:inquiry|Inquiry Templates]]
   * [[hoster:bridges|Bridge Hosting]]
-  * [[http://mycaal.com|Loan Modification]]
   * [[abuse:templates|Abuse Handling Templates]]
 
   * [[setup:server|Torservers Exit Server Setup]]
