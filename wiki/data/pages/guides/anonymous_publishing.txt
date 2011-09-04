@@ -2,7 +2,7 @@
 
 There's probably a lot more to think about, but here's some thoughts on how to publish and receive information with the help of Tor hidden services. This is a quick and dirty guide and it could use some more explanations.
 
-  * get a number of VPS across different continents. pay anonymously. only access them trough tor.
+  * get a number of VPS across different continents. pay anonymously. only access them through tor.
     * for a small site, 256MB should be enough. better 512mb.
   * [[https://lists.torproject.org/pipermail/tor-relays/2011-April/000736.html|use the same .onion key on all VPS for poor man's redundancy]]
     * the last one to publish its address will be the one handling requests
@@ -14,7 +14,7 @@ There's probably a lot more to think about, but here's some thoughts on how to p
 
   * remove every useless package, close the firewall except a random SSH port above 1024
   * once you are comfortable accessing your boxes per SSH through tor you can even close that port
-    * you might want to set up portknocking in case hidden services are unreachable
+    * you might want to set up portknocking/single-packet authorization in case hidden services are unreachable
   * run a stripped down/well configured webserver that does not leak information
     * bind it to just localhost and some port
 
