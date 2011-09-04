@@ -1,0 +1,43 @@
+====== Anonymous Publishing 101 ======
+
+There's probably a lot more to think about, but here's some thoughts on how to publish and receive information with the help of Tor hidden services. This is a quick and dirty guide and it could use some more explanations.
+
+  * get a number of VPS across different continents. pay anonymously. only access them trough tor.
+    * for a small site, 256MB should be enough. better 512mb.
+  * [[https://lists.torproject.org/pipermail/tor-relays/2011-April/000736.html|use the same .onion key on all VPS for poor man's redundancy]]
+    * the last one to publish its address will be the one handling requests
+  * only use Tor clients for public hidden services
+  * sign everything you do, website and everything, using a gpg key
+    * recommended read: https://we.riseup.net/riseuplabs+paow/openpgp-best-practices
+    * tell people: no matter what, official publications will always be signed
+  * if you use jabber, publish your OTR fingerprint and sign it using your gpg key
+
+  * remove every useless package, close the firewall except a random SSH port above 1024
+  * once you are comfortable accessing your boxes per SSH through tor you can even close that port
+    * you might want to set up portknocking in case hidden services are unreachable
+  * run a stripped down/well configured webserver that does not leak information
+    * bind it to just localhost and some port
+
+Add something like the following lines to the Tor (default) client config:
+
+<file>
+# local webserver at port 22932
+HiddenServiceDir /var/lib/tor/hidden_web/
+HiddenServicePort 80 127.0.0.1:22932
+
+# local ssh at port 12924
+HiddenServiceDir /var/lib/tor/hidden_ssh/
+HiddenServicePort 12924 127.0.0.1:12924
+</file>
+
+  * reload/restart Tor
+  * before you reload Tor the first time on the next boxes, copy the content of hidden_web to use the same .onion
+  
+  * for a submission system, you could use randomly generated addresses from anonbox.net or privacybox.de
+  * if you want a cleartext site with info, for very simple info sites you could use pastehtml.com (at PRQ Sweden) or similar to host it for free
+    * don't forget to sign everything
+    * don't use free hosters like tumblr, wordpress etc.
+  * best offer/use https, even for the cleartext website
+  * you can also anonymously get more VPS, use them to host your content in cleartext, and make them rsync from your hidden service
+
+also see [[http://cryptoanarchy.org/wiki/Chaosbox|Chaosbox]]
