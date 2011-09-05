@@ -251,8 +251,8 @@ chmod +x tor
 ## example usage:
 # ls /etc/tor
 tor0.cfg tor1.cfg tor2.cfg tor3.cfg
-# /etc/init.d/tor start
-# /etc/init.d/tor stop
+# /etc/init.d/tor start    # starts tor 0-3
+# /etc/init.d/tor stop     # stops tor 0-3
 # /etc/init.d tor reload tor2 tor3
 # /etc/init.d/tor stop tor1</code>
 
