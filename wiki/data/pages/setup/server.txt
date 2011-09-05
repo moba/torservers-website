@@ -66,7 +66,7 @@ wget http://www.torservers.net/misc/config/06norecommends
 
 aptitude update && aptitude full-upgrade
 aptitude install sudo less jed htop nload mercurial screen denyhosts \
-openntpd apticron vnstat logcheck logcheck-database
+ntp apticron vnstat logcheck logcheck-database
 aptitude remove --purge portmap
 
 vnstat -u -i eth0 # setup vnstat for correct interface
