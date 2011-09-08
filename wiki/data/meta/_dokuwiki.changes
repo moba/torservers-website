@@ -21,3 +21,5 @@
 1315485671	127.0.0.1	e	setup:server	moritz	apt-key	
 1315485840	127.0.0.1	e	setup:server	moritz	[setup] 	
 1315486555	127.0.0.1	e	setup:server	moritz	[TXQueueLen, MTU "Jumbo Frames"] 	
+1315487182	127.0.0.1	e	hoster:experience	moritz	[Axigy (US)] 	
+1315487556	127.0.0.1	e	setup:server	moritz	[Local DNS server] 	

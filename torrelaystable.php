@@ -24,17 +24,18 @@
  </tr>
  <tr>
   <td colspan="4"><font color="green"><b>Funded for 6 months thanks to <a href="http://www.accessnow.org/" rel="external">Access Now</a></b></font> with NForce Entertainment in the Netherlands.
-  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=24B1F63F7DF9F85D711864811CC401BE5EB5FB9A">lumumba</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Patrice_Lumumba">Patrice Lumumba</a>.
+  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=24B1F63F7DF9F85D711864811CC401BE5EB5FB9A">rockhall</a>: thanks to our sponsor <a href="http://rockhall.co.uk/">Rockhall Ltd</a>!
   <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=7DCB5313B9541DD29C94BFDE0ADF91DC91D2CFE9">politkovskaja</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Anna_Politkovskaja">Anna Politkovskaja</a>.
   </p></td>
  </tr>
  <tr> 
-  <td class="us" title="USA"><a href="https://www.torservers.net/wiki/hoster/experience#axigy_us">manning</a></td><td>313 mbit/s</td><td>&nbsp;</td><td>many</td>
+  <td class="us" title="USA"><a href="https://www.torservers.net/wiki/hoster/experience#axigy_us">axigy</a></td><td>313 mbit/s</td><td>&nbsp;</td><td>many</td>
  </tr>
  <tr>
   <td colspan="4"><font color="green"><b>Funded for 6 months thanks to <a href="http://www.accessnow.org/" rel="external">Access Now</a></b></font> with Axigy in the US.
-  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=413681532DCD4598E96E31ADDC9812EC08DA9990">manning</a>: in support of <a href="http://www.salon.com/news/opinion/glenn_greenwald/2010/12/14/manning/">Bradley Manning</a>.
-  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=ED0CE506E6D487738E257E1ADCB8B92FF530DAFB">saeed</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Death_of_Khaled_Mohamed_Saeed">Khaled Mohamed Saeed</a>.
+  <p><a href="https://torstatus.blutmagie.de/router_detail.php?FP=5B1023164111035268B2EA2AE99644DAADA11D45">manning</a>: in support of <a href="http://www.salon.com/news/opinion/glenn_greenwald/2010/12/14/manning/">Bradley Manning</a>.
+  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=01480A4105D1DFBC39D6B69C3597B4D4112A7023">saeed</a>: in memoriam of <a href="http://en.wikipedia.org/wiki/Death_of_Khaled_Mohamed_Saeed">Khaled Mohamed Saeed</a>.
+  <br/><a href="https://torstatus.blutmagie.de/router_detail.php?FP=60A538969766616B860A243C89D512817FD296DA">hazare</a>: in support of <a href="http://en.wikipedia.org/wiki/Kisan_Baburao_Hazare">Anna Hazare</a>.
   </td>
  </tr>
  <tr> 
@@ -44,6 +45,12 @@
   <td colspan="4">
    A relay in Kansas, courtesy of <a href="http://www.codero.com/" rel="external">codero.com</a>. Under testing, policy will be extended soon. Named in memoriam of <a href="http://en.wikipedia.org/wiki/Wau_Holland">Wau Holland</a>, a founder of the <a href="http://en.wikipedia.org/wiki/Chaos_Computer_Club">Chaos Computer Club</a>.<br/>
   </td>
+ </tr>
+ <tr> 
+  <td class="us" title="USA"><a href="http://bouazizi.torservers.net/">bouazizi</a></td><td>100 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=67FD1D03F922975269F94EC7E4FD38C6D0E5E900" rel="external">67FD 1D03 F922 9752 69F9 4EC7 E4FD 38C6 D0E5 E900</a></td><td>many</td>
+ </tr>
+ <tr>
+  <td colspan="4">A relay in New York, courtesy of <a href="http://www.defaultroute.net/" rel="external">Mike Sawicki at DefaultRoute</a>. Named in memoriam of <a href="http://en.wikipedia.org/wiki/Mohamed_Bouazizi">Mohamed Bouazizi</a>.</td>
  </tr>
  <tr> 
   <td class="us" title="USA"><a href="http://raskin.torservers.net/">raskin</a></td><td>100 mbit/s</td><td><a href="https://torstatus.blutmagie.de/router_detail.php?FP=4186509C707E96B77B51A76F8294D7E22FF52C61" rel="external">4186 509C 707E 96B7 7B51 A76F 8294 D7E2 2FF5 2C61</a></td><td>many</td>

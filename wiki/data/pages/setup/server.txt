@@ -187,8 +187,7 @@ If you still run Debian Lenny, vnstati is not in the default repository. You can
 
   * we use unbound, a local caching DNS server
   * for optimizations, see [[http://www.unbound.net/documentation/howto_optimise.html]]; we don't use any of them at the moment, it just works fine out of the box
-
-This sets up a DNS that uses root servers only (not recommended; please improve):
+  * many people use Google DNS, and it is indeed among the best choices of free DNS. do not use openDNS or other DNS providers that filter DNS requests
 
 <code>
 apt-get install unbound

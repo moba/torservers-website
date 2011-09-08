@@ -4,9 +4,9 @@ We are running and did run Tor exit nodes at different Providers and Datacenters
 http://www.axigy.com/
 
 <code>
-Intel Core i5-2500 3.3Ghz
+E3-1230
 8 GB DDR3 RAM
-1 TB Enterprise SATA
+500 GB SATA
 100 TB Premium Bandwidth on gigE (Free Incoming)
 6 IP Addresses with 24/7 KVM
 
@@ -15,6 +15,7 @@ $210.00/m</code>
   * 03.04.2011: very friendly and understanding, ordered ("Great, I like what you're doing to help those countries with respective governments. In response to Abuse, we are very understanding, complaints are actually forwarded automatically in the event we receive any from your range.")
   * 29.04.2011: CEO contacted me. Datacenter is being closed, very friendly, offered to move us to different DC or help us find another ISP. Chatted a while about stuff.
   * 07.05.2011: new server, better specs, a bit more expensive ($210 vs. $199 before)
+  * 08.09.2011: new server
 
 ====== EUserv (DE) ======
 https://ssl.euserv.de/produkte/specials/spring-server2008.php
