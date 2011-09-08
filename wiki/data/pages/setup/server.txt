@@ -97,9 +97,8 @@ dpkg-reconfigure exim4-config
 echo 'deb     http://deb.torproject.org/torproject.org squeeze main' >> /etc/apt/sources.list
 echo 'deb     http://deb.torproject.org/torproject.org experimental-squeeze main' >> /etc/apt/sources.list
 vi /etc/apt/sources.list # remove the cdrom line(s)
-gpg --keyserver keys.gnupg.net --recv 886DDD89
-# if down use: gpg --keyserver keyserver.ubuntu.com --recv 886DDD89
-gpg --export A3C4F0F979CAA22CDBA8F512EE8CBC9E886DDD89 | sudo apt-key add -
+apt-key adv --recv-keys --keyserver keys.gnupg.net 886DDD89
+# if down use eg. keyserver.ubuntu.com
 aptitude update
 </code>
 
@@ -109,7 +108,7 @@ aptitude install tor tor-geoipdb
 /etc/init.d/tor stop
 cd /etc/tor
 hg init
-mv torrc torrc.dist
+rm *
 wget http://www.torservers.net/misc/config/torrc
 vi torrc
 # change nickname, address/outboundbindaddress/orlistenaddress
@@ -275,10 +274,11 @@ Set MaxBandwidth to line maximum, eg. for GBit:
 
 ===== TXQueueLen, MTU "Jumbo Frames" =====
 
+Might be useful in some cases. Only optimize when you need to!
+
 <code>
 # remove "exit" from rc.local, then
 echo 'ifconfig eth0 txqueuelen 20000' >> /etc/rc.local
-[has this been tested?  see "bufferbloat" at http://www.cyberciti.biz/faq/gentoo-centos-rhel-debian-fedora-increasing-txqueuelen/]
 ifconfig eth0 mtu 9000
 # to make permanent, add "mtu 9000" to /etc/network/interfaces
 </code>

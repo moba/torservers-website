@@ -33,3 +33,6 @@
 1313591669	127.0.0.1	E	setup:server			
 1315183090	127.0.0.1	e	setup:server	moritz	[Multiple Tor Processes] 	
 1315202942	127.0.0.1	e	setup:server	moritz	ntp instead of openntpd	
+1315485671	127.0.0.1	e	setup:server	moritz	apt-key	
+1315485840	127.0.0.1	e	setup:server	moritz	[setup] 	
+1315486555	127.0.0.1	e	setup:server	moritz	[TXQueueLen, MTU "Jumbo Frames"] 	
