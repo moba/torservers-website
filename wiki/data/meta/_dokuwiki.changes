@@ -18,3 +18,5 @@
 1315486555	127.0.0.1	e	setup:server	moritz	[TXQueueLen, MTU "Jumbo Frames"] 	
 1315487182	127.0.0.1	e	hoster:experience	moritz	[Axigy (US)] 	
 1315487556	127.0.0.1	e	setup:server	moritz	[Local DNS server] 	
+1316003638	127.0.0.1	E	setup:webserver	moritz	mirrors	
+1316004375	127.0.0.1	e	setup:webserver	moritz	[Mirrors -> crontab] 	

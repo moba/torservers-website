@@ -92,3 +92,53 @@ crontab -e -u www-data
 <code>
 */30 * * * * cd /var/www/torservers/ && /usr/bin/git add . && /usr/bin/git commit -am 'Automatic backup' && /usr/bin/git push -u origin master >/dev/null 2>&1 ;fi
 </code>
+
+===== Mirrors =====
+
+<code>adduser tormirror
+crontab -e -u tormirror</code>
+
+==== /var/www/mirrors/createinnocentmirror.sh ====
+
+<code>
+#!/bin/bash
+
+## CREATE AN 'INNOCENT MIRROR' OF TOR BINARIES
+##
+## very quick and dirty script that creates symbolic links to dist/ files
+## to stop simple url blacklisting of Tor downloads
+##
+## this is something NOT encouraged by torproject.org
+## because downloaders can easily be tricked in installing something
+## shady. the official way to get tor if download is blocked
+## is the "gettor" command using email
+##
+## make sure potential downloaders use signature verification!
+
+DIST="/var/www/mirrors/torproject.org/dist"
+TARGET="/var/www/zwiebelfreunde/downloads"
+
+rm -rf $TARGET/browser/*
+cp -rs $DIST/torbrowser/* $TARGET/browser/
+rename 's/tor-browser/setup/gi;' `find $TARGET/browser/ -type d`
+rename 's/tor-browser/setup/gi;' `find $TARGET/browser/ -type l`
+rename 's/torbrowser/setup/gi;' `find $TARGET/browser/`
+
+rm -rf $TARGET/gui/*
+cp -rs $DIST/vidalia-bundles/* $TARGET/gui/
+rename 's/vidalia/setup/gi;' `find $TARGET/gui/ -type d`
+rename 's/vidalia/setup/gi;' `find $TARGET/gui/ -type l`
+
+rm -rf $TARGET/standalone/*
+cp -rs $DIST/win32/* $TARGET/standalone/
+rename 's/tor/setup/gi;' `find $TARGET/standalone/ -type d`
+rename 's/tor/setup/gi;' `find $TARGET/standalone/ -type l`
+</code>
+
+==== crontab ====
+
+<code>24 */6 * * * rsync -aq --delete rsync://rsync.torproject.org/tor/ /var/www/mirrors/torproject.org/
+50 */6 * * * /var/www/mirrors/createtorrents.sh
+50 */6 * * * /var/www/mirrors/createinnocentmirror.sh
+23 2 * * * rsync -r archive.torproject.org::amnesia-archive /var/www/mirrors/tails/
+0 5 1 * * wget -q -O /var/www/mirrors/relays-monthly-snapshots.csv -T 4000 https://metrics.torproject.org/csv/relays-monthly-snapshots.csv</code>
